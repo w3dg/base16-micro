@@ -3,6 +3,24 @@
 [Base16] Color Template for [Micro]. This template can be used with any
 compliant Base16 builder.
 
+## Usage
+
+Build the theme files using any Base16-compliant builder. The file's extension
+should be `.micro`. Put the built files in the `~/.config/micro/colorschemes/`
+directory. After this, you can set the scheme by using Micro's command-line:
+
+```
+set colorscheme <SCHEME_NAME>
+```
+
+or by modifying Micro's config file:
+
+```json
+{
+    "colorscheme": "<SCHEME_NAME>"
+}
+```
+
 ## Licence
 
 © 2023 [Nikita Karamov]\
