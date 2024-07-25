@@ -28,8 +28,8 @@ Licensed under the [ISC License].
 
 ---
 
-This project is hosted on Codeberg:
-<https://codeberg.org/kytta/base16-micro.git>
+This project is hosted on GitHub:
+<https://github.com/kytta/base16-micro.git>
 
 [base16]: https://github.com/chriskempson/base16
 [isc license]: https://spdx.org/licenses/ISC.html
