@@ -1,0 +1,44 @@
+# Base16 Atelier Heath Light - micro color scheme
+# Scheme by Bram de Haan (http://atelierbramdehaan.nl)
+
+color-link default "#695d69,#f7f3f7"
+
+color-link comment "#9e8f9e"
+
+color-link constant "#a65926"
+color-link constant.specialChar "#cc33cc"
+color-link constant.string "#918b3b"
+
+color-link identifier "#ca402b"
+color-link identifier.class "#bb8a35"
+
+color-link preproc "#bb8a35"
+
+color-link special "#159393"
+
+color-link statement "#ca402b"
+
+color-link symbol.operator "#695d69"
+color-link symbol.tag "#695d69"
+
+color-link type "#bb8a35"
+
+color-link underlined "#ca402b"
+
+color-link error "bold #f7f3f7,#ca402b"
+color-link todo "bold #bb8a35,#d8cad8"
+color-link hlsearch "#d8cad8,#bb8a35"
+color-link statusline "#776977,#ab9bab"
+color-link tabbar "#9e8f9e,#d8cad8"
+color-link indent-char "#9e8f9e"
+color-link line-number "#9e8f9e,#d8cad8"
+color-link current-line-number "#776977,#d8cad8"
+
+color-link diff-added "#918b3b,#d8cad8"
+color-link diff-modified "#9e8f9e,#d8cad8"
+color-link diff-deleted "#ca402b,#d8cad8"
+color-link gutter-error "#ca402b,#d8cad8"
+color-link gutter-warning "#516aec,#d8cad8"
+
+color-link cursor-line "#d8cad8"
+color-link color-column "#d8cad8"

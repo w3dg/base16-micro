@@ -1,0 +1,44 @@
+# Base16 Spaceduck - micro color scheme
+# Scheme by Guillermo Rodriguez (https://github.com/pineapplegiant), packaged by Gabriel Fontes (https://github.com/Misterio77)
+
+color-link default "#ecf0c1,#16172d"
+
+color-link comment "#686f9a"
+
+color-link constant "#e39400"
+color-link constant.specialChar "#ce6f8f"
+color-link constant.string "#5ccc96"
+
+color-link identifier "#e33400"
+color-link identifier.class "#f2ce00"
+
+color-link preproc "#f2ce00"
+
+color-link special "#00a3cc"
+
+color-link statement "#e33400"
+
+color-link symbol.operator "#ecf0c1"
+color-link symbol.tag "#ecf0c1"
+
+color-link type "#f2ce00"
+
+color-link underlined "#e33400"
+
+color-link error "bold #16172d,#e33400"
+color-link todo "bold #f2ce00,#1b1c36"
+color-link hlsearch "#1b1c36,#f2ce00"
+color-link statusline "#818596,#30365f"
+color-link tabbar "#686f9a,#1b1c36"
+color-link indent-char "#686f9a"
+color-link line-number "#686f9a,#1b1c36"
+color-link current-line-number "#818596,#1b1c36"
+
+color-link diff-added "#5ccc96,#1b1c36"
+color-link diff-modified "#686f9a,#1b1c36"
+color-link diff-deleted "#e33400,#1b1c36"
+color-link gutter-error "#e33400,#1b1c36"
+color-link gutter-warning "#7a5ccc,#1b1c36"
+
+color-link cursor-line "#1b1c36"
+color-link color-column "#1b1c36"

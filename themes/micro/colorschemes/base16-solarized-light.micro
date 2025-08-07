@@ -1,0 +1,44 @@
+# Base16 Solarized Light - micro color scheme
+# Scheme by Ethan Schoonover (modified by aramisgithub)
+
+color-link default "#586e75,#fdf6e3"
+
+color-link comment "#839496"
+
+color-link constant "#cb4b16"
+color-link constant.specialChar "#d33682"
+color-link constant.string "#859900"
+
+color-link identifier "#dc322f"
+color-link identifier.class "#b58900"
+
+color-link preproc "#b58900"
+
+color-link special "#2aa198"
+
+color-link statement "#dc322f"
+
+color-link symbol.operator "#586e75"
+color-link symbol.tag "#586e75"
+
+color-link type "#b58900"
+
+color-link underlined "#dc322f"
+
+color-link error "bold #fdf6e3,#dc322f"
+color-link todo "bold #b58900,#eee8d5"
+color-link hlsearch "#eee8d5,#b58900"
+color-link statusline "#657b83,#93a1a1"
+color-link tabbar "#839496,#eee8d5"
+color-link indent-char "#839496"
+color-link line-number "#839496,#eee8d5"
+color-link current-line-number "#657b83,#eee8d5"
+
+color-link diff-added "#859900,#eee8d5"
+color-link diff-modified "#839496,#eee8d5"
+color-link diff-deleted "#dc322f,#eee8d5"
+color-link gutter-error "#dc322f,#eee8d5"
+color-link gutter-warning "#268bd2,#eee8d5"
+
+color-link cursor-line "#eee8d5"
+color-link color-column "#eee8d5"

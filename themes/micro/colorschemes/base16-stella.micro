@@ -1,0 +1,44 @@
+# Base16 Stella - micro color scheme
+# Scheme by Shrimpram
+
+color-link default "#998bad,#2b213c"
+
+color-link comment "#655978"
+
+color-link constant "#8865c6"
+color-link constant.specialChar "#c7ab87"
+color-link constant.string "#acc79b"
+
+color-link identifier "#c79987"
+color-link identifier.class "#c7c691"
+
+color-link preproc "#c7c691"
+
+color-link special "#9bc7bf"
+
+color-link statement "#c79987"
+
+color-link symbol.operator "#998bad"
+color-link symbol.tag "#998bad"
+
+color-link type "#c7c691"
+
+color-link underlined "#c79987"
+
+color-link error "bold #2b213c,#c79987"
+color-link todo "bold #c7c691,#362b48"
+color-link hlsearch "#362b48,#c7c691"
+color-link statusline "#7f7192,#4d4160"
+color-link tabbar "#655978,#362b48"
+color-link indent-char "#655978"
+color-link line-number "#655978,#362b48"
+color-link current-line-number "#7f7192,#362b48"
+
+color-link diff-added "#acc79b,#362b48"
+color-link diff-modified "#655978,#362b48"
+color-link diff-deleted "#c79987,#362b48"
+color-link gutter-error "#c79987,#362b48"
+color-link gutter-warning "#a5aad4,#362b48"
+
+color-link cursor-line "#362b48"
+color-link color-column "#362b48"

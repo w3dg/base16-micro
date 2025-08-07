@@ -1,0 +1,44 @@
+# Base16 Atelier Seaside Light - micro color scheme
+# Scheme by Bram de Haan (http://atelierbramdehaan.nl)
+
+color-link default "#5e6e5e,#f4fbf4"
+
+color-link comment "#809980"
+
+color-link constant "#87711d"
+color-link constant.specialChar "#e619c3"
+color-link constant.string "#29a329"
+
+color-link identifier "#e6193c"
+color-link identifier.class "#98981b"
+
+color-link preproc "#98981b"
+
+color-link special "#1999b3"
+
+color-link statement "#e6193c"
+
+color-link symbol.operator "#5e6e5e"
+color-link symbol.tag "#5e6e5e"
+
+color-link type "#98981b"
+
+color-link underlined "#e6193c"
+
+color-link error "bold #f4fbf4,#e6193c"
+color-link todo "bold #98981b,#cfe8cf"
+color-link hlsearch "#cfe8cf,#98981b"
+color-link statusline "#687d68,#8ca68c"
+color-link tabbar "#809980,#cfe8cf"
+color-link indent-char "#809980"
+color-link line-number "#809980,#cfe8cf"
+color-link current-line-number "#687d68,#cfe8cf"
+
+color-link diff-added "#29a329,#cfe8cf"
+color-link diff-modified "#809980,#cfe8cf"
+color-link diff-deleted "#e6193c,#cfe8cf"
+color-link gutter-error "#e6193c,#cfe8cf"
+color-link gutter-warning "#3d62f5,#cfe8cf"
+
+color-link cursor-line "#cfe8cf"
+color-link color-column "#cfe8cf"

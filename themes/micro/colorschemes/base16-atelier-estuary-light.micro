@@ -1,0 +1,44 @@
+# Base16 Atelier Estuary Light - micro color scheme
+# Scheme by Bram de Haan (http://atelierbramdehaan.nl)
+
+color-link default "#5f5e4e,#f4f3ec"
+
+color-link comment "#878573"
+
+color-link constant "#ae7313"
+color-link constant.specialChar "#9d6c7c"
+color-link constant.string "#7d9726"
+
+color-link identifier "#ba6236"
+color-link identifier.class "#a5980d"
+
+color-link preproc "#a5980d"
+
+color-link special "#5b9d48"
+
+color-link statement "#ba6236"
+
+color-link symbol.operator "#5f5e4e"
+color-link symbol.tag "#5f5e4e"
+
+color-link type "#a5980d"
+
+color-link underlined "#ba6236"
+
+color-link error "bold #f4f3ec,#ba6236"
+color-link todo "bold #a5980d,#e7e6df"
+color-link hlsearch "#e7e6df,#a5980d"
+color-link statusline "#6c6b5a,#929181"
+color-link tabbar "#878573,#e7e6df"
+color-link indent-char "#878573"
+color-link line-number "#878573,#e7e6df"
+color-link current-line-number "#6c6b5a,#e7e6df"
+
+color-link diff-added "#7d9726,#e7e6df"
+color-link diff-modified "#878573,#e7e6df"
+color-link diff-deleted "#ba6236,#e7e6df"
+color-link gutter-error "#ba6236,#e7e6df"
+color-link gutter-warning "#36a166,#e7e6df"
+
+color-link cursor-line "#e7e6df"
+color-link color-column "#e7e6df"

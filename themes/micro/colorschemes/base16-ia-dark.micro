@@ -1,0 +1,44 @@
+# Base16 iA Dark - micro color scheme
+# Scheme by iA Inc. (modified by aramisgithub)
+
+color-link default "#cccccc,#1a1a1a"
+
+color-link comment "#767676"
+
+color-link constant "#d86868"
+color-link constant.specialChar "#8b6c37"
+color-link constant.string "#83a471"
+
+color-link identifier "#d88568"
+color-link identifier.class "#b99353"
+
+color-link preproc "#b99353"
+
+color-link special "#7c9cae"
+
+color-link statement "#d88568"
+
+color-link symbol.operator "#cccccc"
+color-link symbol.tag "#cccccc"
+
+color-link type "#b99353"
+
+color-link underlined "#d88568"
+
+color-link error "bold #1a1a1a,#d88568"
+color-link todo "bold #b99353,#222222"
+color-link hlsearch "#222222,#b99353"
+color-link statusline "#b8b8b8,#1d414d"
+color-link tabbar "#767676,#222222"
+color-link indent-char "#767676"
+color-link line-number "#767676,#222222"
+color-link current-line-number "#b8b8b8,#222222"
+
+color-link diff-added "#83a471,#222222"
+color-link diff-modified "#767676,#222222"
+color-link diff-deleted "#d88568,#222222"
+color-link gutter-error "#d88568,#222222"
+color-link gutter-warning "#8eccdd,#222222"
+
+color-link cursor-line "#222222"
+color-link color-column "#222222"

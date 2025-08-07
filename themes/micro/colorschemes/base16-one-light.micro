@@ -1,0 +1,44 @@
+# Base16 One Light - micro color scheme
+# Scheme by Daniel Pfeifer (http://github.com/purpleKarrot)
+
+color-link default "#383a42,#fafafa"
+
+color-link comment "#a0a1a7"
+
+color-link constant "#d75f00"
+color-link constant.specialChar "#986801"
+color-link constant.string "#50a14f"
+
+color-link identifier "#ca1243"
+color-link identifier.class "#c18401"
+
+color-link preproc "#c18401"
+
+color-link special "#0184bc"
+
+color-link statement "#ca1243"
+
+color-link symbol.operator "#383a42"
+color-link symbol.tag "#383a42"
+
+color-link type "#c18401"
+
+color-link underlined "#ca1243"
+
+color-link error "bold #fafafa,#ca1243"
+color-link todo "bold #c18401,#f0f0f1"
+color-link hlsearch "#f0f0f1,#c18401"
+color-link statusline "#696c77,#e5e5e6"
+color-link tabbar "#a0a1a7,#f0f0f1"
+color-link indent-char "#a0a1a7"
+color-link line-number "#a0a1a7,#f0f0f1"
+color-link current-line-number "#696c77,#f0f0f1"
+
+color-link diff-added "#50a14f,#f0f0f1"
+color-link diff-modified "#a0a1a7,#f0f0f1"
+color-link diff-deleted "#ca1243,#f0f0f1"
+color-link gutter-error "#ca1243,#f0f0f1"
+color-link gutter-warning "#4078f2,#f0f0f1"
+
+color-link cursor-line "#f0f0f1"
+color-link color-column "#f0f0f1"

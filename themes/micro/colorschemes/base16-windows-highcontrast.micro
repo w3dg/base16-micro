@@ -1,0 +1,44 @@
+# Base16 Windows High Contrast - micro color scheme
+# Scheme by Fergus Collins (https://github.com/ferguscollins)
+
+color-link default "#c0c0c0,#000000"
+
+color-link comment "#545454"
+
+color-link constant "#808000"
+color-link constant.specialChar "#008000"
+color-link constant.string "#54fc54"
+
+color-link identifier "#fc5454"
+color-link identifier.class "#fcfc54"
+
+color-link preproc "#fcfc54"
+
+color-link special "#54fcfc"
+
+color-link statement "#fc5454"
+
+color-link symbol.operator "#c0c0c0"
+color-link symbol.tag "#c0c0c0"
+
+color-link type "#fcfc54"
+
+color-link underlined "#fc5454"
+
+color-link error "bold #000000,#fc5454"
+color-link todo "bold #fcfc54,#1c1c1c"
+color-link hlsearch "#1c1c1c,#fcfc54"
+color-link statusline "#a2a2a2,#383838"
+color-link tabbar "#545454,#1c1c1c"
+color-link indent-char "#545454"
+color-link line-number "#545454,#1c1c1c"
+color-link current-line-number "#a2a2a2,#1c1c1c"
+
+color-link diff-added "#54fc54,#1c1c1c"
+color-link diff-modified "#545454,#1c1c1c"
+color-link diff-deleted "#fc5454,#1c1c1c"
+color-link gutter-error "#fc5454,#1c1c1c"
+color-link gutter-warning "#5454fc,#1c1c1c"
+
+color-link cursor-line "#1c1c1c"
+color-link color-column "#1c1c1c"

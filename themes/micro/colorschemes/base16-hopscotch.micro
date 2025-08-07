@@ -1,0 +1,44 @@
+# Base16 Hopscotch - micro color scheme
+# Scheme by Jan T. Sott
+
+color-link default "#b9b5b8,#322931"
+
+color-link comment "#797379"
+
+color-link constant "#fd8b19"
+color-link constant.specialChar "#b33508"
+color-link constant.string "#8fc13e"
+
+color-link identifier "#dd464c"
+color-link identifier.class "#fdcc59"
+
+color-link preproc "#fdcc59"
+
+color-link special "#149b93"
+
+color-link statement "#dd464c"
+
+color-link symbol.operator "#b9b5b8"
+color-link symbol.tag "#b9b5b8"
+
+color-link type "#fdcc59"
+
+color-link underlined "#dd464c"
+
+color-link error "bold #322931,#dd464c"
+color-link todo "bold #fdcc59,#433b42"
+color-link hlsearch "#433b42,#fdcc59"
+color-link statusline "#989498,#5c545b"
+color-link tabbar "#797379,#433b42"
+color-link indent-char "#797379"
+color-link line-number "#797379,#433b42"
+color-link current-line-number "#989498,#433b42"
+
+color-link diff-added "#8fc13e,#433b42"
+color-link diff-modified "#797379,#433b42"
+color-link diff-deleted "#dd464c,#433b42"
+color-link gutter-error "#dd464c,#433b42"
+color-link gutter-warning "#1290bf,#433b42"
+
+color-link cursor-line "#433b42"
+color-link color-column "#433b42"

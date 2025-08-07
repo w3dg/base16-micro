@@ -1,0 +1,44 @@
+# Base16 Windows 10 - micro color scheme
+# Scheme by Fergus Collins (https://github.com/ferguscollins)
+
+color-link default "#cccccc,#0c0c0c"
+
+color-link comment "#767676"
+
+color-link constant "#c19c00"
+color-link constant.specialChar "#13a10e"
+color-link constant.string "#16c60c"
+
+color-link identifier "#e74856"
+color-link identifier.class "#f9f1a5"
+
+color-link preproc "#f9f1a5"
+
+color-link special "#61d6d6"
+
+color-link statement "#e74856"
+
+color-link symbol.operator "#cccccc"
+color-link symbol.tag "#cccccc"
+
+color-link type "#f9f1a5"
+
+color-link underlined "#e74856"
+
+color-link error "bold #0c0c0c,#e74856"
+color-link todo "bold #f9f1a5,#2f2f2f"
+color-link hlsearch "#2f2f2f,#f9f1a5"
+color-link statusline "#b9b9b9,#535353"
+color-link tabbar "#767676,#2f2f2f"
+color-link indent-char "#767676"
+color-link line-number "#767676,#2f2f2f"
+color-link current-line-number "#b9b9b9,#2f2f2f"
+
+color-link diff-added "#16c60c,#2f2f2f"
+color-link diff-modified "#767676,#2f2f2f"
+color-link diff-deleted "#e74856,#2f2f2f"
+color-link gutter-error "#e74856,#2f2f2f"
+color-link gutter-warning "#3b78ff,#2f2f2f"
+
+color-link cursor-line "#2f2f2f"
+color-link color-column "#2f2f2f"

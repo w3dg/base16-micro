@@ -1,0 +1,44 @@
+# Base16 Tokyo Night Terminal Light - micro color scheme
+# Scheme by Michaël Ball
+
+color-link default "#4c505e,#d5d6db"
+
+color-link comment "#9699a3"
+
+color-link constant "#965027"
+color-link constant.specialChar "#655259"
+color-link constant.string "#33635c"
+
+color-link identifier "#8c4351"
+color-link identifier.class "#8f5e15"
+
+color-link preproc "#8f5e15"
+
+color-link special "#0f4b6e"
+
+color-link statement "#8c4351"
+
+color-link symbol.operator "#4c505e"
+color-link symbol.tag "#4c505e"
+
+color-link type "#8f5e15"
+
+color-link underlined "#8c4351"
+
+color-link error "bold #d5d6db,#8c4351"
+color-link todo "bold #8f5e15,#cbccd1"
+color-link hlsearch "#cbccd1,#8f5e15"
+color-link statusline "#4c505e,#dfe0e5"
+color-link tabbar "#9699a3,#cbccd1"
+color-link indent-char "#9699a3"
+color-link line-number "#9699a3,#cbccd1"
+color-link current-line-number "#4c505e,#cbccd1"
+
+color-link diff-added "#33635c,#cbccd1"
+color-link diff-modified "#9699a3,#cbccd1"
+color-link diff-deleted "#8c4351,#cbccd1"
+color-link gutter-error "#8c4351,#cbccd1"
+color-link gutter-warning "#34548a,#cbccd1"
+
+color-link cursor-line "#cbccd1"
+color-link color-column "#cbccd1"

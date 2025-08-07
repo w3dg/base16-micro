@@ -1,0 +1,44 @@
+# Base16 Oxocarbon Dark - micro color scheme
+# Scheme by shaunsingh/IBM
+
+color-link default "#f2f4f8,#161616"
+
+color-link comment "#525252"
+
+color-link constant "#78a9ff"
+color-link constant.specialChar "#82cfff"
+color-link constant.string "#33b1ff"
+
+color-link identifier "#3ddbd9"
+color-link identifier.class "#ee5396"
+
+color-link preproc "#ee5396"
+
+color-link special "#ff7eb6"
+
+color-link statement "#3ddbd9"
+
+color-link symbol.operator "#f2f4f8"
+color-link symbol.tag "#f2f4f8"
+
+color-link type "#ee5396"
+
+color-link underlined "#3ddbd9"
+
+color-link error "bold #161616,#3ddbd9"
+color-link todo "bold #ee5396,#262626"
+color-link hlsearch "#262626,#ee5396"
+color-link statusline "#dde1e6,#393939"
+color-link tabbar "#525252,#262626"
+color-link indent-char "#525252"
+color-link line-number "#525252,#262626"
+color-link current-line-number "#dde1e6,#262626"
+
+color-link diff-added "#33b1ff,#262626"
+color-link diff-modified "#525252,#262626"
+color-link diff-deleted "#3ddbd9,#262626"
+color-link gutter-error "#3ddbd9,#262626"
+color-link gutter-warning "#42be65,#262626"
+
+color-link cursor-line "#262626"
+color-link color-column "#262626"

@@ -1,0 +1,44 @@
+# Base16 Penumbra Dark - micro color scheme
+# Scheme by Zachary Weiss (https://github.com/zacharyweiss)
+
+color-link default "#bebebe,#24272b"
+
+color-link comment "#636363"
+
+color-link constant "#ba823a"
+color-link constant.specialChar "#bc73a4"
+color-link constant.string "#47a477"
+
+color-link identifier "#ca736c"
+color-link identifier.class "#8d9741"
+
+color-link preproc "#8d9741"
+
+color-link special "#00a2af"
+
+color-link statement "#ca736c"
+
+color-link symbol.operator "#bebebe"
+color-link symbol.tag "#bebebe"
+
+color-link type "#8d9741"
+
+color-link underlined "#ca736c"
+
+color-link error "bold #24272b,#ca736c"
+color-link todo "bold #8d9741,#303338"
+color-link hlsearch "#303338,#8d9741"
+color-link statusline "#8f8f8f,#3e4044"
+color-link tabbar "#636363,#303338"
+color-link indent-char "#636363"
+color-link line-number "#636363,#303338"
+color-link current-line-number "#8f8f8f,#303338"
+
+color-link diff-added "#47a477,#303338"
+color-link diff-modified "#636363,#303338"
+color-link diff-deleted "#ca736c,#303338"
+color-link gutter-error "#ca736c,#303338"
+color-link gutter-warning "#5794d0,#303338"
+
+color-link cursor-line "#303338"
+color-link color-column "#303338"

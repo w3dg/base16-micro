@@ -1,0 +1,44 @@
+# Base16 Atelier Lakeside Light - micro color scheme
+# Scheme by Bram de Haan (http://atelierbramdehaan.nl)
+
+color-link default "#516d7b,#ebf8ff"
+
+color-link comment "#7195a8"
+
+color-link constant "#935c25"
+color-link constant.specialChar "#b72dd2"
+color-link constant.string "#568c3b"
+
+color-link identifier "#d22d72"
+color-link identifier.class "#8a8a0f"
+
+color-link preproc "#8a8a0f"
+
+color-link special "#2d8f6f"
+
+color-link statement "#d22d72"
+
+color-link symbol.operator "#516d7b"
+color-link symbol.tag "#516d7b"
+
+color-link type "#8a8a0f"
+
+color-link underlined "#d22d72"
+
+color-link error "bold #ebf8ff,#d22d72"
+color-link todo "bold #8a8a0f,#c1e4f6"
+color-link hlsearch "#c1e4f6,#8a8a0f"
+color-link statusline "#5a7b8c,#7ea2b4"
+color-link tabbar "#7195a8,#c1e4f6"
+color-link indent-char "#7195a8"
+color-link line-number "#7195a8,#c1e4f6"
+color-link current-line-number "#5a7b8c,#c1e4f6"
+
+color-link diff-added "#568c3b,#c1e4f6"
+color-link diff-modified "#7195a8,#c1e4f6"
+color-link diff-deleted "#d22d72,#c1e4f6"
+color-link gutter-error "#d22d72,#c1e4f6"
+color-link gutter-warning "#257fad,#c1e4f6"
+
+color-link cursor-line "#c1e4f6"
+color-link color-column "#c1e4f6"

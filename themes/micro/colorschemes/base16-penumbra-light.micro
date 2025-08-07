@@ -1,0 +1,44 @@
+# Base16 Penumbra Light - micro color scheme
+# Scheme by Zachary Weiss (https://github.com/zacharyweiss)
+
+color-link default "#636363,#fffdfb"
+
+color-link comment "#bebebe"
+
+color-link constant "#ba823a"
+color-link constant.specialChar "#bc73a4"
+color-link constant.string "#47a477"
+
+color-link identifier "#ca736c"
+color-link identifier.class "#8d9741"
+
+color-link preproc "#8d9741"
+
+color-link special "#00a2af"
+
+color-link statement "#ca736c"
+
+color-link symbol.operator "#636363"
+color-link symbol.tag "#636363"
+
+color-link type "#8d9741"
+
+color-link underlined "#ca736c"
+
+color-link error "bold #fffdfb,#ca736c"
+color-link todo "bold #8d9741,#fff7ed"
+color-link hlsearch "#fff7ed,#8d9741"
+color-link statusline "#8f8f8f,#f2e6d4"
+color-link tabbar "#bebebe,#fff7ed"
+color-link indent-char "#bebebe"
+color-link line-number "#bebebe,#fff7ed"
+color-link current-line-number "#8f8f8f,#fff7ed"
+
+color-link diff-added "#47a477,#fff7ed"
+color-link diff-modified "#bebebe,#fff7ed"
+color-link diff-deleted "#ca736c,#fff7ed"
+color-link gutter-error "#ca736c,#fff7ed"
+color-link gutter-warning "#5794d0,#fff7ed"
+
+color-link cursor-line "#fff7ed"
+color-link color-column "#fff7ed"

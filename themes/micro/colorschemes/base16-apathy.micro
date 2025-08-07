@@ -1,0 +1,44 @@
+# Base16 Apathy - micro color scheme
+# Scheme by Jannik Siebert (https://github.com/janniks)
+
+color-link default "#81b5ac,#031a16"
+
+color-link comment "#2b685e"
+
+color-link constant "#3e7996"
+color-link constant.specialChar "#3e965b"
+color-link constant.string "#883e96"
+
+color-link identifier "#3e9688"
+color-link identifier.class "#3e4c96"
+
+color-link preproc "#3e4c96"
+
+color-link special "#963e4c"
+
+color-link statement "#3e9688"
+
+color-link symbol.operator "#81b5ac"
+color-link symbol.tag "#81b5ac"
+
+color-link type "#3e4c96"
+
+color-link underlined "#3e9688"
+
+color-link error "bold #031a16,#3e9688"
+color-link todo "bold #3e4c96,#0b342d"
+color-link hlsearch "#0b342d,#3e4c96"
+color-link statusline "#5f9c92,#184e45"
+color-link tabbar "#2b685e,#0b342d"
+color-link indent-char "#2b685e"
+color-link line-number "#2b685e,#0b342d"
+color-link current-line-number "#5f9c92,#0b342d"
+
+color-link diff-added "#883e96,#0b342d"
+color-link diff-modified "#2b685e,#0b342d"
+color-link diff-deleted "#3e9688,#0b342d"
+color-link gutter-error "#3e9688,#0b342d"
+color-link gutter-warning "#96883e,#0b342d"
+
+color-link cursor-line "#0b342d"
+color-link color-column "#0b342d"

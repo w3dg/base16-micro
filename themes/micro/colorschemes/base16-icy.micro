@@ -1,0 +1,44 @@
+# Base16 Icy Dark - micro color scheme
+# Scheme by icyphox (https://icyphox.ga)
+
+color-link default "#095b67,#021012"
+
+color-link comment "#052e34"
+
+color-link constant "#b3ebf2"
+color-link constant.specialChar "#0097a7"
+color-link constant.string "#4dd0e1"
+
+color-link identifier "#16c1d9"
+color-link identifier.class "#80deea"
+
+color-link preproc "#80deea"
+
+color-link special "#26c6da"
+
+color-link statement "#16c1d9"
+
+color-link symbol.operator "#095b67"
+color-link symbol.tag "#095b67"
+
+color-link type "#80deea"
+
+color-link underlined "#16c1d9"
+
+color-link error "bold #021012,#16c1d9"
+color-link todo "bold #80deea,#031619"
+color-link hlsearch "#031619,#80deea"
+color-link statusline "#064048,#041f23"
+color-link tabbar "#052e34,#031619"
+color-link indent-char "#052e34"
+color-link line-number "#052e34,#031619"
+color-link current-line-number "#064048,#031619"
+
+color-link diff-added "#4dd0e1,#031619"
+color-link diff-modified "#052e34,#031619"
+color-link diff-deleted "#16c1d9,#031619"
+color-link gutter-error "#16c1d9,#031619"
+color-link gutter-warning "#00bcd4,#031619"
+
+color-link cursor-line "#031619"
+color-link color-column "#031619"

@@ -1,0 +1,44 @@
+# Base16 Linux VT - micro color scheme
+# Scheme by j-c-m (https://github.com/j-c-m/)
+
+color-link default "#aaaaaa,#000000"
+
+color-link comment "#555555"
+
+color-link constant "#ff5555"
+color-link constant.specialChar "#aa5500"
+color-link constant.string "#00aa00"
+
+color-link identifier "#aa0000"
+color-link identifier.class "#ffff55"
+
+color-link preproc "#ffff55"
+
+color-link special "#00aaaa"
+
+color-link statement "#aa0000"
+
+color-link symbol.operator "#aaaaaa"
+color-link symbol.tag "#aaaaaa"
+
+color-link type "#ffff55"
+
+color-link underlined "#aa0000"
+
+color-link error "bold #000000,#aa0000"
+color-link todo "bold #ffff55,#333333"
+color-link hlsearch "#333333,#ffff55"
+color-link statusline "#888888,#444444"
+color-link tabbar "#555555,#333333"
+color-link indent-char "#555555"
+color-link line-number "#555555,#333333"
+color-link current-line-number "#888888,#333333"
+
+color-link diff-added "#00aa00,#333333"
+color-link diff-modified "#555555,#333333"
+color-link diff-deleted "#aa0000,#333333"
+color-link gutter-error "#aa0000,#333333"
+color-link gutter-warning "#5555ff,#333333"
+
+color-link cursor-line "#333333"
+color-link color-column "#333333"

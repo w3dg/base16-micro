@@ -1,0 +1,44 @@
+# Base16 Vesper - micro color scheme
+# Scheme by FormalSnake (https://github.com/formalsnake)
+
+color-link default "#b7b7b7,#101010"
+
+color-link comment "#333333"
+
+color-link constant "#dab083"
+color-link constant.specialChar "#876c4f"
+color-link constant.string "#5f8787"
+
+color-link identifier "#de6e6e"
+color-link identifier.class "#ffc799"
+
+color-link preproc "#ffc799"
+
+color-link special "#60a592"
+
+color-link statement "#de6e6e"
+
+color-link symbol.operator "#b7b7b7"
+color-link symbol.tag "#b7b7b7"
+
+color-link type "#ffc799"
+
+color-link underlined "#de6e6e"
+
+color-link error "bold #101010,#de6e6e"
+color-link todo "bold #ffc799,#232323"
+color-link hlsearch "#232323,#ffc799"
+color-link statusline "#999999,#222222"
+color-link tabbar "#333333,#232323"
+color-link indent-char "#333333"
+color-link line-number "#333333,#232323"
+color-link current-line-number "#999999,#232323"
+
+color-link diff-added "#5f8787,#232323"
+color-link diff-modified "#333333,#232323"
+color-link diff-deleted "#de6e6e,#232323"
+color-link gutter-error "#de6e6e,#232323"
+color-link gutter-warning "#8eaaaa,#232323"
+
+color-link cursor-line "#232323"
+color-link color-column "#232323"

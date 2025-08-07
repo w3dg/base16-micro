@@ -1,0 +1,44 @@
+# Base16 Isotope - micro color scheme
+# Scheme by Jan T. Sott
+
+color-link default "#d0d0d0,#000000"
+
+color-link comment "#808080"
+
+color-link constant "#ff9900"
+color-link constant.specialChar "#3300ff"
+color-link constant.string "#33ff00"
+
+color-link identifier "#ff0000"
+color-link identifier.class "#ff0099"
+
+color-link preproc "#ff0099"
+
+color-link special "#00ffff"
+
+color-link statement "#ff0000"
+
+color-link symbol.operator "#d0d0d0"
+color-link symbol.tag "#d0d0d0"
+
+color-link type "#ff0099"
+
+color-link underlined "#ff0000"
+
+color-link error "bold #000000,#ff0000"
+color-link todo "bold #ff0099,#404040"
+color-link hlsearch "#404040,#ff0099"
+color-link statusline "#c0c0c0,#606060"
+color-link tabbar "#808080,#404040"
+color-link indent-char "#808080"
+color-link line-number "#808080,#404040"
+color-link current-line-number "#c0c0c0,#404040"
+
+color-link diff-added "#33ff00,#404040"
+color-link diff-modified "#808080,#404040"
+color-link diff-deleted "#ff0000,#404040"
+color-link gutter-error "#ff0000,#404040"
+color-link gutter-warning "#0066ff,#404040"
+
+color-link cursor-line "#404040"
+color-link color-column "#404040"

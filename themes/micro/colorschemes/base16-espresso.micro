@@ -1,0 +1,44 @@
+# Base16 Espresso - micro color scheme
+# Scheme by Unknown. Maintained by Alex Mirrington (https://github.com/alexmirrington)
+
+color-link default "#cccccc,#2d2d2d"
+
+color-link comment "#777777"
+
+color-link constant "#f9a959"
+color-link constant.specialChar "#f97394"
+color-link constant.string "#a5c261"
+
+color-link identifier "#d25252"
+color-link identifier.class "#ffc66d"
+
+color-link preproc "#ffc66d"
+
+color-link special "#bed6ff"
+
+color-link statement "#d25252"
+
+color-link symbol.operator "#cccccc"
+color-link symbol.tag "#cccccc"
+
+color-link type "#ffc66d"
+
+color-link underlined "#d25252"
+
+color-link error "bold #2d2d2d,#d25252"
+color-link todo "bold #ffc66d,#393939"
+color-link hlsearch "#393939,#ffc66d"
+color-link statusline "#b4b7b4,#515151"
+color-link tabbar "#777777,#393939"
+color-link indent-char "#777777"
+color-link line-number "#777777,#393939"
+color-link current-line-number "#b4b7b4,#393939"
+
+color-link diff-added "#a5c261,#393939"
+color-link diff-modified "#777777,#393939"
+color-link diff-deleted "#d25252,#393939"
+color-link gutter-error "#d25252,#393939"
+color-link gutter-warning "#6c99bb,#393939"
+
+color-link cursor-line "#393939"
+color-link color-column "#393939"

@@ -1,0 +1,44 @@
+# Base16 pandora - micro color scheme
+# Scheme by Cassandra Fox
+
+color-link default "#f15c99,#131213"
+
+color-link comment "#ffbee3"
+
+color-link constant "#ff9153"
+color-link constant.specialChar "#a24030"
+color-link constant.string "#9ddf69"
+
+color-link identifier "#b00b69"
+color-link identifier.class "#ffcc00"
+
+color-link preproc "#ffcc00"
+
+color-link special "#714ca6"
+
+color-link statement "#b00b69"
+
+color-link symbol.operator "#f15c99"
+color-link symbol.tag "#f15c99"
+
+color-link type "#ffcc00"
+
+color-link underlined "#b00b69"
+
+color-link error "bold #131213,#b00b69"
+color-link todo "bold #ffcc00,#2f1823"
+color-link hlsearch "#2f1823,#ffcc00"
+color-link statusline "#9b2a46,#472234"
+color-link tabbar "#ffbee3,#2f1823"
+color-link indent-char "#ffbee3"
+color-link line-number "#ffbee3,#2f1823"
+color-link current-line-number "#9b2a46,#2f1823"
+
+color-link diff-added "#9ddf69,#2f1823"
+color-link diff-modified "#ffbee3,#2f1823"
+color-link diff-deleted "#b00b69,#2f1823"
+color-link gutter-error "#b00b69,#2f1823"
+color-link gutter-warning "#008080,#2f1823"
+
+color-link cursor-line "#2f1823"
+color-link color-column "#2f1823"

@@ -1,0 +1,44 @@
+# Base16 Porple - micro color scheme
+# Scheme by Niek den Breeje (https://github.com/AuditeMarlow)
+
+color-link default "#d8d8d8,#292c36"
+
+color-link comment "#65568a"
+
+color-link constant "#d28e5d"
+color-link constant.specialChar "#986841"
+color-link constant.string "#95c76f"
+
+color-link identifier "#f84547"
+color-link identifier.class "#efa16b"
+
+color-link preproc "#efa16b"
+
+color-link special "#64878f"
+
+color-link statement "#f84547"
+
+color-link symbol.operator "#d8d8d8"
+color-link symbol.tag "#d8d8d8"
+
+color-link type "#efa16b"
+
+color-link underlined "#f84547"
+
+color-link error "bold #292c36,#f84547"
+color-link todo "bold #efa16b,#333344"
+color-link hlsearch "#333344,#efa16b"
+color-link statusline "#b8b8b8,#474160"
+color-link tabbar "#65568a,#333344"
+color-link indent-char "#65568a"
+color-link line-number "#65568a,#333344"
+color-link current-line-number "#b8b8b8,#333344"
+
+color-link diff-added "#95c76f,#333344"
+color-link diff-modified "#65568a,#333344"
+color-link diff-deleted "#f84547,#333344"
+color-link gutter-error "#f84547,#333344"
+color-link gutter-warning "#8485ce,#333344"
+
+color-link cursor-line "#333344"
+color-link color-column "#333344"

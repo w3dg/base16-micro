@@ -1,0 +1,44 @@
+# Base16 lime - micro color scheme
+# Scheme by limelier
+
+color-link default "#818175,#1a1a2f"
+
+color-link comment "#313140"
+
+color-link constant "#ff773a"
+color-link constant.specialChar "#b4d97c"
+color-link constant.string "#8cd97c"
+
+color-link identifier "#ff662a"
+color-link identifier.class "#ffd15e"
+
+color-link preproc "#ffd15e"
+
+color-link special "#4cad83"
+
+color-link statement "#ff662a"
+
+color-link symbol.operator "#818175"
+color-link symbol.tag "#818175"
+
+color-link type "#ffd15e"
+
+color-link underlined "#ff662a"
+
+color-link error "bold #1a1a2f,#ff662a"
+color-link todo "bold #ffd15e,#202030"
+color-link hlsearch "#202030,#ffd15e"
+color-link statusline "#515155,#2a2a3f"
+color-link tabbar "#313140,#202030"
+color-link indent-char "#313140"
+color-link line-number "#313140,#202030"
+color-link current-line-number "#515155,#202030"
+
+color-link diff-added "#8cd97c,#202030"
+color-link diff-modified "#313140,#202030"
+color-link diff-deleted "#ff662a,#202030"
+color-link gutter-error "#ff662a,#202030"
+color-link gutter-warning "#2b926f,#202030"
+
+color-link cursor-line "#202030"
+color-link color-column "#202030"

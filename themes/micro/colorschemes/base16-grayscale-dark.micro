@@ -1,0 +1,44 @@
+# Base16 Grayscale Dark - micro color scheme
+# Scheme by Alexandre Gavioli (https://github.com/Alexx2/)
+
+color-link default "#b9b9b9,#101010"
+
+color-link comment "#525252"
+
+color-link constant "#999999"
+color-link constant.specialChar "#5e5e5e"
+color-link constant.string "#8e8e8e"
+
+color-link identifier "#7c7c7c"
+color-link identifier.class "#a0a0a0"
+
+color-link preproc "#a0a0a0"
+
+color-link special "#868686"
+
+color-link statement "#7c7c7c"
+
+color-link symbol.operator "#b9b9b9"
+color-link symbol.tag "#b9b9b9"
+
+color-link type "#a0a0a0"
+
+color-link underlined "#7c7c7c"
+
+color-link error "bold #101010,#7c7c7c"
+color-link todo "bold #a0a0a0,#252525"
+color-link hlsearch "#252525,#a0a0a0"
+color-link statusline "#ababab,#464646"
+color-link tabbar "#525252,#252525"
+color-link indent-char "#525252"
+color-link line-number "#525252,#252525"
+color-link current-line-number "#ababab,#252525"
+
+color-link diff-added "#8e8e8e,#252525"
+color-link diff-modified "#525252,#252525"
+color-link diff-deleted "#7c7c7c,#252525"
+color-link gutter-error "#7c7c7c,#252525"
+color-link gutter-warning "#686868,#252525"
+
+color-link cursor-line "#252525"
+color-link color-column "#252525"

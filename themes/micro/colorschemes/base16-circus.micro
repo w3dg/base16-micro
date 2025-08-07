@@ -1,0 +1,44 @@
+# Base16 Circus - micro color scheme
+# Scheme by Stephan Boyer (https://github.com/stepchowfun) and Esther Wang (https://github.com/ewang12)
+
+color-link default "#a7a7a7,#191919"
+
+color-link comment "#5f5a60"
+
+color-link constant "#4bb1a7"
+color-link constant.specialChar "#b888e2"
+color-link constant.string "#84b97c"
+
+color-link identifier "#dc657d"
+color-link identifier.class "#c3ba63"
+
+color-link preproc "#c3ba63"
+
+color-link special "#4bb1a7"
+
+color-link statement "#dc657d"
+
+color-link symbol.operator "#a7a7a7"
+color-link symbol.tag "#a7a7a7"
+
+color-link type "#c3ba63"
+
+color-link underlined "#dc657d"
+
+color-link error "bold #191919,#dc657d"
+color-link todo "bold #c3ba63,#202020"
+color-link hlsearch "#202020,#c3ba63"
+color-link statusline "#505050,#303030"
+color-link tabbar "#5f5a60,#202020"
+color-link indent-char "#5f5a60"
+color-link line-number "#5f5a60,#202020"
+color-link current-line-number "#505050,#202020"
+
+color-link diff-added "#84b97c,#202020"
+color-link diff-modified "#5f5a60,#202020"
+color-link diff-deleted "#dc657d,#202020"
+color-link gutter-error "#dc657d,#202020"
+color-link gutter-warning "#639ee4,#202020"
+
+color-link cursor-line "#202020"
+color-link color-column "#202020"

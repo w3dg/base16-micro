@@ -1,0 +1,44 @@
+# Base16 pinky - micro color scheme
+# Scheme by Benjamin (https://github.com/b3nj5m1n)
+
+color-link default "#f5f5f5,#171517"
+
+color-link comment "#383338"
+
+color-link constant "#00ff66"
+color-link constant.specialChar "#df206c"
+color-link constant.string "#ff0066"
+
+color-link identifier "#ffa600"
+color-link identifier.class "#20df6c"
+
+color-link preproc "#20df6c"
+
+color-link special "#6600ff"
+
+color-link statement "#ffa600"
+
+color-link symbol.operator "#f5f5f5"
+color-link symbol.tag "#f5f5f5"
+
+color-link type "#20df6c"
+
+color-link underlined "#ffa600"
+
+color-link error "bold #171517,#ffa600"
+color-link todo "bold #20df6c,#1b181b"
+color-link hlsearch "#1b181b,#20df6c"
+color-link statusline "#e7dbdb,#1d1b1d"
+color-link tabbar "#383338,#1b181b"
+color-link indent-char "#383338"
+color-link line-number "#383338,#1b181b"
+color-link current-line-number "#e7dbdb,#1b181b"
+
+color-link diff-added "#ff0066,#1b181b"
+color-link diff-modified "#383338,#1b181b"
+color-link diff-deleted "#ffa600,#1b181b"
+color-link gutter-error "#ffa600,#1b181b"
+color-link gutter-warning "#00ffff,#1b181b"
+
+color-link cursor-line "#1b181b"
+color-link color-column "#1b181b"

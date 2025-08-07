@@ -1,0 +1,44 @@
+# Base16 Pico - micro color scheme
+# Scheme by PICO-8 (http://www.lexaloffle.com/pico-8.php)
+
+color-link default "#5f574f,#000000"
+
+color-link comment "#008751"
+
+color-link constant "#ffa300"
+color-link constant.specialChar "#ffccaa"
+color-link constant.string "#00e756"
+
+color-link identifier "#ff004d"
+color-link identifier.class "#fff024"
+
+color-link preproc "#fff024"
+
+color-link special "#29adff"
+
+color-link statement "#ff004d"
+
+color-link symbol.operator "#5f574f"
+color-link symbol.tag "#5f574f"
+
+color-link type "#fff024"
+
+color-link underlined "#ff004d"
+
+color-link error "bold #000000,#ff004d"
+color-link todo "bold #fff024,#1d2b53"
+color-link hlsearch "#1d2b53,#fff024"
+color-link statusline "#ab5236,#7e2553"
+color-link tabbar "#008751,#1d2b53"
+color-link indent-char "#008751"
+color-link line-number "#008751,#1d2b53"
+color-link current-line-number "#ab5236,#1d2b53"
+
+color-link diff-added "#00e756,#1d2b53"
+color-link diff-modified "#008751,#1d2b53"
+color-link diff-deleted "#ff004d,#1d2b53"
+color-link gutter-error "#ff004d,#1d2b53"
+color-link gutter-warning "#83769c,#1d2b53"
+
+color-link cursor-line "#1d2b53"
+color-link color-column "#1d2b53"

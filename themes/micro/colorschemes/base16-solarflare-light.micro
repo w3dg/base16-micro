@@ -1,0 +1,44 @@
+# Base16 Solar Flare Light - micro color scheme
+# Scheme by Chuck Harmston (https://chuck.harmston.ch)
+
+color-link default "#586875,#f5f7fa"
+
+color-link comment "#85939e"
+
+color-link constant "#e66b2b"
+color-link constant.specialChar "#d73c9a"
+color-link constant.string "#7cc844"
+
+color-link identifier "#ef5253"
+color-link identifier.class "#e4b51c"
+
+color-link preproc "#e4b51c"
+
+color-link special "#52cbb0"
+
+color-link statement "#ef5253"
+
+color-link symbol.operator "#586875"
+color-link symbol.tag "#586875"
+
+color-link type "#e4b51c"
+
+color-link underlined "#ef5253"
+
+color-link error "bold #f5f7fa,#ef5253"
+color-link todo "bold #e4b51c,#e8e9ed"
+color-link hlsearch "#e8e9ed,#e4b51c"
+color-link statusline "#667581,#a6afb8"
+color-link tabbar "#85939e,#e8e9ed"
+color-link indent-char "#85939e"
+color-link line-number "#85939e,#e8e9ed"
+color-link current-line-number "#667581,#e8e9ed"
+
+color-link diff-added "#7cc844,#e8e9ed"
+color-link diff-modified "#85939e,#e8e9ed"
+color-link diff-deleted "#ef5253,#e8e9ed"
+color-link gutter-error "#ef5253,#e8e9ed"
+color-link gutter-warning "#33b5e1,#e8e9ed"
+
+color-link cursor-line "#e8e9ed"
+color-link color-column "#e8e9ed"

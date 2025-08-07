@@ -1,0 +1,44 @@
+# Base16 DanQing Light - micro color scheme
+# Scheme by Wenhan Zhu (Cosmos) (zhuwenhan950913@gmail.com)
+
+color-link default "#5a605d,#fcfefd"
+
+color-link comment "#cad8d2"
+
+color-link constant "#b38a61"
+color-link constant.specialChar "#ca6924"
+color-link constant.string "#8ab361"
+
+color-link identifier "#f9906f"
+color-link identifier.class "#f0c239"
+
+color-link preproc "#f0c239"
+
+color-link special "#30dff3"
+
+color-link statement "#f9906f"
+
+color-link symbol.operator "#5a605d"
+color-link symbol.tag "#5a605d"
+
+color-link type "#f0c239"
+
+color-link underlined "#f9906f"
+
+color-link error "bold #fcfefd,#f9906f"
+color-link todo "bold #f0c239,#ecf6f2"
+color-link hlsearch "#ecf6f2,#f0c239"
+color-link statusline "#9da8a3,#e0f0ef"
+color-link tabbar "#cad8d2,#ecf6f2"
+color-link indent-char "#cad8d2"
+color-link line-number "#cad8d2,#ecf6f2"
+color-link current-line-number "#9da8a3,#ecf6f2"
+
+color-link diff-added "#8ab361,#ecf6f2"
+color-link diff-modified "#cad8d2,#ecf6f2"
+color-link diff-deleted "#f9906f,#ecf6f2"
+color-link gutter-error "#f9906f,#ecf6f2"
+color-link gutter-warning "#b0a4e3,#ecf6f2"
+
+color-link cursor-line "#ecf6f2"
+color-link color-column "#ecf6f2"

@@ -1,0 +1,44 @@
+# Base16 Purpledream - micro color scheme
+# Scheme by malet
+
+color-link default "#ddd0dd,#100510"
+
+color-link comment "#605060"
+
+color-link constant "#ccae14"
+color-link constant.specialChar "#6a2a3c"
+color-link constant.string "#14cc64"
+
+color-link identifier "#ff1d0d"
+color-link identifier.class "#f000a0"
+
+color-link preproc "#f000a0"
+
+color-link special "#0075b0"
+
+color-link statement "#ff1d0d"
+
+color-link symbol.operator "#ddd0dd"
+color-link symbol.tag "#ddd0dd"
+
+color-link type "#f000a0"
+
+color-link underlined "#ff1d0d"
+
+color-link error "bold #100510,#ff1d0d"
+color-link todo "bold #f000a0,#302030"
+color-link hlsearch "#302030,#f000a0"
+color-link statusline "#bbb0bb,#403040"
+color-link tabbar "#605060,#302030"
+color-link indent-char "#605060"
+color-link line-number "#605060,#302030"
+color-link current-line-number "#bbb0bb,#302030"
+
+color-link diff-added "#14cc64,#302030"
+color-link diff-modified "#605060,#302030"
+color-link diff-deleted "#ff1d0d,#302030"
+color-link gutter-error "#ff1d0d,#302030"
+color-link gutter-warning "#00a0f0,#302030"
+
+color-link cursor-line "#302030"
+color-link color-column "#302030"

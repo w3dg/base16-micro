@@ -1,0 +1,44 @@
+# Base16 tarot - micro color scheme
+# Scheme by ed (https://codeberg.org/ed)
+
+color-link default "#aa556f,#0e091d"
+
+color-link comment "#74316b"
+
+color-link constant "#ea4d60"
+color-link constant.specialChar "#984d51"
+color-link constant.string "#a68e5a"
+
+color-link identifier "#c53253"
+color-link identifier.class "#ff6565"
+
+color-link preproc "#ff6565"
+
+color-link special "#8c9785"
+
+color-link statement "#c53253"
+
+color-link symbol.operator "#aa556f"
+color-link symbol.tag "#aa556f"
+
+color-link type "#ff6565"
+
+color-link underlined "#c53253"
+
+color-link error "bold #0e091d,#c53253"
+color-link todo "bold #ff6565,#2a153c"
+color-link hlsearch "#2a153c,#ff6565"
+color-link statusline "#8c406f,#4b2054"
+color-link tabbar "#74316b,#2a153c"
+color-link indent-char "#74316b"
+color-link line-number "#74316b,#2a153c"
+color-link current-line-number "#8c406f,#2a153c"
+
+color-link diff-added "#a68e5a,#2a153c"
+color-link diff-modified "#74316b,#2a153c"
+color-link diff-deleted "#c53253,#2a153c"
+color-link gutter-error "#c53253,#2a153c"
+color-link gutter-warning "#6e6080,#2a153c"
+
+color-link cursor-line "#2a153c"
+color-link color-column "#2a153c"

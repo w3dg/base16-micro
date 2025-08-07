@@ -1,0 +1,44 @@
+# Base16 Tokyodark Terminal - micro color scheme
+# Scheme by Tiagovla (https://github.com/tiagovla/)
+
+color-link default "#a0a8cd,#11121d"
+
+color-link comment "#282c34"
+
+color-link constant "#f6955b"
+color-link constant.specialChar "#773440"
+color-link constant.string "#95c561"
+
+color-link identifier "#ee6d85"
+color-link identifier.class "#d7a65f"
+
+color-link preproc "#d7a65f"
+
+color-link special "#38a89d"
+
+color-link statement "#ee6d85"
+
+color-link symbol.operator "#a0a8cd"
+color-link symbol.tag "#a0a8cd"
+
+color-link type "#d7a65f"
+
+color-link underlined "#ee6d85"
+
+color-link error "bold #11121d,#ee6d85"
+color-link todo "bold #d7a65f,#1a1b2a"
+color-link hlsearch "#1a1b2a,#d7a65f"
+color-link statusline "#4a5057,#212234"
+color-link tabbar "#282c34,#1a1b2a"
+color-link indent-char "#282c34"
+color-link line-number "#282c34,#1a1b2a"
+color-link current-line-number "#4a5057,#1a1b2a"
+
+color-link diff-added "#95c561,#1a1b2a"
+color-link diff-modified "#282c34,#1a1b2a"
+color-link diff-deleted "#ee6d85,#1a1b2a"
+color-link gutter-error "#ee6d85,#1a1b2a"
+color-link gutter-warning "#7199ee,#1a1b2a"
+
+color-link cursor-line "#1a1b2a"
+color-link color-column "#1a1b2a"

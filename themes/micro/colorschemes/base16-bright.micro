@@ -1,0 +1,44 @@
+# Base16 Bright - micro color scheme
+# Scheme by Chris Kempson (http://chriskempson.com)
+
+color-link default "#e0e0e0,#000000"
+
+color-link comment "#b0b0b0"
+
+color-link constant "#fc6d24"
+color-link constant.specialChar "#be643c"
+color-link constant.string "#a1c659"
+
+color-link identifier "#fb0120"
+color-link identifier.class "#fda331"
+
+color-link preproc "#fda331"
+
+color-link special "#76c7b7"
+
+color-link statement "#fb0120"
+
+color-link symbol.operator "#e0e0e0"
+color-link symbol.tag "#e0e0e0"
+
+color-link type "#fda331"
+
+color-link underlined "#fb0120"
+
+color-link error "bold #000000,#fb0120"
+color-link todo "bold #fda331,#303030"
+color-link hlsearch "#303030,#fda331"
+color-link statusline "#d0d0d0,#505050"
+color-link tabbar "#b0b0b0,#303030"
+color-link indent-char "#b0b0b0"
+color-link line-number "#b0b0b0,#303030"
+color-link current-line-number "#d0d0d0,#303030"
+
+color-link diff-added "#a1c659,#303030"
+color-link diff-modified "#b0b0b0,#303030"
+color-link diff-deleted "#fb0120,#303030"
+color-link gutter-error "#fb0120,#303030"
+color-link gutter-warning "#6fb3d2,#303030"
+
+color-link cursor-line "#303030"
+color-link color-column "#303030"

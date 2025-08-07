@@ -1,0 +1,44 @@
+# Base16 Materia - micro color scheme
+# Scheme by Defman21
+
+color-link default "#cdd3de,#263238"
+
+color-link comment "#707880"
+
+color-link constant "#ea9560"
+color-link constant.specialChar "#ec5f67"
+color-link constant.string "#8bd649"
+
+color-link identifier "#ec5f67"
+color-link identifier.class "#ffcc00"
+
+color-link preproc "#ffcc00"
+
+color-link special "#80cbc4"
+
+color-link statement "#ec5f67"
+
+color-link symbol.operator "#cdd3de"
+color-link symbol.tag "#cdd3de"
+
+color-link type "#ffcc00"
+
+color-link underlined "#ec5f67"
+
+color-link error "bold #263238,#ec5f67"
+color-link todo "bold #ffcc00,#2c393f"
+color-link hlsearch "#2c393f,#ffcc00"
+color-link statusline "#c9ccd3,#37474f"
+color-link tabbar "#707880,#2c393f"
+color-link indent-char "#707880"
+color-link line-number "#707880,#2c393f"
+color-link current-line-number "#c9ccd3,#2c393f"
+
+color-link diff-added "#8bd649,#2c393f"
+color-link diff-modified "#707880,#2c393f"
+color-link diff-deleted "#ec5f67,#2c393f"
+color-link gutter-error "#ec5f67,#2c393f"
+color-link gutter-warning "#89ddff,#2c393f"
+
+color-link cursor-line "#2c393f"
+color-link color-column "#2c393f"

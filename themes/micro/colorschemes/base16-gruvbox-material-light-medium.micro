@@ -1,0 +1,44 @@
+# Base16 Gruvbox Material Light, Medium - micro color scheme
+# Scheme by Mayush Kumar (https://github.com/MayushKumar), sainnhe (https://github.com/sainnhe/gruvbox-material-vscode)
+
+color-link default "#654735,#fbf1c7"
+
+color-link comment "#bdae93"
+
+color-link constant "#c35e0a"
+color-link constant.specialChar "#e78a4e"
+color-link constant.string "#6c782e"
+
+color-link identifier "#c14a4a"
+color-link identifier.class "#b47109"
+
+color-link preproc "#b47109"
+
+color-link special "#4c7a5d"
+
+color-link statement "#c14a4a"
+
+color-link symbol.operator "#654735"
+color-link symbol.tag "#654735"
+
+color-link type "#b47109"
+
+color-link underlined "#c14a4a"
+
+color-link error "bold #fbf1c7,#c14a4a"
+color-link todo "bold #b47109,#f2e5bc"
+color-link hlsearch "#f2e5bc,#b47109"
+color-link statusline "#665c54,#d5c4a1"
+color-link tabbar "#bdae93,#f2e5bc"
+color-link indent-char "#bdae93"
+color-link line-number "#bdae93,#f2e5bc"
+color-link current-line-number "#665c54,#f2e5bc"
+
+color-link diff-added "#6c782e,#f2e5bc"
+color-link diff-modified "#bdae93,#f2e5bc"
+color-link diff-deleted "#c14a4a,#f2e5bc"
+color-link gutter-error "#c14a4a,#f2e5bc"
+color-link gutter-warning "#45707a,#f2e5bc"
+
+color-link cursor-line "#f2e5bc"
+color-link color-column "#f2e5bc"

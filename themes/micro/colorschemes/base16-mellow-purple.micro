@@ -1,0 +1,44 @@
+# Base16 Mellow Purple - micro color scheme
+# Scheme by gidsi
+
+color-link default "#ffeeff,#1e0528"
+
+color-link comment "#320f55"
+
+color-link constant "#aa00a3"
+color-link constant.specialChar "#4d6fff"
+color-link constant.string "#05cb0d"
+
+color-link identifier "#00d9e9"
+color-link identifier.class "#955ae7"
+
+color-link preproc "#955ae7"
+
+color-link special "#b900b1"
+
+color-link statement "#00d9e9"
+
+color-link symbol.operator "#ffeeff"
+color-link symbol.tag "#ffeeff"
+
+color-link type "#955ae7"
+
+color-link underlined "#00d9e9"
+
+color-link error "bold #1e0528,#00d9e9"
+color-link todo "bold #955ae7,#1a092d"
+color-link hlsearch "#1a092d,#955ae7"
+color-link statusline "#873582,#331354"
+color-link tabbar "#320f55,#1a092d"
+color-link indent-char "#320f55"
+color-link line-number "#320f55,#1a092d"
+color-link current-line-number "#873582,#1a092d"
+
+color-link diff-added "#05cb0d,#1a092d"
+color-link diff-modified "#320f55,#1a092d"
+color-link diff-deleted "#00d9e9,#1a092d"
+color-link gutter-error "#00d9e9,#1a092d"
+color-link gutter-warning "#550068,#1a092d"
+
+color-link cursor-line "#1a092d"
+color-link color-column "#1a092d"

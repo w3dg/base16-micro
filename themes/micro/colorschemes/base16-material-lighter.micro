@@ -1,0 +1,44 @@
+# Base16 Material Lighter - micro color scheme
+# Scheme by Nate Peterson
+
+color-link default "#80cbc4,#fafafa"
+
+color-link comment "#ccd7da"
+
+color-link constant "#f76d47"
+color-link constant.specialChar "#e53935"
+color-link constant.string "#91b859"
+
+color-link identifier "#ff5370"
+color-link identifier.class "#ffb62c"
+
+color-link preproc "#ffb62c"
+
+color-link special "#39adb5"
+
+color-link statement "#ff5370"
+
+color-link symbol.operator "#80cbc4"
+color-link symbol.tag "#80cbc4"
+
+color-link type "#ffb62c"
+
+color-link underlined "#ff5370"
+
+color-link error "bold #fafafa,#ff5370"
+color-link todo "bold #ffb62c,#e7eaec"
+color-link hlsearch "#e7eaec,#ffb62c"
+color-link statusline "#8796b0,#cceae7"
+color-link tabbar "#ccd7da,#e7eaec"
+color-link indent-char "#ccd7da"
+color-link line-number "#ccd7da,#e7eaec"
+color-link current-line-number "#8796b0,#e7eaec"
+
+color-link diff-added "#91b859,#e7eaec"
+color-link diff-modified "#ccd7da,#e7eaec"
+color-link diff-deleted "#ff5370,#e7eaec"
+color-link gutter-error "#ff5370,#e7eaec"
+color-link gutter-warning "#6182b8,#e7eaec"
+
+color-link cursor-line "#e7eaec"
+color-link color-column "#e7eaec"

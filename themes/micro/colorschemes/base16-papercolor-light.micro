@@ -1,0 +1,44 @@
+# Base16 PaperColor Light - micro color scheme
+# Scheme by Jon Leopard (http://github.com/jonleopard), based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)
+
+color-link default "#444444,#eeeeee"
+
+color-link comment "#5f8700"
+
+color-link constant "#d70000"
+color-link constant.specialChar "#005f87"
+color-link constant.string "#8700af"
+
+color-link identifier "#bcbcbc"
+color-link identifier.class "#d70087"
+
+color-link preproc "#d70087"
+
+color-link special "#d75f00"
+
+color-link statement "#bcbcbc"
+
+color-link symbol.operator "#444444"
+color-link symbol.tag "#444444"
+
+color-link type "#d70087"
+
+color-link underlined "#bcbcbc"
+
+color-link error "bold #eeeeee,#bcbcbc"
+color-link todo "bold #d70087,#af0000"
+color-link hlsearch "#af0000,#d70087"
+color-link statusline "#0087af,#008700"
+color-link tabbar "#5f8700,#af0000"
+color-link indent-char "#5f8700"
+color-link line-number "#5f8700,#af0000"
+color-link current-line-number "#0087af,#af0000"
+
+color-link diff-added "#8700af,#af0000"
+color-link diff-modified "#5f8700,#af0000"
+color-link diff-deleted "#bcbcbc,#af0000"
+color-link gutter-error "#bcbcbc,#af0000"
+color-link gutter-warning "#d75f00,#af0000"
+
+color-link cursor-line "#af0000"
+color-link color-column "#af0000"

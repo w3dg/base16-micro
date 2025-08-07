@@ -1,0 +1,44 @@
+# Base16 Default Dark - micro color scheme
+# Scheme by Chris Kempson (http://chriskempson.com)
+
+color-link default "#d8d8d8,#181818"
+
+color-link comment "#585858"
+
+color-link constant "#dc9656"
+color-link constant.specialChar "#a16946"
+color-link constant.string "#a1b56c"
+
+color-link identifier "#ab4642"
+color-link identifier.class "#f7ca88"
+
+color-link preproc "#f7ca88"
+
+color-link special "#86c1b9"
+
+color-link statement "#ab4642"
+
+color-link symbol.operator "#d8d8d8"
+color-link symbol.tag "#d8d8d8"
+
+color-link type "#f7ca88"
+
+color-link underlined "#ab4642"
+
+color-link error "bold #181818,#ab4642"
+color-link todo "bold #f7ca88,#282828"
+color-link hlsearch "#282828,#f7ca88"
+color-link statusline "#b8b8b8,#383838"
+color-link tabbar "#585858,#282828"
+color-link indent-char "#585858"
+color-link line-number "#585858,#282828"
+color-link current-line-number "#b8b8b8,#282828"
+
+color-link diff-added "#a1b56c,#282828"
+color-link diff-modified "#585858,#282828"
+color-link diff-deleted "#ab4642,#282828"
+color-link gutter-error "#ab4642,#282828"
+color-link gutter-warning "#7cafc2,#282828"
+
+color-link cursor-line "#282828"
+color-link color-column "#282828"

@@ -1,0 +1,44 @@
+# Base16 Material - micro color scheme
+# Scheme by Nate Peterson
+
+color-link default "#eeffff,#263238"
+
+color-link comment "#546e7a"
+
+color-link constant "#f78c6c"
+color-link constant.specialChar "#ff5370"
+color-link constant.string "#c3e88d"
+
+color-link identifier "#f07178"
+color-link identifier.class "#ffcb6b"
+
+color-link preproc "#ffcb6b"
+
+color-link special "#89ddff"
+
+color-link statement "#f07178"
+
+color-link symbol.operator "#eeffff"
+color-link symbol.tag "#eeffff"
+
+color-link type "#ffcb6b"
+
+color-link underlined "#f07178"
+
+color-link error "bold #263238,#f07178"
+color-link todo "bold #ffcb6b,#2e3c43"
+color-link hlsearch "#2e3c43,#ffcb6b"
+color-link statusline "#b2ccd6,#314549"
+color-link tabbar "#546e7a,#2e3c43"
+color-link indent-char "#546e7a"
+color-link line-number "#546e7a,#2e3c43"
+color-link current-line-number "#b2ccd6,#2e3c43"
+
+color-link diff-added "#c3e88d,#2e3c43"
+color-link diff-modified "#546e7a,#2e3c43"
+color-link diff-deleted "#f07178,#2e3c43"
+color-link gutter-error "#f07178,#2e3c43"
+color-link gutter-warning "#82aaff,#2e3c43"
+
+color-link cursor-line "#2e3c43"
+color-link color-column "#2e3c43"

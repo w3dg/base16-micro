@@ -1,0 +1,44 @@
+# Base16 Terracotta Dark - micro color scheme
+# Scheme by Alexander Rossell Hayes (https://github.com/rossellhayes)
+
+color-link default "#b8a59d,#241d1a"
+
+color-link comment "#594740"
+
+color-link constant "#ffa888"
+color-link constant.specialChar "#f1ae97"
+color-link constant.string "#b6c68a"
+
+color-link identifier "#f6998f"
+color-link identifier.class "#ffc37a"
+
+color-link preproc "#ffc37a"
+
+color-link special "#c0bcdb"
+
+color-link statement "#f6998f"
+
+color-link symbol.operator "#b8a59d"
+color-link symbol.tag "#b8a59d"
+
+color-link type "#ffc37a"
+
+color-link underlined "#f6998f"
+
+color-link error "bold #241d1a,#f6998f"
+color-link todo "bold #ffc37a,#362b27"
+color-link hlsearch "#362b27,#ffc37a"
+color-link statusline "#a78e84,#473933"
+color-link tabbar "#594740,#362b27"
+color-link indent-char "#594740"
+color-link line-number "#594740,#362b27"
+color-link current-line-number "#a78e84,#362b27"
+
+color-link diff-added "#b6c68a,#362b27"
+color-link diff-modified "#594740,#362b27"
+color-link diff-deleted "#f6998f,#362b27"
+color-link gutter-error "#f6998f,#362b27"
+color-link gutter-warning "#b0a4c3,#362b27"
+
+color-link cursor-line "#362b27"
+color-link color-column "#362b27"

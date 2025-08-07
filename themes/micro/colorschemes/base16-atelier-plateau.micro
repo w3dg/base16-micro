@@ -1,0 +1,44 @@
+# Base16 Atelier Plateau - micro color scheme
+# Scheme by Bram de Haan (http://atelierbramdehaan.nl)
+
+color-link default "#8a8585,#1b1818"
+
+color-link comment "#655d5d"
+
+color-link constant "#b45a3c"
+color-link constant.specialChar "#bd5187"
+color-link constant.string "#4b8b8b"
+
+color-link identifier "#ca4949"
+color-link identifier.class "#a06e3b"
+
+color-link preproc "#a06e3b"
+
+color-link special "#5485b6"
+
+color-link statement "#ca4949"
+
+color-link symbol.operator "#8a8585"
+color-link symbol.tag "#8a8585"
+
+color-link type "#a06e3b"
+
+color-link underlined "#ca4949"
+
+color-link error "bold #1b1818,#ca4949"
+color-link todo "bold #a06e3b,#292424"
+color-link hlsearch "#292424,#a06e3b"
+color-link statusline "#7e7777,#585050"
+color-link tabbar "#655d5d,#292424"
+color-link indent-char "#655d5d"
+color-link line-number "#655d5d,#292424"
+color-link current-line-number "#7e7777,#292424"
+
+color-link diff-added "#4b8b8b,#292424"
+color-link diff-modified "#655d5d,#292424"
+color-link diff-deleted "#ca4949,#292424"
+color-link gutter-error "#ca4949,#292424"
+color-link gutter-warning "#7272ca,#292424"
+
+color-link cursor-line "#292424"
+color-link color-column "#292424"

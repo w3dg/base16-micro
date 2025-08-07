@@ -1,0 +1,44 @@
+# Base16 selenized-light - micro color scheme
+# Scheme by Jan Warchol (https://github.com/jan-warchol/selenized) / adapted to base16 by ali
+
+color-link default "#53676d,#fbf3db"
+
+color-link comment "#909995"
+
+color-link constant "#bc5819"
+color-link constant.specialChar "#c44392"
+color-link constant.string "#428b00"
+
+color-link identifier "#cc1729"
+color-link identifier.class "#a78300"
+
+color-link preproc "#a78300"
+
+color-link special "#00978a"
+
+color-link statement "#cc1729"
+
+color-link symbol.operator "#53676d"
+color-link symbol.tag "#53676d"
+
+color-link type "#a78300"
+
+color-link underlined "#cc1729"
+
+color-link error "bold #fbf3db,#cc1729"
+color-link todo "bold #a78300,#ece3cc"
+color-link hlsearch "#ece3cc,#a78300"
+color-link statusline "#909995,#d5cdb6"
+color-link tabbar "#909995,#ece3cc"
+color-link indent-char "#909995"
+color-link line-number "#909995,#ece3cc"
+color-link current-line-number "#909995,#ece3cc"
+
+color-link diff-added "#428b00,#ece3cc"
+color-link diff-modified "#909995,#ece3cc"
+color-link diff-deleted "#cc1729,#ece3cc"
+color-link gutter-error "#cc1729,#ece3cc"
+color-link gutter-warning "#006dce,#ece3cc"
+
+color-link cursor-line "#ece3cc"
+color-link color-column "#ece3cc"

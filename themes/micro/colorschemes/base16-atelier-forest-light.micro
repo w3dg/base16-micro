@@ -1,0 +1,44 @@
+# Base16 Atelier Forest Light - micro color scheme
+# Scheme by Bram de Haan (http://atelierbramdehaan.nl)
+
+color-link default "#68615e,#f1efee"
+
+color-link comment "#9c9491"
+
+color-link constant "#df5320"
+color-link constant.specialChar "#c33ff3"
+color-link constant.string "#7b9726"
+
+color-link identifier "#f22c40"
+color-link identifier.class "#c38418"
+
+color-link preproc "#c38418"
+
+color-link special "#3d97b8"
+
+color-link statement "#f22c40"
+
+color-link symbol.operator "#68615e"
+color-link symbol.tag "#68615e"
+
+color-link type "#c38418"
+
+color-link underlined "#f22c40"
+
+color-link error "bold #f1efee,#f22c40"
+color-link todo "bold #c38418,#e6e2e0"
+color-link hlsearch "#e6e2e0,#c38418"
+color-link statusline "#766e6b,#a8a19f"
+color-link tabbar "#9c9491,#e6e2e0"
+color-link indent-char "#9c9491"
+color-link line-number "#9c9491,#e6e2e0"
+color-link current-line-number "#766e6b,#e6e2e0"
+
+color-link diff-added "#7b9726,#e6e2e0"
+color-link diff-modified "#9c9491,#e6e2e0"
+color-link diff-deleted "#f22c40,#e6e2e0"
+color-link gutter-error "#f22c40,#e6e2e0"
+color-link gutter-warning "#407ee7,#e6e2e0"
+
+color-link cursor-line "#e6e2e0"
+color-link color-column "#e6e2e0"

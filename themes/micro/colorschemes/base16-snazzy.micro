@@ -1,0 +1,44 @@
+# Base16 Snazzy - micro color scheme
+# Scheme by Chawye Hsu (https://github.com/chawyehsu), based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)
+
+color-link default "#e2e4e5,#282a36"
+
+color-link comment "#78787e"
+
+color-link constant "#ff9f43"
+color-link constant.specialChar "#b2643c"
+color-link constant.string "#5af78e"
+
+color-link identifier "#ff5c57"
+color-link identifier.class "#f3f99d"
+
+color-link preproc "#f3f99d"
+
+color-link special "#9aedfe"
+
+color-link statement "#ff5c57"
+
+color-link symbol.operator "#e2e4e5"
+color-link symbol.tag "#e2e4e5"
+
+color-link type "#f3f99d"
+
+color-link underlined "#ff5c57"
+
+color-link error "bold #282a36,#ff5c57"
+color-link todo "bold #f3f99d,#34353e"
+color-link hlsearch "#34353e,#f3f99d"
+color-link statusline "#a5a5a9,#43454f"
+color-link tabbar "#78787e,#34353e"
+color-link indent-char "#78787e"
+color-link line-number "#78787e,#34353e"
+color-link current-line-number "#a5a5a9,#34353e"
+
+color-link diff-added "#5af78e,#34353e"
+color-link diff-modified "#78787e,#34353e"
+color-link diff-deleted "#ff5c57,#34353e"
+color-link gutter-error "#ff5c57,#34353e"
+color-link gutter-warning "#57c7ff,#34353e"
+
+color-link cursor-line "#34353e"
+color-link color-column "#34353e"

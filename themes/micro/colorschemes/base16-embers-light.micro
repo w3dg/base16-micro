@@ -1,0 +1,44 @@
+# Base16 Embers Light - micro color scheme
+# Scheme by Jannik Siebert (https://github.com/janniks)
+
+color-link default "#323b43,#d1d6db"
+
+color-link comment "#75808a"
+
+color-link constant "#578282"
+color-link constant.specialChar "#575782"
+color-link constant.string "#6d8257"
+
+color-link identifier "#576d82"
+color-link identifier.class "#57826d"
+
+color-link preproc "#57826d"
+
+color-link special "#826d57"
+
+color-link statement "#576d82"
+
+color-link symbol.operator "#323b43"
+color-link symbol.tag "#323b43"
+
+color-link type "#57826d"
+
+color-link underlined "#576d82"
+
+color-link error "bold #d1d6db,#576d82"
+color-link todo "bold #57826d,#aeb6be"
+color-link hlsearch "#aeb6be,#57826d"
+color-link statusline "#47505a,#909aa3"
+color-link tabbar "#75808a,#aeb6be"
+color-link indent-char "#75808a"
+color-link line-number "#75808a,#aeb6be"
+color-link current-line-number "#47505a,#aeb6be"
+
+color-link diff-added "#6d8257,#aeb6be"
+color-link diff-modified "#75808a,#aeb6be"
+color-link diff-deleted "#576d82,#aeb6be"
+color-link gutter-error "#576d82,#aeb6be"
+color-link gutter-warning "#82576d,#aeb6be"
+
+color-link cursor-line "#aeb6be"
+color-link color-column "#aeb6be"

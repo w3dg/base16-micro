@@ -1,0 +1,44 @@
+# Base16 Precious Dark Fifteen - micro color scheme
+# Scheme by 4lex4 &lt;4lex49@zoho.com&gt;
+
+color-link default "#bab9b6,#23262b"
+
+color-link comment "#898989"
+
+color-link constant "#e99857"
+color-link constant.specialChar "#f382d8"
+color-link constant.string "#95b659"
+
+color-link identifier "#ff8782"
+color-link identifier.class "#cfa546"
+
+color-link preproc "#cfa546"
+
+color-link special "#42bda7"
+
+color-link statement "#ff8782"
+
+color-link symbol.operator "#bab9b6"
+color-link symbol.tag "#bab9b6"
+
+color-link type "#cfa546"
+
+color-link underlined "#ff8782"
+
+color-link error "bold #23262b,#ff8782"
+color-link todo "bold #cfa546,#303337"
+color-link hlsearch "#303337,#cfa546"
+color-link statusline "#abaaa8,#3e4044"
+color-link tabbar "#898989,#303337"
+color-link indent-char "#898989"
+color-link line-number "#898989,#303337"
+color-link current-line-number "#abaaa8,#303337"
+
+color-link diff-added "#95b659,#303337"
+color-link diff-modified "#898989,#303337"
+color-link diff-deleted "#ff8782,#303337"
+color-link gutter-error "#ff8782,#303337"
+color-link gutter-warning "#66b0ef,#303337"
+
+color-link cursor-line "#303337"
+color-link color-column "#303337"

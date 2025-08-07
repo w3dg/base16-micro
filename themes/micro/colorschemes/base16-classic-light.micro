@@ -1,0 +1,44 @@
+# Base16 Classic Light - micro color scheme
+# Scheme by Jason Heeris (http://heeris.id.au)
+
+color-link default "#303030,#f5f5f5"
+
+color-link comment "#b0b0b0"
+
+color-link constant "#d28445"
+color-link constant.specialChar "#8f5536"
+color-link constant.string "#90a959"
+
+color-link identifier "#ac4142"
+color-link identifier.class "#f4bf75"
+
+color-link preproc "#f4bf75"
+
+color-link special "#75b5aa"
+
+color-link statement "#ac4142"
+
+color-link symbol.operator "#303030"
+color-link symbol.tag "#303030"
+
+color-link type "#f4bf75"
+
+color-link underlined "#ac4142"
+
+color-link error "bold #f5f5f5,#ac4142"
+color-link todo "bold #f4bf75,#e0e0e0"
+color-link hlsearch "#e0e0e0,#f4bf75"
+color-link statusline "#505050,#d0d0d0"
+color-link tabbar "#b0b0b0,#e0e0e0"
+color-link indent-char "#b0b0b0"
+color-link line-number "#b0b0b0,#e0e0e0"
+color-link current-line-number "#505050,#e0e0e0"
+
+color-link diff-added "#90a959,#e0e0e0"
+color-link diff-modified "#b0b0b0,#e0e0e0"
+color-link diff-deleted "#ac4142,#e0e0e0"
+color-link gutter-error "#ac4142,#e0e0e0"
+color-link gutter-warning "#6a9fb5,#e0e0e0"
+
+color-link cursor-line "#e0e0e0"
+color-link color-column "#e0e0e0"

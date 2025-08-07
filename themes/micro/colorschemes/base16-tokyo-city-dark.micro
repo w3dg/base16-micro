@@ -1,0 +1,44 @@
+# Base16 Tokyo City Dark - micro color scheme
+# Scheme by Michaël Ball
+
+color-link default "#d8e2ec,#171d23"
+
+color-link comment "#526270"
+
+color-link constant "#ff9e64"
+color-link constant.specialChar "#bb9af7"
+color-link constant.string "#9ece6a"
+
+color-link identifier "#f7768e"
+color-link identifier.class "#b7c5d3"
+
+color-link preproc "#b7c5d3"
+
+color-link special "#89ddff"
+
+color-link statement "#f7768e"
+
+color-link symbol.operator "#d8e2ec"
+color-link symbol.tag "#d8e2ec"
+
+color-link type "#b7c5d3"
+
+color-link underlined "#f7768e"
+
+color-link error "bold #171d23,#f7768e"
+color-link todo "bold #b7c5d3,#1d252c"
+color-link hlsearch "#1d252c,#b7c5d3"
+color-link statusline "#b7c5d3,#28323a"
+color-link tabbar "#526270,#1d252c"
+color-link indent-char "#526270"
+color-link line-number "#526270,#1d252c"
+color-link current-line-number "#b7c5d3,#1d252c"
+
+color-link diff-added "#9ece6a,#1d252c"
+color-link diff-modified "#526270,#1d252c"
+color-link diff-deleted "#f7768e,#1d252c"
+color-link gutter-error "#f7768e,#1d252c"
+color-link gutter-warning "#7aa2f7,#1d252c"
+
+color-link cursor-line "#1d252c"
+color-link color-column "#1d252c"

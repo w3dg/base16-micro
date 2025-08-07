@@ -1,0 +1,44 @@
+# Base16 Eva - micro color scheme
+# Scheme by kjakapat (https://github.com/kjakapat)
+
+color-link default "#9fa2a6,#2a3b4d"
+
+color-link comment "#55799c"
+
+color-link constant "#ff9966"
+color-link constant.specialChar "#bb64a9"
+color-link constant.string "#66ff66"
+
+color-link identifier "#c4676c"
+color-link identifier.class "#ffff66"
+
+color-link preproc "#ffff66"
+
+color-link special "#4b8f77"
+
+color-link statement "#c4676c"
+
+color-link symbol.operator "#9fa2a6"
+color-link symbol.tag "#9fa2a6"
+
+color-link type "#ffff66"
+
+color-link underlined "#c4676c"
+
+color-link error "bold #2a3b4d,#c4676c"
+color-link todo "bold #ffff66,#3d566f"
+color-link hlsearch "#3d566f,#ffff66"
+color-link statusline "#7e90a3,#4b6988"
+color-link tabbar "#55799c,#3d566f"
+color-link indent-char "#55799c"
+color-link line-number "#55799c,#3d566f"
+color-link current-line-number "#7e90a3,#3d566f"
+
+color-link diff-added "#66ff66,#3d566f"
+color-link diff-modified "#55799c,#3d566f"
+color-link diff-deleted "#c4676c,#3d566f"
+color-link gutter-error "#c4676c,#3d566f"
+color-link gutter-warning "#15f4ee,#3d566f"
+
+color-link cursor-line "#3d566f"
+color-link color-column "#3d566f"

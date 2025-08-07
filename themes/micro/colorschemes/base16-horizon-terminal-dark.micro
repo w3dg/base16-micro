@@ -1,0 +1,44 @@
+# Base16 Horizon Terminal Dark - micro color scheme
+# Scheme by Michaël Ball (http://github.com/michael-ball/)
+
+color-link default "#cbced0,#1c1e26"
+
+color-link comment "#6f6f70"
+
+color-link constant "#fab795"
+color-link constant.specialChar "#f09383"
+color-link constant.string "#29d398"
+
+color-link identifier "#e95678"
+color-link identifier.class "#fac29a"
+
+color-link preproc "#fac29a"
+
+color-link special "#59e1e3"
+
+color-link statement "#e95678"
+
+color-link symbol.operator "#cbced0"
+color-link symbol.tag "#cbced0"
+
+color-link type "#fac29a"
+
+color-link underlined "#e95678"
+
+color-link error "bold #1c1e26,#e95678"
+color-link todo "bold #fac29a,#232530"
+color-link hlsearch "#232530,#fac29a"
+color-link statusline "#9da0a2,#2e303e"
+color-link tabbar "#6f6f70,#232530"
+color-link indent-char "#6f6f70"
+color-link line-number "#6f6f70,#232530"
+color-link current-line-number "#9da0a2,#232530"
+
+color-link diff-added "#29d398,#232530"
+color-link diff-modified "#6f6f70,#232530"
+color-link diff-deleted "#e95678,#232530"
+color-link gutter-error "#e95678,#232530"
+color-link gutter-warning "#26bbd9,#232530"
+
+color-link cursor-line "#232530"
+color-link color-column "#232530"

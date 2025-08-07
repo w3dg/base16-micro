@@ -1,0 +1,44 @@
+# Base16 Classic Dark - micro color scheme
+# Scheme by Jason Heeris (http://heeris.id.au)
+
+color-link default "#d0d0d0,#151515"
+
+color-link comment "#505050"
+
+color-link constant "#d28445"
+color-link constant.specialChar "#8f5536"
+color-link constant.string "#90a959"
+
+color-link identifier "#ac4142"
+color-link identifier.class "#f4bf75"
+
+color-link preproc "#f4bf75"
+
+color-link special "#75b5aa"
+
+color-link statement "#ac4142"
+
+color-link symbol.operator "#d0d0d0"
+color-link symbol.tag "#d0d0d0"
+
+color-link type "#f4bf75"
+
+color-link underlined "#ac4142"
+
+color-link error "bold #151515,#ac4142"
+color-link todo "bold #f4bf75,#202020"
+color-link hlsearch "#202020,#f4bf75"
+color-link statusline "#b0b0b0,#303030"
+color-link tabbar "#505050,#202020"
+color-link indent-char "#505050"
+color-link line-number "#505050,#202020"
+color-link current-line-number "#b0b0b0,#202020"
+
+color-link diff-added "#90a959,#202020"
+color-link diff-modified "#505050,#202020"
+color-link diff-deleted "#ac4142,#202020"
+color-link gutter-error "#ac4142,#202020"
+color-link gutter-warning "#6a9fb5,#202020"
+
+color-link cursor-line "#202020"
+color-link color-column "#202020"

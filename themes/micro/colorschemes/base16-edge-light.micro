@@ -1,0 +1,44 @@
+# Base16 Edge Light - micro color scheme
+# Scheme by cjayross (https://github.com/cjayross)
+
+color-link default "#5e646f,#fafafa"
+
+color-link comment "#5e646f"
+
+color-link constant "#db7070"
+color-link constant.specialChar "#509c93"
+color-link constant.string "#7c9f4b"
+
+color-link identifier "#db7070"
+color-link identifier.class "#d69822"
+
+color-link preproc "#d69822"
+
+color-link special "#509c93"
+
+color-link statement "#db7070"
+
+color-link symbol.operator "#5e646f"
+color-link symbol.tag "#5e646f"
+
+color-link type "#d69822"
+
+color-link underlined "#db7070"
+
+color-link error "bold #fafafa,#db7070"
+color-link todo "bold #d69822,#7c9f4b"
+color-link hlsearch "#7c9f4b,#d69822"
+color-link statusline "#6587bf,#d69822"
+color-link tabbar "#5e646f,#7c9f4b"
+color-link indent-char "#5e646f"
+color-link line-number "#5e646f,#7c9f4b"
+color-link current-line-number "#6587bf,#7c9f4b"
+
+color-link diff-added "#7c9f4b,#7c9f4b"
+color-link diff-modified "#5e646f,#7c9f4b"
+color-link diff-deleted "#db7070,#7c9f4b"
+color-link gutter-error "#db7070,#7c9f4b"
+color-link gutter-warning "#6587bf,#7c9f4b"
+
+color-link cursor-line "#7c9f4b"
+color-link color-column "#7c9f4b"

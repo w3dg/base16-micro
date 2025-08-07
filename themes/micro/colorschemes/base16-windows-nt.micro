@@ -1,0 +1,44 @@
+# Base16 Windows NT - micro color scheme
+# Scheme by Fergus Collins (https://github.com/ferguscollins)
+
+color-link default "#c0c0c0,#000000"
+
+color-link comment "#808080"
+
+color-link constant "#808000"
+color-link constant.specialChar "#008000"
+color-link constant.string "#00ff00"
+
+color-link identifier "#ff0000"
+color-link identifier.class "#ffff00"
+
+color-link preproc "#ffff00"
+
+color-link special "#00ffff"
+
+color-link statement "#ff0000"
+
+color-link symbol.operator "#c0c0c0"
+color-link symbol.tag "#c0c0c0"
+
+color-link type "#ffff00"
+
+color-link underlined "#ff0000"
+
+color-link error "bold #000000,#ff0000"
+color-link todo "bold #ffff00,#2a2a2a"
+color-link hlsearch "#2a2a2a,#ffff00"
+color-link statusline "#a1a1a1,#555555"
+color-link tabbar "#808080,#2a2a2a"
+color-link indent-char "#808080"
+color-link line-number "#808080,#2a2a2a"
+color-link current-line-number "#a1a1a1,#2a2a2a"
+
+color-link diff-added "#00ff00,#2a2a2a"
+color-link diff-modified "#808080,#2a2a2a"
+color-link diff-deleted "#ff0000,#2a2a2a"
+color-link gutter-error "#ff0000,#2a2a2a"
+color-link gutter-warning "#0000ff,#2a2a2a"
+
+color-link cursor-line "#2a2a2a"
+color-link color-column "#2a2a2a"

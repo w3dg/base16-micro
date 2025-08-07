@@ -1,0 +1,44 @@
+# Base16 Atlas - micro color scheme
+# Scheme by Alex Lende (https://ajlende.com)
+
+color-link default "#a1a19a,#002635"
+
+color-link comment "#6c8b91"
+
+color-link constant "#f08e48"
+color-link constant.specialChar "#c43060"
+color-link constant.string "#7fc06e"
+
+color-link identifier "#ff5a67"
+color-link identifier.class "#ffcc1b"
+
+color-link preproc "#ffcc1b"
+
+color-link special "#5dd7b9"
+
+color-link statement "#ff5a67"
+
+color-link symbol.operator "#a1a19a"
+color-link symbol.tag "#a1a19a"
+
+color-link type "#ffcc1b"
+
+color-link underlined "#ff5a67"
+
+color-link error "bold #002635,#ff5a67"
+color-link todo "bold #ffcc1b,#00384d"
+color-link hlsearch "#00384d,#ffcc1b"
+color-link statusline "#869696,#517f8d"
+color-link tabbar "#6c8b91,#00384d"
+color-link indent-char "#6c8b91"
+color-link line-number "#6c8b91,#00384d"
+color-link current-line-number "#869696,#00384d"
+
+color-link diff-added "#7fc06e,#00384d"
+color-link diff-modified "#6c8b91,#00384d"
+color-link diff-deleted "#ff5a67,#00384d"
+color-link gutter-error "#ff5a67,#00384d"
+color-link gutter-warning "#14747e,#00384d"
+
+color-link cursor-line "#00384d"
+color-link color-column "#00384d"

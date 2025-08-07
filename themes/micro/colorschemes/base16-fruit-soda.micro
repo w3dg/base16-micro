@@ -1,0 +1,44 @@
+# Base16 Fruit Soda - micro color scheme
+# Scheme by jozip
+
+color-link default "#515151,#f1ecf1"
+
+color-link comment "#b5b4b6"
+
+color-link constant "#fe6d08"
+color-link constant.specialChar "#b16f40"
+color-link constant.string "#47f74c"
+
+color-link identifier "#fe3e31"
+color-link identifier.class "#f7e203"
+
+color-link preproc "#f7e203"
+
+color-link special "#0f9cfd"
+
+color-link statement "#fe3e31"
+
+color-link symbol.operator "#515151"
+color-link symbol.tag "#515151"
+
+color-link type "#f7e203"
+
+color-link underlined "#fe3e31"
+
+color-link error "bold #f1ecf1,#fe3e31"
+color-link todo "bold #f7e203,#e0dee0"
+color-link hlsearch "#e0dee0,#f7e203"
+color-link statusline "#979598,#d8d5d5"
+color-link tabbar "#b5b4b6,#e0dee0"
+color-link indent-char "#b5b4b6"
+color-link line-number "#b5b4b6,#e0dee0"
+color-link current-line-number "#979598,#e0dee0"
+
+color-link diff-added "#47f74c,#e0dee0"
+color-link diff-modified "#b5b4b6,#e0dee0"
+color-link diff-deleted "#fe3e31,#e0dee0"
+color-link gutter-error "#fe3e31,#e0dee0"
+color-link gutter-warning "#2931df,#e0dee0"
+
+color-link cursor-line "#e0dee0"
+color-link color-column "#e0dee0"

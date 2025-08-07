@@ -1,0 +1,44 @@
+# Base16 Penumbra Dark Contrast Plus Plus - micro color scheme
+# Scheme by Zachary Weiss (https://github.com/zacharyweiss)
+
+color-link default "#dedede,#0d0f13"
+
+color-link comment "#636363"
+
+color-link constant "#e09f47"
+color-link constant.specialChar "#e58cc5"
+color-link constant.string "#54c794"
+
+color-link identifier "#f58c81"
+color-link identifier.class "#a9b852"
+
+color-link preproc "#a9b852"
+
+color-link special "#00c4d7"
+
+color-link statement "#f58c81"
+
+color-link symbol.operator "#dedede"
+color-link symbol.tag "#dedede"
+
+color-link type "#a9b852"
+
+color-link underlined "#f58c81"
+
+color-link error "bold #0d0f13,#f58c81"
+color-link todo "bold #a9b852,#181b1f"
+color-link hlsearch "#181b1f,#a9b852"
+color-link statusline "#aeaeae,#3e4044"
+color-link tabbar "#636363,#181b1f"
+color-link indent-char "#636363"
+color-link line-number "#636363,#181b1f"
+color-link current-line-number "#aeaeae,#181b1f"
+
+color-link diff-added "#54c794,#181b1f"
+color-link diff-modified "#636363,#181b1f"
+color-link diff-deleted "#f58c81,#181b1f"
+color-link gutter-error "#f58c81,#181b1f"
+color-link gutter-warning "#6eb2fd,#181b1f"
+
+color-link cursor-line "#181b1f"
+color-link color-column "#181b1f"

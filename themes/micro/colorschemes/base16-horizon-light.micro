@@ -1,0 +1,44 @@
+# Base16 Horizon Light - micro color scheme
+# Scheme by Michaël Ball (http://github.com/michael-ball/)
+
+color-link default "#403c3d,#fdf0ed"
+
+color-link comment "#bdb3b1"
+
+color-link constant "#f6661e"
+color-link constant.specialChar "#e58c92"
+color-link constant.string "#94e1b0"
+
+color-link identifier "#f7939b"
+color-link identifier.class "#fbe0d9"
+
+color-link preproc "#fbe0d9"
+
+color-link special "#dc3318"
+
+color-link statement "#f7939b"
+
+color-link symbol.operator "#403c3d"
+color-link symbol.tag "#403c3d"
+
+color-link type "#fbe0d9"
+
+color-link underlined "#f7939b"
+
+color-link error "bold #fdf0ed,#f7939b"
+color-link todo "bold #fbe0d9,#fadad1"
+color-link hlsearch "#fadad1,#fbe0d9"
+color-link statusline "#948c8a,#f9cbbe"
+color-link tabbar "#bdb3b1,#fadad1"
+color-link indent-char "#bdb3b1"
+color-link line-number "#bdb3b1,#fadad1"
+color-link current-line-number "#948c8a,#fadad1"
+
+color-link diff-added "#94e1b0,#fadad1"
+color-link diff-modified "#bdb3b1,#fadad1"
+color-link diff-deleted "#f7939b,#fadad1"
+color-link gutter-error "#f7939b,#fadad1"
+color-link gutter-warning "#da103f,#fadad1"
+
+color-link cursor-line "#fadad1"
+color-link color-column "#fadad1"

@@ -1,0 +1,44 @@
+# Base16 standardized-dark - micro color scheme
+# Scheme by ali (https://github.com/ali-githb/base16-standardized-scheme)
+
+color-link default "#c0c0c0,#222222"
+
+color-link comment "#898989"
+
+color-link constant "#fc804e"
+color-link constant.specialChar "#b87d28"
+color-link constant.string "#5db129"
+
+color-link identifier "#e15d67"
+color-link identifier.class "#e1b31a"
+
+color-link preproc "#e1b31a"
+
+color-link special "#21c992"
+
+color-link statement "#e15d67"
+
+color-link symbol.operator "#c0c0c0"
+color-link symbol.tag "#c0c0c0"
+
+color-link type "#e1b31a"
+
+color-link underlined "#e15d67"
+
+color-link error "bold #222222,#e15d67"
+color-link todo "bold #e1b31a,#303030"
+color-link hlsearch "#303030,#e1b31a"
+color-link statusline "#898989,#555555"
+color-link tabbar "#898989,#303030"
+color-link indent-char "#898989"
+color-link line-number "#898989,#303030"
+color-link current-line-number "#898989,#303030"
+
+color-link diff-added "#5db129,#303030"
+color-link diff-modified "#898989,#303030"
+color-link diff-deleted "#e15d67,#303030"
+color-link gutter-error "#e15d67,#303030"
+color-link gutter-warning "#00a3f2,#303030"
+
+color-link cursor-line "#303030"
+color-link color-column "#303030"

@@ -1,0 +1,44 @@
+# Base16 UwUnicorn - micro color scheme
+# Scheme by Fernando Marques (https://github.com/RakkiUwU) and Gabriel Fontes (https://github.com/Misterio77)
+
+color-link default "#eed5d9,#241b26"
+
+color-link comment "#6c3cb2"
+
+color-link constant "#de5b44"
+color-link constant.specialChar "#a3a079"
+color-link constant.string "#c965bf"
+
+color-link identifier "#877bb6"
+color-link identifier.class "#a84a73"
+
+color-link preproc "#a84a73"
+
+color-link special "#9c5fce"
+
+color-link statement "#877bb6"
+
+color-link symbol.operator "#eed5d9"
+color-link symbol.tag "#eed5d9"
+
+color-link type "#a84a73"
+
+color-link underlined "#877bb6"
+
+color-link error "bold #241b26,#877bb6"
+color-link todo "bold #a84a73,#2f2a3f"
+color-link hlsearch "#2f2a3f,#a84a73"
+color-link statusline "#7e5f83,#46354a"
+color-link tabbar "#6c3cb2,#2f2a3f"
+color-link indent-char "#6c3cb2"
+color-link line-number "#6c3cb2,#2f2a3f"
+color-link current-line-number "#7e5f83,#2f2a3f"
+
+color-link diff-added "#c965bf,#2f2a3f"
+color-link diff-modified "#6c3cb2,#2f2a3f"
+color-link diff-deleted "#877bb6,#2f2a3f"
+color-link gutter-error "#877bb6,#2f2a3f"
+color-link gutter-warning "#6a9eb5,#2f2a3f"
+
+color-link cursor-line "#2f2a3f"
+color-link color-column "#2f2a3f"

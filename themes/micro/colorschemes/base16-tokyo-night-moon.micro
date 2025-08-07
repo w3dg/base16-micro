@@ -1,0 +1,44 @@
+# Base16 Tokyo Night Moon - micro color scheme
+# Scheme by Ólafur Bjarki Bogason
+
+color-link default "#3b4261,#222436"
+
+color-link comment "#636da6"
+
+color-link constant "#ffc777"
+color-link constant.specialChar "#c53b53"
+color-link constant.string "#c3e88d"
+
+color-link identifier "#ff757f"
+color-link identifier.class "#ffc777"
+
+color-link preproc "#ffc777"
+
+color-link special "#86e1fc"
+
+color-link statement "#ff757f"
+
+color-link symbol.operator "#3b4261"
+color-link symbol.tag "#3b4261"
+
+color-link type "#ffc777"
+
+color-link underlined "#ff757f"
+
+color-link error "bold #222436,#ff757f"
+color-link todo "bold #ffc777,#1e2030"
+color-link hlsearch "#1e2030,#ffc777"
+color-link statusline "#828bb8,#2d3f76"
+color-link tabbar "#636da6,#1e2030"
+color-link indent-char "#636da6"
+color-link line-number "#636da6,#1e2030"
+color-link current-line-number "#828bb8,#1e2030"
+
+color-link diff-added "#c3e88d,#1e2030"
+color-link diff-modified "#636da6,#1e2030"
+color-link diff-deleted "#ff757f,#1e2030"
+color-link gutter-error "#ff757f,#1e2030"
+color-link gutter-warning "#82aaff,#1e2030"
+
+color-link cursor-line "#1e2030"
+color-link color-column "#1e2030"

@@ -1,0 +1,44 @@
+# Base16 Solarized Dark - micro color scheme
+# Scheme by Ethan Schoonover (modified by aramisgithub)
+
+color-link default "#93a1a1,#002b36"
+
+color-link comment "#657b83"
+
+color-link constant "#cb4b16"
+color-link constant.specialChar "#d33682"
+color-link constant.string "#859900"
+
+color-link identifier "#dc322f"
+color-link identifier.class "#b58900"
+
+color-link preproc "#b58900"
+
+color-link special "#2aa198"
+
+color-link statement "#dc322f"
+
+color-link symbol.operator "#93a1a1"
+color-link symbol.tag "#93a1a1"
+
+color-link type "#b58900"
+
+color-link underlined "#dc322f"
+
+color-link error "bold #002b36,#dc322f"
+color-link todo "bold #b58900,#073642"
+color-link hlsearch "#073642,#b58900"
+color-link statusline "#839496,#586e75"
+color-link tabbar "#657b83,#073642"
+color-link indent-char "#657b83"
+color-link line-number "#657b83,#073642"
+color-link current-line-number "#839496,#073642"
+
+color-link diff-added "#859900,#073642"
+color-link diff-modified "#657b83,#073642"
+color-link diff-deleted "#dc322f,#073642"
+color-link gutter-error "#dc322f,#073642"
+color-link gutter-warning "#268bd2,#073642"
+
+color-link cursor-line "#073642"
+color-link color-column "#073642"

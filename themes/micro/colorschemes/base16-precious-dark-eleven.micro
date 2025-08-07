@@ -1,0 +1,44 @@
+# Base16 Precious Dark Eleven - micro color scheme
+# Scheme by 4lex4 &lt;4lex49@zoho.com&gt;
+
+color-link default "#b8b7b6,#1c1e20"
+
+color-link comment "#858585"
+
+color-link constant "#ea9755"
+color-link constant.specialChar "#f382d8"
+color-link constant.string "#95b658"
+
+color-link identifier "#ff8782"
+color-link identifier.class "#d0a543"
+
+color-link preproc "#d0a543"
+
+color-link special "#42bda7"
+
+color-link statement "#ff8782"
+
+color-link symbol.operator "#b8b7b6"
+color-link symbol.tag "#b8b7b6"
+
+color-link type "#d0a543"
+
+color-link underlined "#ff8782"
+
+color-link error "bold #1c1e20,#ff8782"
+color-link todo "bold #d0a543,#292b2d"
+color-link hlsearch "#292b2d,#d0a543"
+color-link statusline "#a8a8a7,#37393a"
+color-link tabbar "#858585,#292b2d"
+color-link indent-char "#858585"
+color-link line-number "#858585,#292b2d"
+color-link current-line-number "#a8a8a7,#292b2d"
+
+color-link diff-added "#95b658,#292b2d"
+color-link diff-modified "#858585,#292b2d"
+color-link diff-deleted "#ff8782,#292b2d"
+color-link gutter-error "#ff8782,#292b2d"
+color-link gutter-warning "#68b0ee,#292b2d"
+
+color-link cursor-line "#292b2d"
+color-link color-column "#292b2d"

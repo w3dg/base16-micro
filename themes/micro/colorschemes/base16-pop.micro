@@ -1,0 +1,44 @@
+# Base16 Pop - micro color scheme
+# Scheme by Chris Kempson (http://chriskempson.com)
+
+color-link default "#d0d0d0,#000000"
+
+color-link comment "#505050"
+
+color-link constant "#f29333"
+color-link constant.specialChar "#7a2d00"
+color-link constant.string "#37b349"
+
+color-link identifier "#eb008a"
+color-link identifier.class "#f8ca12"
+
+color-link preproc "#f8ca12"
+
+color-link special "#00aabb"
+
+color-link statement "#eb008a"
+
+color-link symbol.operator "#d0d0d0"
+color-link symbol.tag "#d0d0d0"
+
+color-link type "#f8ca12"
+
+color-link underlined "#eb008a"
+
+color-link error "bold #000000,#eb008a"
+color-link todo "bold #f8ca12,#202020"
+color-link hlsearch "#202020,#f8ca12"
+color-link statusline "#b0b0b0,#303030"
+color-link tabbar "#505050,#202020"
+color-link indent-char "#505050"
+color-link line-number "#505050,#202020"
+color-link current-line-number "#b0b0b0,#202020"
+
+color-link diff-added "#37b349,#202020"
+color-link diff-modified "#505050,#202020"
+color-link diff-deleted "#eb008a,#202020"
+color-link gutter-error "#eb008a,#202020"
+color-link gutter-warning "#0e5a94,#202020"
+
+color-link cursor-line "#202020"
+color-link color-column "#202020"

@@ -1,0 +1,44 @@
+# Base16 Atelier Dune Light - micro color scheme
+# Scheme by Bram de Haan (http://atelierbramdehaan.nl)
+
+color-link default "#6e6b5e,#fefbec"
+
+color-link comment "#999580"
+
+color-link constant "#b65611"
+color-link constant.specialChar "#d43552"
+color-link constant.string "#60ac39"
+
+color-link identifier "#d73737"
+color-link identifier.class "#ae9513"
+
+color-link preproc "#ae9513"
+
+color-link special "#1fad83"
+
+color-link statement "#d73737"
+
+color-link symbol.operator "#6e6b5e"
+color-link symbol.tag "#6e6b5e"
+
+color-link type "#ae9513"
+
+color-link underlined "#d73737"
+
+color-link error "bold #fefbec,#d73737"
+color-link todo "bold #ae9513,#e8e4cf"
+color-link hlsearch "#e8e4cf,#ae9513"
+color-link statusline "#7d7a68,#a6a28c"
+color-link tabbar "#999580,#e8e4cf"
+color-link indent-char "#999580"
+color-link line-number "#999580,#e8e4cf"
+color-link current-line-number "#7d7a68,#e8e4cf"
+
+color-link diff-added "#60ac39,#e8e4cf"
+color-link diff-modified "#999580,#e8e4cf"
+color-link diff-deleted "#d73737,#e8e4cf"
+color-link gutter-error "#d73737,#e8e4cf"
+color-link gutter-warning "#6684e1,#e8e4cf"
+
+color-link cursor-line "#e8e4cf"
+color-link color-column "#e8e4cf"

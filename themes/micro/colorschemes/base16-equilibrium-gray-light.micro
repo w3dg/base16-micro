@@ -1,0 +1,44 @@
+# Base16 Equilibrium Gray Light - micro color scheme
+# Scheme by Carlo Abelli
+
+color-link default "#474747,#f1f1f1"
+
+color-link comment "#777777"
+
+color-link constant "#bf3e05"
+color-link constant.specialChar "#c42775"
+color-link constant.string "#637200"
+
+color-link identifier "#d02023"
+color-link identifier.class "#9d6f00"
+
+color-link preproc "#9d6f00"
+
+color-link special "#007a72"
+
+color-link statement "#d02023"
+
+color-link symbol.operator "#474747"
+color-link symbol.tag "#474747"
+
+color-link type "#9d6f00"
+
+color-link underlined "#d02023"
+
+color-link error "bold #f1f1f1,#d02023"
+color-link todo "bold #9d6f00,#e2e2e2"
+color-link hlsearch "#e2e2e2,#9d6f00"
+color-link statusline "#5e5e5e,#d4d4d4"
+color-link tabbar "#777777,#e2e2e2"
+color-link indent-char "#777777"
+color-link line-number "#777777,#e2e2e2"
+color-link current-line-number "#5e5e5e,#e2e2e2"
+
+color-link diff-added "#637200,#e2e2e2"
+color-link diff-modified "#777777,#e2e2e2"
+color-link diff-deleted "#d02023,#e2e2e2"
+color-link gutter-error "#d02023,#e2e2e2"
+color-link gutter-warning "#0073b5,#e2e2e2"
+
+color-link cursor-line "#e2e2e2"
+color-link color-column "#e2e2e2"

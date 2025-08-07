@@ -1,0 +1,44 @@
+# Base16 Heetch Dark - micro color scheme
+# Scheme by Geoffrey Teale (tealeg@gmail.com)
+
+color-link default "#bdb6c5,#190134"
+
+color-link comment "#7b6d8b"
+
+color-link constant "#5ba2b6"
+color-link constant.specialChar "#470546"
+color-link constant.string "#c33678"
+
+color-link identifier "#27d9d5"
+color-link identifier.class "#8f6c97"
+
+color-link preproc "#8f6c97"
+
+color-link special "#f80059"
+
+color-link statement "#27d9d5"
+
+color-link symbol.operator "#bdb6c5"
+color-link symbol.tag "#bdb6c5"
+
+color-link type "#8f6c97"
+
+color-link underlined "#27d9d5"
+
+color-link error "bold #190134,#27d9d5"
+color-link todo "bold #8f6c97,#392551"
+color-link hlsearch "#392551,#8f6c97"
+color-link statusline "#9c92a8,#5a496e"
+color-link tabbar "#7b6d8b,#392551"
+color-link indent-char "#7b6d8b"
+color-link line-number "#7b6d8b,#392551"
+color-link current-line-number "#9c92a8,#392551"
+
+color-link diff-added "#c33678,#392551"
+color-link diff-modified "#7b6d8b,#392551"
+color-link diff-deleted "#27d9d5,#392551"
+color-link gutter-error "#27d9d5,#392551"
+color-link gutter-warning "#bd0152,#392551"
+
+color-link cursor-line "#392551"
+color-link color-column "#392551"

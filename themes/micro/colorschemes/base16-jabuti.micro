@@ -1,0 +1,44 @@
+# Base16 Jabuti - micro color scheme
+# Scheme by https://github.com/notusknot
+
+color-link default "#c0cbe3,#292a37"
+
+color-link comment "#45475d"
+
+color-link constant "#efb993"
+color-link constant.specialChar "#8b8da9"
+color-link constant.string "#3fdaa4"
+
+color-link identifier "#ec6a88"
+color-link identifier.class "#e1c697"
+
+color-link preproc "#e1c697"
+
+color-link special "#ff7eb6"
+
+color-link statement "#ec6a88"
+
+color-link symbol.operator "#c0cbe3"
+color-link symbol.tag "#c0cbe3"
+
+color-link type "#e1c697"
+
+color-link underlined "#ec6a88"
+
+color-link error "bold #292a37,#ec6a88"
+color-link todo "bold #e1c697,#343545"
+color-link hlsearch "#343545,#e1c697"
+color-link statusline "#50526b,#3c3e51"
+color-link tabbar "#45475d,#343545"
+color-link indent-char "#45475d"
+color-link line-number "#45475d,#343545"
+color-link current-line-number "#50526b,#343545"
+
+color-link diff-added "#3fdaa4,#343545"
+color-link diff-modified "#45475d,#343545"
+color-link diff-deleted "#ec6a88,#343545"
+color-link gutter-error "#ec6a88,#343545"
+color-link gutter-warning "#3fc6de,#343545"
+
+color-link cursor-line "#343545"
+color-link color-column "#343545"

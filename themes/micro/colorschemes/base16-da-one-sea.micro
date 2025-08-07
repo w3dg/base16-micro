@@ -1,0 +1,44 @@
+# Base16 Da One Sea - micro color scheme
+# Scheme by NNB (https://github.com/NNBnh)
+
+color-link default "#ffffff,#22273d"
+
+color-link comment "#878d96"
+
+color-link constant "#ffc387"
+color-link constant.specialChar "#b3684f"
+color-link constant.string "#98c379"
+
+color-link identifier "#fa7883"
+color-link identifier.class "#ff9470"
+
+color-link preproc "#ff9470"
+
+color-link special "#8af5ff"
+
+color-link statement "#fa7883"
+
+color-link symbol.operator "#ffffff"
+color-link symbol.tag "#ffffff"
+
+color-link type "#ff9470"
+
+color-link underlined "#fa7883"
+
+color-link error "bold #22273d,#fa7883"
+color-link todo "bold #ff9470,#374059"
+color-link hlsearch "#374059,#ff9470"
+color-link statusline "#c8c8c8,#525866"
+color-link tabbar "#878d96,#374059"
+color-link indent-char "#878d96"
+color-link line-number "#878d96,#374059"
+color-link current-line-number "#c8c8c8,#374059"
+
+color-link diff-added "#98c379,#374059"
+color-link diff-modified "#878d96,#374059"
+color-link diff-deleted "#fa7883,#374059"
+color-link gutter-error "#fa7883,#374059"
+color-link gutter-warning "#6bb8ff,#374059"
+
+color-link cursor-line "#374059"
+color-link color-column "#374059"

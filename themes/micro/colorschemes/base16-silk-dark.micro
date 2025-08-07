@@ -1,0 +1,44 @@
+# Base16 Silk Dark - micro color scheme
+# Scheme by Gabriel Fontes (https://github.com/Misterio77)
+
+color-link default "#c7dbdd,#0e3c46"
+
+color-link comment "#587073"
+
+color-link constant "#fcab74"
+color-link constant.specialChar "#9b647b"
+color-link constant.string "#73d8ad"
+
+color-link identifier "#fb6953"
+color-link identifier.class "#fce380"
+
+color-link preproc "#fce380"
+
+color-link special "#3fb2b9"
+
+color-link statement "#fb6953"
+
+color-link symbol.operator "#c7dbdd"
+color-link symbol.tag "#c7dbdd"
+
+color-link type "#fce380"
+
+color-link underlined "#fb6953"
+
+color-link error "bold #0e3c46,#fb6953"
+color-link todo "bold #fce380,#1d494e"
+color-link hlsearch "#1d494e,#fce380"
+color-link statusline "#9dc8cd,#2a5054"
+color-link tabbar "#587073,#1d494e"
+color-link indent-char "#587073"
+color-link line-number "#587073,#1d494e"
+color-link current-line-number "#9dc8cd,#1d494e"
+
+color-link diff-added "#73d8ad,#1d494e"
+color-link diff-modified "#587073,#1d494e"
+color-link diff-deleted "#fb6953,#1d494e"
+color-link gutter-error "#fb6953,#1d494e"
+color-link gutter-warning "#46bddd,#1d494e"
+
+color-link cursor-line "#1d494e"
+color-link color-column "#1d494e"

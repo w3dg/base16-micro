@@ -1,0 +1,44 @@
+# Base16 Sandcastle - micro color scheme
+# Scheme by George Essig (https://github.com/gessig)
+
+color-link default "#a89984,#282c34"
+
+color-link comment "#665c54"
+
+color-link constant "#a07e3b"
+color-link constant.specialChar "#a87322"
+color-link constant.string "#528b8b"
+
+color-link identifier "#83a598"
+color-link identifier.class "#a07e3b"
+
+color-link preproc "#a07e3b"
+
+color-link special "#83a598"
+
+color-link statement "#83a598"
+
+color-link symbol.operator "#a89984"
+color-link symbol.tag "#a89984"
+
+color-link type "#a07e3b"
+
+color-link underlined "#83a598"
+
+color-link error "bold #282c34,#83a598"
+color-link todo "bold #a07e3b,#2c323b"
+color-link hlsearch "#2c323b,#a07e3b"
+color-link statusline "#928374,#3e4451"
+color-link tabbar "#665c54,#2c323b"
+color-link indent-char "#665c54"
+color-link line-number "#665c54,#2c323b"
+color-link current-line-number "#928374,#2c323b"
+
+color-link diff-added "#528b8b,#2c323b"
+color-link diff-modified "#665c54,#2c323b"
+color-link diff-deleted "#83a598,#2c323b"
+color-link gutter-error "#83a598,#2c323b"
+color-link gutter-warning "#83a598,#2c323b"
+
+color-link cursor-line "#2c323b"
+color-link color-column "#2c323b"

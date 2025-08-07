@@ -1,0 +1,44 @@
+# Base16 Equilibrium Gray Dark - micro color scheme
+# Scheme by Carlo Abelli
+
+color-link default "#ababab,#111111"
+
+color-link comment "#777777"
+
+color-link constant "#df5923"
+color-link constant.specialChar "#e3488e"
+color-link constant.string "#7f8b00"
+
+color-link identifier "#f04339"
+color-link identifier.class "#bb8801"
+
+color-link preproc "#bb8801"
+
+color-link special "#00948b"
+
+color-link statement "#f04339"
+
+color-link symbol.operator "#ababab"
+color-link symbol.tag "#ababab"
+
+color-link type "#bb8801"
+
+color-link underlined "#f04339"
+
+color-link error "bold #111111,#f04339"
+color-link todo "bold #bb8801,#1b1b1b"
+color-link hlsearch "#1b1b1b,#bb8801"
+color-link statusline "#919191,#262626"
+color-link tabbar "#777777,#1b1b1b"
+color-link indent-char "#777777"
+color-link line-number "#777777,#1b1b1b"
+color-link current-line-number "#919191,#1b1b1b"
+
+color-link diff-added "#7f8b00,#1b1b1b"
+color-link diff-modified "#777777,#1b1b1b"
+color-link diff-deleted "#f04339,#1b1b1b"
+color-link gutter-error "#f04339,#1b1b1b"
+color-link gutter-warning "#008dd1,#1b1b1b"
+
+color-link cursor-line "#1b1b1b"
+color-link color-column "#1b1b1b"

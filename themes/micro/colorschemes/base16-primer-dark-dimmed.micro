@@ -1,0 +1,44 @@
+# Base16 Primer Dark Dimmed - micro color scheme
+# Scheme by Jimmy Lin
+
+color-link default "#909dab,#1c2128"
+
+color-link comment "#545d68"
+
+color-link constant "#e0823d"
+color-link constant.specialChar "#ae5622"
+color-link constant.string "#57ab5a"
+
+color-link identifier "#f47067"
+color-link identifier.class "#c69026"
+
+color-link preproc "#c69026"
+
+color-link special "#96d0ff"
+
+color-link statement "#f47067"
+
+color-link symbol.operator "#909dab"
+color-link symbol.tag "#909dab"
+
+color-link type "#c69026"
+
+color-link underlined "#f47067"
+
+color-link error "bold #1c2128,#f47067"
+color-link todo "bold #c69026,#373e47"
+color-link hlsearch "#373e47,#c69026"
+color-link statusline "#768390,#444c56"
+color-link tabbar "#545d68,#373e47"
+color-link indent-char "#545d68"
+color-link line-number "#545d68,#373e47"
+color-link current-line-number "#768390,#373e47"
+
+color-link diff-added "#57ab5a,#373e47"
+color-link diff-modified "#545d68,#373e47"
+color-link diff-deleted "#f47067,#373e47"
+color-link gutter-error "#f47067,#373e47"
+color-link gutter-warning "#539bf5,#373e47"
+
+color-link cursor-line "#373e47"
+color-link color-column "#373e47"

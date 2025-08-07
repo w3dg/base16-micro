@@ -1,0 +1,44 @@
+# Base16 Moonlight - micro color scheme
+# Scheme by Jeremy Swinarton (https://github.com/jswinarton)
+
+color-link default "#a3ace1,#212337"
+
+color-link comment "#748cd6"
+
+color-link constant "#f67f81"
+color-link constant.specialChar "#ecb2f0"
+color-link constant.string "#2df4c0"
+
+color-link identifier "#ff5370"
+color-link identifier.class "#ffc777"
+
+color-link preproc "#ffc777"
+
+color-link special "#04d1f9"
+
+color-link statement "#ff5370"
+
+color-link symbol.operator "#a3ace1"
+color-link symbol.tag "#a3ace1"
+
+color-link type "#ffc777"
+
+color-link underlined "#ff5370"
+
+color-link error "bold #212337,#ff5370"
+color-link todo "bold #ffc777,#403c64"
+color-link hlsearch "#403c64,#ffc777"
+color-link statusline "#a1abe0,#596399"
+color-link tabbar "#748cd6,#403c64"
+color-link indent-char "#748cd6"
+color-link line-number "#748cd6,#403c64"
+color-link current-line-number "#a1abe0,#403c64"
+
+color-link diff-added "#2df4c0,#403c64"
+color-link diff-modified "#748cd6,#403c64"
+color-link diff-deleted "#ff5370,#403c64"
+color-link gutter-error "#ff5370,#403c64"
+color-link gutter-warning "#40ffff,#403c64"
+
+color-link cursor-line "#403c64"
+color-link color-column "#403c64"

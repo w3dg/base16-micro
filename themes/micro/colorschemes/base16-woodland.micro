@@ -1,0 +1,44 @@
+# Base16 Woodland - micro color scheme
+# Scheme by Jay Cornwall (https://jcornwall.com)
+
+color-link default "#cabcb1,#231e18"
+
+color-link comment "#9d8b70"
+
+color-link constant "#ca7f32"
+color-link constant.specialChar "#b49368"
+color-link constant.string "#b7ba53"
+
+color-link identifier "#d35c5c"
+color-link identifier.class "#e0ac16"
+
+color-link preproc "#e0ac16"
+
+color-link special "#6eb958"
+
+color-link statement "#d35c5c"
+
+color-link symbol.operator "#cabcb1"
+color-link symbol.tag "#cabcb1"
+
+color-link type "#e0ac16"
+
+color-link underlined "#d35c5c"
+
+color-link error "bold #231e18,#d35c5c"
+color-link todo "bold #e0ac16,#302b25"
+color-link hlsearch "#302b25,#e0ac16"
+color-link statusline "#b4a490,#48413a"
+color-link tabbar "#9d8b70,#302b25"
+color-link indent-char "#9d8b70"
+color-link line-number "#9d8b70,#302b25"
+color-link current-line-number "#b4a490,#302b25"
+
+color-link diff-added "#b7ba53,#302b25"
+color-link diff-modified "#9d8b70,#302b25"
+color-link diff-deleted "#d35c5c,#302b25"
+color-link gutter-error "#d35c5c,#302b25"
+color-link gutter-warning "#88a4d3,#302b25"
+
+color-link cursor-line "#302b25"
+color-link color-column "#302b25"

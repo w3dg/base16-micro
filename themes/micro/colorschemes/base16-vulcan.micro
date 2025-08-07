@@ -1,0 +1,44 @@
+# Base16 vulcan - micro color scheme
+# Scheme by Andrey Varfolomeev
+
+color-link default "#5b778c,#041523"
+
+color-link comment "#7a5759"
+
+color-link constant "#9198a3"
+color-link constant.specialChar "#977d7c"
+color-link constant.string "#977d7c"
+
+color-link identifier "#818591"
+color-link identifier.class "#adb4b9"
+
+color-link preproc "#adb4b9"
+
+color-link special "#977d7c"
+
+color-link statement "#818591"
+
+color-link symbol.operator "#5b778c"
+color-link symbol.tag "#5b778c"
+
+color-link type "#adb4b9"
+
+color-link underlined "#818591"
+
+color-link error "bold #041523,#818591"
+color-link todo "bold #adb4b9,#122339"
+color-link hlsearch "#122339,#adb4b9"
+color-link statusline "#6b6977,#003552"
+color-link tabbar "#7a5759,#122339"
+color-link indent-char "#7a5759"
+color-link line-number "#7a5759,#122339"
+color-link current-line-number "#6b6977,#122339"
+
+color-link diff-added "#977d7c,#122339"
+color-link diff-modified "#7a5759,#122339"
+color-link diff-deleted "#818591,#122339"
+color-link gutter-error "#818591,#122339"
+color-link gutter-warning "#977d7c,#122339"
+
+color-link cursor-line "#122339"
+color-link color-column "#122339"

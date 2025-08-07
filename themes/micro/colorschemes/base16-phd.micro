@@ -1,0 +1,44 @@
+# Base16 PhD - micro color scheme
+# Scheme by Hennig Hasemann (http://leetless.de/vim.html)
+
+color-link default "#b8bbc2,#061229"
+
+color-link comment "#717885"
+
+color-link constant "#f0a000"
+color-link constant.specialChar "#b08060"
+color-link constant.string "#99bf52"
+
+color-link identifier "#d07346"
+color-link identifier.class "#fbd461"
+
+color-link preproc "#fbd461"
+
+color-link special "#72b9bf"
+
+color-link statement "#d07346"
+
+color-link symbol.operator "#b8bbc2"
+color-link symbol.tag "#b8bbc2"
+
+color-link type "#fbd461"
+
+color-link underlined "#d07346"
+
+color-link error "bold #061229,#d07346"
+color-link todo "bold #fbd461,#2a3448"
+color-link hlsearch "#2a3448,#fbd461"
+color-link statusline "#9a99a3,#4d5666"
+color-link tabbar "#717885,#2a3448"
+color-link indent-char "#717885"
+color-link line-number "#717885,#2a3448"
+color-link current-line-number "#9a99a3,#2a3448"
+
+color-link diff-added "#99bf52,#2a3448"
+color-link diff-modified "#717885,#2a3448"
+color-link diff-deleted "#d07346,#2a3448"
+color-link gutter-error "#d07346,#2a3448"
+color-link gutter-warning "#5299bf,#2a3448"
+
+color-link cursor-line "#2a3448"
+color-link color-column "#2a3448"

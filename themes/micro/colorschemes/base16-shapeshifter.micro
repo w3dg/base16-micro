@@ -1,0 +1,44 @@
+# Base16 Shapeshifter - micro color scheme
+# Scheme by Tyler Benziger (http://tybenz.com)
+
+color-link default "#102015,#f9f9f9"
+
+color-link comment "#555555"
+
+color-link constant "#e09448"
+color-link constant.specialChar "#69542d"
+color-link constant.string "#0ed839"
+
+color-link identifier "#e92f2f"
+color-link identifier.class "#dddd13"
+
+color-link preproc "#dddd13"
+
+color-link special "#23edda"
+
+color-link statement "#e92f2f"
+
+color-link symbol.operator "#102015"
+color-link symbol.tag "#102015"
+
+color-link type "#dddd13"
+
+color-link underlined "#e92f2f"
+
+color-link error "bold #f9f9f9,#e92f2f"
+color-link todo "bold #dddd13,#e0e0e0"
+color-link hlsearch "#e0e0e0,#dddd13"
+color-link statusline "#343434,#ababab"
+color-link tabbar "#555555,#e0e0e0"
+color-link indent-char "#555555"
+color-link line-number "#555555,#e0e0e0"
+color-link current-line-number "#343434,#e0e0e0"
+
+color-link diff-added "#0ed839,#e0e0e0"
+color-link diff-modified "#555555,#e0e0e0"
+color-link diff-deleted "#e92f2f,#e0e0e0"
+color-link gutter-error "#e92f2f,#e0e0e0"
+color-link gutter-warning "#3b48e3,#e0e0e0"
+
+color-link cursor-line "#e0e0e0"
+color-link color-column "#e0e0e0"

@@ -1,0 +1,44 @@
+# Base16 Atelier Estuary - micro color scheme
+# Scheme by Bram de Haan (http://atelierbramdehaan.nl)
+
+color-link default "#929181,#22221b"
+
+color-link comment "#6c6b5a"
+
+color-link constant "#ae7313"
+color-link constant.specialChar "#9d6c7c"
+color-link constant.string "#7d9726"
+
+color-link identifier "#ba6236"
+color-link identifier.class "#a5980d"
+
+color-link preproc "#a5980d"
+
+color-link special "#5b9d48"
+
+color-link statement "#ba6236"
+
+color-link symbol.operator "#929181"
+color-link symbol.tag "#929181"
+
+color-link type "#a5980d"
+
+color-link underlined "#ba6236"
+
+color-link error "bold #22221b,#ba6236"
+color-link todo "bold #a5980d,#302f27"
+color-link hlsearch "#302f27,#a5980d"
+color-link statusline "#878573,#5f5e4e"
+color-link tabbar "#6c6b5a,#302f27"
+color-link indent-char "#6c6b5a"
+color-link line-number "#6c6b5a,#302f27"
+color-link current-line-number "#878573,#302f27"
+
+color-link diff-added "#7d9726,#302f27"
+color-link diff-modified "#6c6b5a,#302f27"
+color-link diff-deleted "#ba6236,#302f27"
+color-link gutter-error "#ba6236,#302f27"
+color-link gutter-warning "#36a166,#302f27"
+
+color-link cursor-line "#302f27"
+color-link color-column "#302f27"

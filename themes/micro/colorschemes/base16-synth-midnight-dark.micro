@@ -1,0 +1,44 @@
+# Base16 Synth Midnight Terminal Dark - micro color scheme
+# Scheme by Michaël Ball (http://github.com/michael-ball/)
+
+color-link default "#c1c3c4,#050608"
+
+color-link comment "#474849"
+
+color-link constant "#ea770d"
+color-link constant.specialChar "#cd6320"
+color-link constant.string "#06ea61"
+
+color-link identifier "#b53b50"
+color-link identifier.class "#c9d364"
+
+color-link preproc "#c9d364"
+
+color-link special "#42fff9"
+
+color-link statement "#b53b50"
+
+color-link symbol.operator "#c1c3c4"
+color-link symbol.tag "#c1c3c4"
+
+color-link type "#c9d364"
+
+color-link underlined "#b53b50"
+
+color-link error "bold #050608,#b53b50"
+color-link todo "bold #c9d364,#1a1b1c"
+color-link hlsearch "#1a1b1c,#c9d364"
+color-link statusline "#a3a5a6,#28292a"
+color-link tabbar "#474849,#1a1b1c"
+color-link indent-char "#474849"
+color-link line-number "#474849,#1a1b1c"
+color-link current-line-number "#a3a5a6,#1a1b1c"
+
+color-link diff-added "#06ea61,#1a1b1c"
+color-link diff-modified "#474849,#1a1b1c"
+color-link diff-deleted "#b53b50,#1a1b1c"
+color-link gutter-error "#b53b50,#1a1b1c"
+color-link gutter-warning "#03aeff,#1a1b1c"
+
+color-link cursor-line "#1a1b1c"
+color-link color-column "#1a1b1c"

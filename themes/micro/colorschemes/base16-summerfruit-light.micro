@@ -1,0 +1,44 @@
+# Base16 Summerfruit Light - micro color scheme
+# Scheme by Christopher Corley (http://christop.club/)
+
+color-link default "#101010,#ffffff"
+
+color-link comment "#b0b0b0"
+
+color-link constant "#fd8900"
+color-link constant.specialChar "#cc6633"
+color-link constant.string "#00c918"
+
+color-link identifier "#ff0086"
+color-link identifier.class "#aba800"
+
+color-link preproc "#aba800"
+
+color-link special "#1faaaa"
+
+color-link statement "#ff0086"
+
+color-link symbol.operator "#101010"
+color-link symbol.tag "#101010"
+
+color-link type "#aba800"
+
+color-link underlined "#ff0086"
+
+color-link error "bold #ffffff,#ff0086"
+color-link todo "bold #aba800,#e0e0e0"
+color-link hlsearch "#e0e0e0,#aba800"
+color-link statusline "#000000,#d0d0d0"
+color-link tabbar "#b0b0b0,#e0e0e0"
+color-link indent-char "#b0b0b0"
+color-link line-number "#b0b0b0,#e0e0e0"
+color-link current-line-number "#000000,#e0e0e0"
+
+color-link diff-added "#00c918,#e0e0e0"
+color-link diff-modified "#b0b0b0,#e0e0e0"
+color-link diff-deleted "#ff0086,#e0e0e0"
+color-link gutter-error "#ff0086,#e0e0e0"
+color-link gutter-warning "#3777e6,#e0e0e0"
+
+color-link cursor-line "#e0e0e0"
+color-link color-column "#e0e0e0"

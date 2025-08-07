@@ -1,0 +1,44 @@
+# Base16 XCode Dusk - micro color scheme
+# Scheme by Elsa Gonsiorowski (https://github.com/gonsie)
+
+color-link default "#939599,#282b35"
+
+color-link comment "#686a71"
+
+color-link constant "#786dc5"
+color-link constant.specialChar "#c77c48"
+color-link constant.string "#df0002"
+
+color-link identifier "#b21889"
+color-link identifier.class "#438288"
+
+color-link preproc "#438288"
+
+color-link special "#00a0be"
+
+color-link statement "#b21889"
+
+color-link symbol.operator "#939599"
+color-link symbol.tag "#939599"
+
+color-link type "#438288"
+
+color-link underlined "#b21889"
+
+color-link error "bold #282b35,#b21889"
+color-link todo "bold #438288,#3d4048"
+color-link hlsearch "#3d4048,#438288"
+color-link statusline "#7e8086,#53555d"
+color-link tabbar "#686a71,#3d4048"
+color-link indent-char "#686a71"
+color-link line-number "#686a71,#3d4048"
+color-link current-line-number "#7e8086,#3d4048"
+
+color-link diff-added "#df0002,#3d4048"
+color-link diff-modified "#686a71,#3d4048"
+color-link diff-deleted "#b21889,#3d4048"
+color-link gutter-error "#b21889,#3d4048"
+color-link gutter-warning "#790ead,#3d4048"
+
+color-link cursor-line "#3d4048"
+color-link color-column "#3d4048"

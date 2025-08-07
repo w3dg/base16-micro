@@ -1,0 +1,44 @@
+# Base16 Bespin - micro color scheme
+# Scheme by Jan T. Sott
+
+color-link default "#8a8986,#28211c"
+
+color-link comment "#666666"
+
+color-link constant "#cf7d34"
+color-link constant.specialChar "#937121"
+color-link constant.string "#54be0d"
+
+color-link identifier "#cf6a4c"
+color-link identifier.class "#f9ee98"
+
+color-link preproc "#f9ee98"
+
+color-link special "#afc4db"
+
+color-link statement "#cf6a4c"
+
+color-link symbol.operator "#8a8986"
+color-link symbol.tag "#8a8986"
+
+color-link type "#f9ee98"
+
+color-link underlined "#cf6a4c"
+
+color-link error "bold #28211c,#cf6a4c"
+color-link todo "bold #f9ee98,#36312e"
+color-link hlsearch "#36312e,#f9ee98"
+color-link statusline "#797977,#5e5d5c"
+color-link tabbar "#666666,#36312e"
+color-link indent-char "#666666"
+color-link line-number "#666666,#36312e"
+color-link current-line-number "#797977,#36312e"
+
+color-link diff-added "#54be0d,#36312e"
+color-link diff-modified "#666666,#36312e"
+color-link diff-deleted "#cf6a4c,#36312e"
+color-link gutter-error "#cf6a4c,#36312e"
+color-link gutter-warning "#5ea6ea,#36312e"
+
+color-link cursor-line "#36312e"
+color-link color-column "#36312e"

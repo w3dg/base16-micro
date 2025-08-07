@@ -1,0 +1,44 @@
+# Base16 Mocha - micro color scheme
+# Scheme by Chris Kempson (http://chriskempson.com)
+
+color-link default "#d0c8c6,#3b3228"
+
+color-link comment "#7e705a"
+
+color-link constant "#d28b71"
+color-link constant.specialChar "#bb9584"
+color-link constant.string "#beb55b"
+
+color-link identifier "#cb6077"
+color-link identifier.class "#f4bc87"
+
+color-link preproc "#f4bc87"
+
+color-link special "#7bbda4"
+
+color-link statement "#cb6077"
+
+color-link symbol.operator "#d0c8c6"
+color-link symbol.tag "#d0c8c6"
+
+color-link type "#f4bc87"
+
+color-link underlined "#cb6077"
+
+color-link error "bold #3b3228,#cb6077"
+color-link todo "bold #f4bc87,#534636"
+color-link hlsearch "#534636,#f4bc87"
+color-link statusline "#b8afad,#645240"
+color-link tabbar "#7e705a,#534636"
+color-link indent-char "#7e705a"
+color-link line-number "#7e705a,#534636"
+color-link current-line-number "#b8afad,#534636"
+
+color-link diff-added "#beb55b,#534636"
+color-link diff-modified "#7e705a,#534636"
+color-link diff-deleted "#cb6077,#534636"
+color-link gutter-error "#cb6077,#534636"
+color-link gutter-warning "#8ab3b5,#534636"
+
+color-link cursor-line "#534636"
+color-link color-column "#534636"

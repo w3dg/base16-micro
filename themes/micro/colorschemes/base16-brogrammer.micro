@@ -1,0 +1,44 @@
+# Base16 Brogrammer - micro color scheme
+# Scheme by Vik Ramanujam (http://github.com/piggyslasher)
+
+color-link default "#4e5ab7,#1f1f1f"
+
+color-link comment "#ecba0f"
+
+color-link constant "#de352e"
+color-link constant.specialChar "#ffffff"
+color-link constant.string "#f3bd09"
+
+color-link identifier "#d6dbe5"
+color-link identifier.class "#1dd361"
+
+color-link preproc "#1dd361"
+
+color-link special "#1081d6"
+
+color-link statement "#d6dbe5"
+
+color-link symbol.operator "#4e5ab7"
+color-link symbol.tag "#4e5ab7"
+
+color-link type "#1dd361"
+
+color-link underlined "#d6dbe5"
+
+color-link error "bold #1f1f1f,#d6dbe5"
+color-link todo "bold #1dd361,#f81118"
+color-link hlsearch "#f81118,#1dd361"
+color-link statusline "#2a84d2,#2dc55e"
+color-link tabbar "#ecba0f,#f81118"
+color-link indent-char "#ecba0f"
+color-link line-number "#ecba0f,#f81118"
+color-link current-line-number "#2a84d2,#f81118"
+
+color-link diff-added "#f3bd09,#f81118"
+color-link diff-modified "#ecba0f,#f81118"
+color-link diff-deleted "#d6dbe5,#f81118"
+color-link gutter-error "#d6dbe5,#f81118"
+color-link gutter-warning "#5350b9,#f81118"
+
+color-link cursor-line "#f81118"
+color-link color-column "#f81118"

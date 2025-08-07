@@ -1,0 +1,44 @@
+# Base16 OneDark Dark - micro color scheme
+# Scheme by olimorris (https://github.com/olimorris)
+
+color-link default "#abb2bf,#000000"
+
+color-link comment "#434852"
+
+color-link constant "#d19a66"
+color-link constant.specialChar "#be5046"
+color-link constant.string "#89ca78"
+
+color-link identifier "#ef596f"
+color-link identifier.class "#e5c07b"
+
+color-link preproc "#e5c07b"
+
+color-link special "#2bbac5"
+
+color-link statement "#ef596f"
+
+color-link symbol.operator "#abb2bf"
+color-link symbol.tag "#abb2bf"
+
+color-link type "#e5c07b"
+
+color-link underlined "#ef596f"
+
+color-link error "bold #000000,#ef596f"
+color-link todo "bold #e5c07b,#1c1f24"
+color-link hlsearch "#1c1f24,#e5c07b"
+color-link statusline "#565c64,#2c313a"
+color-link tabbar "#434852,#1c1f24"
+color-link indent-char "#434852"
+color-link line-number "#434852,#1c1f24"
+color-link current-line-number "#565c64,#1c1f24"
+
+color-link diff-added "#89ca78,#1c1f24"
+color-link diff-modified "#434852,#1c1f24"
+color-link diff-deleted "#ef596f,#1c1f24"
+color-link gutter-error "#ef596f,#1c1f24"
+color-link gutter-warning "#61afef,#1c1f24"
+
+color-link cursor-line "#1c1f24"
+color-link color-column "#1c1f24"

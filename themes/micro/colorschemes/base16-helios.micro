@@ -1,0 +1,44 @@
+# Base16 Helios - micro color scheme
+# Scheme by Alex Meyer (https://github.com/reyemxela)
+
+color-link default "#d5d5d5,#1d2021"
+
+color-link comment "#6f7579"
+
+color-link constant "#eb8413"
+color-link constant.specialChar "#c85e0d"
+color-link constant.string "#88b92d"
+
+color-link identifier "#d72638"
+color-link identifier.class "#f19d1a"
+
+color-link preproc "#f19d1a"
+
+color-link special "#1ba595"
+
+color-link statement "#d72638"
+
+color-link symbol.operator "#d5d5d5"
+color-link symbol.tag "#d5d5d5"
+
+color-link type "#f19d1a"
+
+color-link underlined "#d72638"
+
+color-link error "bold #1d2021,#d72638"
+color-link todo "bold #f19d1a,#383c3e"
+color-link hlsearch "#383c3e,#f19d1a"
+color-link statusline "#cdcdcd,#53585b"
+color-link tabbar "#6f7579,#383c3e"
+color-link indent-char "#6f7579"
+color-link line-number "#6f7579,#383c3e"
+color-link current-line-number "#cdcdcd,#383c3e"
+
+color-link diff-added "#88b92d,#383c3e"
+color-link diff-modified "#6f7579,#383c3e"
+color-link diff-deleted "#d72638,#383c3e"
+color-link gutter-error "#d72638,#383c3e"
+color-link gutter-warning "#1e8bac,#383c3e"
+
+color-link cursor-line "#383c3e"
+color-link color-column "#383c3e"

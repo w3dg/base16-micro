@@ -1,0 +1,44 @@
+# Base16 Shades of Purple - micro color scheme
+# Scheme by Iolar Demartini Junior (http://github.com/demartini), based on Shades of Purple Theme (https://github.com/ahmadawais/shades-of-purple-vscode)
+
+color-link default "#c7c7c7,#1e1e3f"
+
+color-link comment "#808080"
+
+color-link constant "#f92a1c"
+color-link constant.specialChar "#79e8fb"
+color-link constant.string "#3ad900"
+
+color-link identifier "#d90429"
+color-link identifier.class "#ffe700"
+
+color-link preproc "#ffe700"
+
+color-link special "#00c5c7"
+
+color-link statement "#d90429"
+
+color-link symbol.operator "#c7c7c7"
+color-link symbol.tag "#c7c7c7"
+
+color-link type "#ffe700"
+
+color-link underlined "#d90429"
+
+color-link error "bold #1e1e3f,#d90429"
+color-link todo "bold #ffe700,#43d426"
+color-link hlsearch "#43d426,#ffe700"
+color-link statusline "#6871ff,#f1d000"
+color-link tabbar "#808080,#43d426"
+color-link indent-char "#808080"
+color-link line-number "#808080,#43d426"
+color-link current-line-number "#6871ff,#43d426"
+
+color-link diff-added "#3ad900,#43d426"
+color-link diff-modified "#808080,#43d426"
+color-link diff-deleted "#d90429,#43d426"
+color-link gutter-error "#d90429,#43d426"
+color-link gutter-warning "#6943ff,#43d426"
+
+color-link cursor-line "#43d426"
+color-link color-column "#43d426"

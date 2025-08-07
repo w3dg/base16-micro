@@ -1,0 +1,44 @@
+# Base16 Atelier Heath - micro color scheme
+# Scheme by Bram de Haan (http://atelierbramdehaan.nl)
+
+color-link default "#ab9bab,#1b181b"
+
+color-link comment "#776977"
+
+color-link constant "#a65926"
+color-link constant.specialChar "#cc33cc"
+color-link constant.string "#918b3b"
+
+color-link identifier "#ca402b"
+color-link identifier.class "#bb8a35"
+
+color-link preproc "#bb8a35"
+
+color-link special "#159393"
+
+color-link statement "#ca402b"
+
+color-link symbol.operator "#ab9bab"
+color-link symbol.tag "#ab9bab"
+
+color-link type "#bb8a35"
+
+color-link underlined "#ca402b"
+
+color-link error "bold #1b181b,#ca402b"
+color-link todo "bold #bb8a35,#292329"
+color-link hlsearch "#292329,#bb8a35"
+color-link statusline "#9e8f9e,#695d69"
+color-link tabbar "#776977,#292329"
+color-link indent-char "#776977"
+color-link line-number "#776977,#292329"
+color-link current-line-number "#9e8f9e,#292329"
+
+color-link diff-added "#918b3b,#292329"
+color-link diff-modified "#776977,#292329"
+color-link diff-deleted "#ca402b,#292329"
+color-link gutter-error "#ca402b,#292329"
+color-link gutter-warning "#516aec,#292329"
+
+color-link cursor-line "#292329"
+color-link color-column "#292329"

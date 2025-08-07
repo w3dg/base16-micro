@@ -1,0 +1,44 @@
+# Base16 Unikitty Dark - micro color scheme
+# Scheme by Josh W Lewis (@joshwlewis)
+
+color-link default "#bcbabe,#2e2a31"
+
+color-link comment "#838085"
+
+color-link constant "#d65407"
+color-link constant.specialChar "#c720ca"
+color-link constant.string "#17ad98"
+
+color-link identifier "#d8137f"
+color-link identifier.class "#dc8a0e"
+
+color-link preproc "#dc8a0e"
+
+color-link special "#149bda"
+
+color-link statement "#d8137f"
+
+color-link symbol.operator "#bcbabe"
+color-link symbol.tag "#bcbabe"
+
+color-link type "#dc8a0e"
+
+color-link underlined "#d8137f"
+
+color-link error "bold #2e2a31,#d8137f"
+color-link todo "bold #dc8a0e,#4a464d"
+color-link hlsearch "#4a464d,#dc8a0e"
+color-link statusline "#9f9da2,#666369"
+color-link tabbar "#838085,#4a464d"
+color-link indent-char "#838085"
+color-link line-number "#838085,#4a464d"
+color-link current-line-number "#9f9da2,#4a464d"
+
+color-link diff-added "#17ad98,#4a464d"
+color-link diff-modified "#838085,#4a464d"
+color-link diff-deleted "#d8137f,#4a464d"
+color-link gutter-error "#d8137f,#4a464d"
+color-link gutter-warning "#796af5,#4a464d"
+
+color-link cursor-line "#4a464d"
+color-link color-column "#4a464d"

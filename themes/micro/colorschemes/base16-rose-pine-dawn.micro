@@ -1,0 +1,44 @@
+# Base16 Rosé Pine Dawn - micro color scheme
+# Scheme by Emilia Dunfelt &lt;edun@dunfelt.se&gt;
+
+color-link default "#575279,#faf4ed"
+
+color-link comment "#9893a5"
+
+color-link constant "#ea9d34"
+color-link constant.specialChar "#cecacd"
+color-link constant.string "#286983"
+
+color-link identifier "#b4637a"
+color-link identifier.class "#d7827e"
+
+color-link preproc "#d7827e"
+
+color-link special "#56949f"
+
+color-link statement "#b4637a"
+
+color-link symbol.operator "#575279"
+color-link symbol.tag "#575279"
+
+color-link type "#d7827e"
+
+color-link underlined "#b4637a"
+
+color-link error "bold #faf4ed,#b4637a"
+color-link todo "bold #d7827e,#fffaf3"
+color-link hlsearch "#fffaf3,#d7827e"
+color-link statusline "#797593,#f2e9de"
+color-link tabbar "#9893a5,#fffaf3"
+color-link indent-char "#9893a5"
+color-link line-number "#9893a5,#fffaf3"
+color-link current-line-number "#797593,#fffaf3"
+
+color-link diff-added "#286983,#fffaf3"
+color-link diff-modified "#9893a5,#fffaf3"
+color-link diff-deleted "#b4637a,#fffaf3"
+color-link gutter-error "#b4637a,#fffaf3"
+color-link gutter-warning "#907aa9,#fffaf3"
+
+color-link cursor-line "#fffaf3"
+color-link color-column "#fffaf3"

@@ -1,0 +1,44 @@
+# Base16 Rosé Pine - micro color scheme
+# Scheme by Emilia Dunfelt &lt;edun@dunfelt.se&gt;
+
+color-link default "#e0def4,#191724"
+
+color-link comment "#6e6a86"
+
+color-link constant "#f6c177"
+color-link constant.specialChar "#524f67"
+color-link constant.string "#31748f"
+
+color-link identifier "#eb6f92"
+color-link identifier.class "#ebbcba"
+
+color-link preproc "#ebbcba"
+
+color-link special "#9ccfd8"
+
+color-link statement "#eb6f92"
+
+color-link symbol.operator "#e0def4"
+color-link symbol.tag "#e0def4"
+
+color-link type "#ebbcba"
+
+color-link underlined "#eb6f92"
+
+color-link error "bold #191724,#eb6f92"
+color-link todo "bold #ebbcba,#1f1d2e"
+color-link hlsearch "#1f1d2e,#ebbcba"
+color-link statusline "#908caa,#26233a"
+color-link tabbar "#6e6a86,#1f1d2e"
+color-link indent-char "#6e6a86"
+color-link line-number "#6e6a86,#1f1d2e"
+color-link current-line-number "#908caa,#1f1d2e"
+
+color-link diff-added "#31748f,#1f1d2e"
+color-link diff-modified "#6e6a86,#1f1d2e"
+color-link diff-deleted "#eb6f92,#1f1d2e"
+color-link gutter-error "#eb6f92,#1f1d2e"
+color-link gutter-warning "#c4a7e7,#1f1d2e"
+
+color-link cursor-line "#1f1d2e"
+color-link color-column "#1f1d2e"

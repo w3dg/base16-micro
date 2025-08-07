@@ -1,0 +1,44 @@
+# Base16 Flat - micro color scheme
+# Scheme by Chris Kempson (http://chriskempson.com)
+
+color-link default "#e0e0e0,#2c3e50"
+
+color-link comment "#95a5a6"
+
+color-link constant "#e67e22"
+color-link constant.specialChar "#be643c"
+color-link constant.string "#2ecc71"
+
+color-link identifier "#e74c3c"
+color-link identifier.class "#f1c40f"
+
+color-link preproc "#f1c40f"
+
+color-link special "#1abc9c"
+
+color-link statement "#e74c3c"
+
+color-link symbol.operator "#e0e0e0"
+color-link symbol.tag "#e0e0e0"
+
+color-link type "#f1c40f"
+
+color-link underlined "#e74c3c"
+
+color-link error "bold #2c3e50,#e74c3c"
+color-link todo "bold #f1c40f,#34495e"
+color-link hlsearch "#34495e,#f1c40f"
+color-link statusline "#bdc3c7,#7f8c8d"
+color-link tabbar "#95a5a6,#34495e"
+color-link indent-char "#95a5a6"
+color-link line-number "#95a5a6,#34495e"
+color-link current-line-number "#bdc3c7,#34495e"
+
+color-link diff-added "#2ecc71,#34495e"
+color-link diff-modified "#95a5a6,#34495e"
+color-link diff-deleted "#e74c3c,#34495e"
+color-link gutter-error "#e74c3c,#34495e"
+color-link gutter-warning "#3498db,#34495e"
+
+color-link cursor-line "#34495e"
+color-link color-column "#34495e"

@@ -1,0 +1,44 @@
+# Base16 Still Alive - micro color scheme
+# Scheme by Derrick McKee (derrick.mckee@gmail.com)
+
+color-link default "#d80000,#f0f0f0"
+
+color-link comment "#f01818"
+
+color-link constant "#183048"
+color-link constant.specialChar "#140c0d"
+color-link constant.string "#5c5c6a"
+
+color-link identifier "#487830"
+color-link identifier.class "#426395"
+
+color-link preproc "#426395"
+
+color-link special "#2c3c57"
+
+color-link statement "#487830"
+
+color-link symbol.operator "#d80000"
+color-link symbol.tag "#d80000"
+
+color-link type "#426395"
+
+color-link underlined "#487830"
+
+color-link error "bold #f0f0f0,#487830"
+color-link todo "bold #426395,#f0d848"
+color-link hlsearch "#f0d848,#426395"
+color-link statusline "#f00000,#fff018"
+color-link tabbar "#f01818,#f0d848"
+color-link indent-char "#f01818"
+color-link line-number "#f01818,#f0d848"
+color-link current-line-number "#f00000,#f0d848"
+
+color-link diff-added "#5c5c6a,#f0d848"
+color-link diff-modified "#f01818,#f0d848"
+color-link diff-deleted "#487830,#f0d848"
+color-link gutter-error "#487830,#f0d848"
+color-link gutter-warning "#001878,#f0d848"
+
+color-link cursor-line "#f0d848"
+color-link color-column "#f0d848"

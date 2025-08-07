@@ -1,0 +1,44 @@
+# Base16 Charcoal Light - micro color scheme
+# Scheme by Mubin Muhammad (https://github.com/mubin6th)
+
+color-link default "#35291d,#d6b891"
+
+color-link comment "#887254"
+
+color-link constant "#120f09"
+color-link constant.specialChar "#66553f"
+color-link constant.string "#120f09"
+
+color-link identifier "#413325"
+color-link identifier.class "#292016"
+
+color-link preproc "#292016"
+
+color-link special "#413325"
+
+color-link statement "#413325"
+
+color-link symbol.operator "#35291d"
+color-link symbol.tag "#35291d"
+
+color-link type "#292016"
+
+color-link underlined "#413325"
+
+color-link error "bold #d6b891,#413325"
+color-link todo "bold #292016,#c0a179"
+color-link hlsearch "#c0a179,#292016"
+color-link statusline "#1e1812,#a28662"
+color-link tabbar "#887254,#c0a179"
+color-link indent-char "#887254"
+color-link line-number "#887254,#c0a179"
+color-link current-line-number "#1e1812,#c0a179"
+
+color-link diff-added "#120f09,#c0a179"
+color-link diff-modified "#887254,#c0a179"
+color-link diff-deleted "#413325,#c0a179"
+color-link gutter-error "#413325,#c0a179"
+color-link gutter-warning "#120f09,#c0a179"
+
+color-link cursor-line "#c0a179"
+color-link color-column "#c0a179"

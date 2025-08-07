@@ -1,0 +1,44 @@
+# Base16 Kanagawa - micro color scheme
+# Scheme by Tommaso Laurenzi (https://github.com/rebelot)
+
+color-link default "#dcd7ba,#1f1f28"
+
+color-link comment "#54546d"
+
+color-link constant "#ffa066"
+color-link constant.specialChar "#d27e99"
+color-link constant.string "#76946a"
+
+color-link identifier "#c34043"
+color-link identifier.class "#c0a36e"
+
+color-link preproc "#c0a36e"
+
+color-link special "#6a9589"
+
+color-link statement "#c34043"
+
+color-link symbol.operator "#dcd7ba"
+color-link symbol.tag "#dcd7ba"
+
+color-link type "#c0a36e"
+
+color-link underlined "#c34043"
+
+color-link error "bold #1f1f28,#c34043"
+color-link todo "bold #c0a36e,#16161d"
+color-link hlsearch "#16161d,#c0a36e"
+color-link statusline "#727169,#223249"
+color-link tabbar "#54546d,#16161d"
+color-link indent-char "#54546d"
+color-link line-number "#54546d,#16161d"
+color-link current-line-number "#727169,#16161d"
+
+color-link diff-added "#76946a,#16161d"
+color-link diff-modified "#54546d,#16161d"
+color-link diff-deleted "#c34043,#16161d"
+color-link gutter-error "#c34043,#16161d"
+color-link gutter-warning "#7e9cd8,#16161d"
+
+color-link cursor-line "#16161d"
+color-link color-column "#16161d"

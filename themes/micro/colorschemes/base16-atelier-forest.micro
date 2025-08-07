@@ -1,0 +1,44 @@
+# Base16 Atelier Forest - micro color scheme
+# Scheme by Bram de Haan (http://atelierbramdehaan.nl)
+
+color-link default "#a8a19f,#1b1918"
+
+color-link comment "#766e6b"
+
+color-link constant "#df5320"
+color-link constant.specialChar "#c33ff3"
+color-link constant.string "#7b9726"
+
+color-link identifier "#f22c40"
+color-link identifier.class "#c38418"
+
+color-link preproc "#c38418"
+
+color-link special "#3d97b8"
+
+color-link statement "#f22c40"
+
+color-link symbol.operator "#a8a19f"
+color-link symbol.tag "#a8a19f"
+
+color-link type "#c38418"
+
+color-link underlined "#f22c40"
+
+color-link error "bold #1b1918,#f22c40"
+color-link todo "bold #c38418,#2c2421"
+color-link hlsearch "#2c2421,#c38418"
+color-link statusline "#9c9491,#68615e"
+color-link tabbar "#766e6b,#2c2421"
+color-link indent-char "#766e6b"
+color-link line-number "#766e6b,#2c2421"
+color-link current-line-number "#9c9491,#2c2421"
+
+color-link diff-added "#7b9726,#2c2421"
+color-link diff-modified "#766e6b,#2c2421"
+color-link diff-deleted "#f22c40,#2c2421"
+color-link gutter-error "#f22c40,#2c2421"
+color-link gutter-warning "#407ee7,#2c2421"
+
+color-link cursor-line "#2c2421"
+color-link color-column "#2c2421"

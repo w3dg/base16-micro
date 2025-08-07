@@ -1,0 +1,44 @@
+# Base16 Gruvbox Light - micro color scheme
+# Scheme by Tinted Theming (https://github.com/tinted-theming), morhetz (https://github.com/morhetz/gruvbox)
+
+color-link default "#3c3836,#fbf1c7"
+
+color-link comment "#bdae93"
+
+color-link constant "#d65d0e"
+color-link constant.specialChar "#9d0006"
+color-link constant.string "#98971a"
+
+color-link identifier "#cc241d"
+color-link identifier.class "#d79921"
+
+color-link preproc "#d79921"
+
+color-link special "#689d6a"
+
+color-link statement "#cc241d"
+
+color-link symbol.operator "#3c3836"
+color-link symbol.tag "#3c3836"
+
+color-link type "#d79921"
+
+color-link underlined "#cc241d"
+
+color-link error "bold #fbf1c7,#cc241d"
+color-link todo "bold #d79921,#ebdbb2"
+color-link hlsearch "#ebdbb2,#d79921"
+color-link statusline "#7c6f64,#d5c4a1"
+color-link tabbar "#bdae93,#ebdbb2"
+color-link indent-char "#bdae93"
+color-link line-number "#bdae93,#ebdbb2"
+color-link current-line-number "#7c6f64,#ebdbb2"
+
+color-link diff-added "#98971a,#ebdbb2"
+color-link diff-modified "#bdae93,#ebdbb2"
+color-link diff-deleted "#cc241d,#ebdbb2"
+color-link gutter-error "#cc241d,#ebdbb2"
+color-link gutter-warning "#458588,#ebdbb2"
+
+color-link cursor-line "#ebdbb2"
+color-link color-column "#ebdbb2"

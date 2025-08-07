@@ -1,0 +1,44 @@
+# Base16 Material Palenight - micro color scheme
+# Scheme by Nate Peterson
+
+color-link default "#959dcb,#292d3e"
+
+color-link comment "#676e95"
+
+color-link constant "#f78c6c"
+color-link constant.specialChar "#ff5370"
+color-link constant.string "#c3e88d"
+
+color-link identifier "#f07178"
+color-link identifier.class "#ffcb6b"
+
+color-link preproc "#ffcb6b"
+
+color-link special "#89ddff"
+
+color-link statement "#f07178"
+
+color-link symbol.operator "#959dcb"
+color-link symbol.tag "#959dcb"
+
+color-link type "#ffcb6b"
+
+color-link underlined "#f07178"
+
+color-link error "bold #292d3e,#f07178"
+color-link todo "bold #ffcb6b,#444267"
+color-link hlsearch "#444267,#ffcb6b"
+color-link statusline "#8796b0,#32374d"
+color-link tabbar "#676e95,#444267"
+color-link indent-char "#676e95"
+color-link line-number "#676e95,#444267"
+color-link current-line-number "#8796b0,#444267"
+
+color-link diff-added "#c3e88d,#444267"
+color-link diff-modified "#676e95,#444267"
+color-link diff-deleted "#f07178,#444267"
+color-link gutter-error "#f07178,#444267"
+color-link gutter-warning "#82aaff,#444267"
+
+color-link cursor-line "#444267"
+color-link color-column "#444267"

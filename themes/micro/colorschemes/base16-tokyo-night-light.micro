@@ -1,0 +1,44 @@
+# Base16 Tokyo Night Light - micro color scheme
+# Scheme by Michaël Ball
+
+color-link default "#343b59,#d5d6db"
+
+color-link comment "#9699a3"
+
+color-link constant "#965027"
+color-link constant.specialChar "#8c4351"
+color-link constant.string "#485e30"
+
+color-link identifier "#343b58"
+color-link identifier.class "#166775"
+
+color-link preproc "#166775"
+
+color-link special "#3e6968"
+
+color-link statement "#343b58"
+
+color-link symbol.operator "#343b59"
+color-link symbol.tag "#343b59"
+
+color-link type "#166775"
+
+color-link underlined "#343b58"
+
+color-link error "bold #d5d6db,#343b58"
+color-link todo "bold #166775,#cbccd1"
+color-link hlsearch "#cbccd1,#166775"
+color-link statusline "#4c505e,#dfe0e5"
+color-link tabbar "#9699a3,#cbccd1"
+color-link indent-char "#9699a3"
+color-link line-number "#9699a3,#cbccd1"
+color-link current-line-number "#4c505e,#cbccd1"
+
+color-link diff-added "#485e30,#cbccd1"
+color-link diff-modified "#9699a3,#cbccd1"
+color-link diff-deleted "#343b58,#cbccd1"
+color-link gutter-error "#343b58,#cbccd1"
+color-link gutter-warning "#34548a,#cbccd1"
+
+color-link cursor-line "#cbccd1"
+color-link color-column "#cbccd1"

@@ -1,0 +1,44 @@
+# Base16 Silk Light - micro color scheme
+# Scheme by Gabriel Fontes (https://github.com/Misterio77)
+
+color-link default "#385156,#e9f1ef"
+
+color-link comment "#5c787b"
+
+color-link constant "#d27f46"
+color-link constant.specialChar "#865369"
+color-link constant.string "#6ca38c"
+
+color-link identifier "#cf432e"
+color-link identifier.class "#cfad25"
+
+color-link preproc "#cfad25"
+
+color-link special "#329ca2"
+
+color-link statement "#cf432e"
+
+color-link symbol.operator "#385156"
+color-link symbol.tag "#385156"
+
+color-link type "#cfad25"
+
+color-link underlined "#cf432e"
+
+color-link error "bold #e9f1ef,#cf432e"
+color-link todo "bold #cfad25,#ccd4d3"
+color-link hlsearch "#ccd4d3,#cfad25"
+color-link statusline "#4b5b5f,#90b7b6"
+color-link tabbar "#5c787b,#ccd4d3"
+color-link indent-char "#5c787b"
+color-link line-number "#5c787b,#ccd4d3"
+color-link current-line-number "#4b5b5f,#ccd4d3"
+
+color-link diff-added "#6ca38c,#ccd4d3"
+color-link diff-modified "#5c787b,#ccd4d3"
+color-link diff-deleted "#cf432e,#ccd4d3"
+color-link gutter-error "#cf432e,#ccd4d3"
+color-link gutter-warning "#39aac9,#ccd4d3"
+
+color-link cursor-line "#ccd4d3"
+color-link color-column "#ccd4d3"

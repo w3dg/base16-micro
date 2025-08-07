@@ -1,0 +1,44 @@
+# Base16 Unikitty Light - micro color scheme
+# Scheme by Josh W Lewis (@joshwlewis)
+
+color-link default "#6c696e,#ffffff"
+
+color-link comment "#a7a5a8"
+
+color-link constant "#d65407"
+color-link constant.specialChar "#e013d0"
+color-link constant.string "#17ad98"
+
+color-link identifier "#d8137f"
+color-link identifier.class "#dc8a0e"
+
+color-link preproc "#dc8a0e"
+
+color-link special "#149bda"
+
+color-link statement "#d8137f"
+
+color-link symbol.operator "#6c696e"
+color-link symbol.tag "#6c696e"
+
+color-link type "#dc8a0e"
+
+color-link underlined "#d8137f"
+
+color-link error "bold #ffffff,#d8137f"
+color-link todo "bold #dc8a0e,#e1e1e2"
+color-link hlsearch "#e1e1e2,#dc8a0e"
+color-link statusline "#89878b,#c4c3c5"
+color-link tabbar "#a7a5a8,#e1e1e2"
+color-link indent-char "#a7a5a8"
+color-link line-number "#a7a5a8,#e1e1e2"
+color-link current-line-number "#89878b,#e1e1e2"
+
+color-link diff-added "#17ad98,#e1e1e2"
+color-link diff-modified "#a7a5a8,#e1e1e2"
+color-link diff-deleted "#d8137f,#e1e1e2"
+color-link gutter-error "#d8137f,#e1e1e2"
+color-link gutter-warning "#775dff,#e1e1e2"
+
+color-link cursor-line "#e1e1e2"
+color-link color-column "#e1e1e2"

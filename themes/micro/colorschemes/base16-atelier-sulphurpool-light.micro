@@ -1,0 +1,44 @@
+# Base16 Atelier Sulphurpool Light - micro color scheme
+# Scheme by Bram de Haan (http://atelierbramdehaan.nl)
+
+color-link default "#5e6687,#f5f7ff"
+
+color-link comment "#898ea4"
+
+color-link constant "#c76b29"
+color-link constant.specialChar "#9c637a"
+color-link constant.string "#ac9739"
+
+color-link identifier "#c94922"
+color-link identifier.class "#c08b30"
+
+color-link preproc "#c08b30"
+
+color-link special "#22a2c9"
+
+color-link statement "#c94922"
+
+color-link symbol.operator "#5e6687"
+color-link symbol.tag "#5e6687"
+
+color-link type "#c08b30"
+
+color-link underlined "#c94922"
+
+color-link error "bold #f5f7ff,#c94922"
+color-link todo "bold #c08b30,#dfe2f1"
+color-link hlsearch "#dfe2f1,#c08b30"
+color-link statusline "#6b7394,#979db4"
+color-link tabbar "#898ea4,#dfe2f1"
+color-link indent-char "#898ea4"
+color-link line-number "#898ea4,#dfe2f1"
+color-link current-line-number "#6b7394,#dfe2f1"
+
+color-link diff-added "#ac9739,#dfe2f1"
+color-link diff-modified "#898ea4,#dfe2f1"
+color-link diff-deleted "#c94922,#dfe2f1"
+color-link gutter-error "#c94922,#dfe2f1"
+color-link gutter-warning "#3d8fd1,#dfe2f1"
+
+color-link cursor-line "#dfe2f1"
+color-link color-column "#dfe2f1"

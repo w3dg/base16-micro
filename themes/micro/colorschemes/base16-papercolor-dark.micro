@@ -1,0 +1,44 @@
+# Base16 PaperColor Dark - micro color scheme
+# Scheme by Jon Leopard (http://github.com/jonleopard), based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)
+
+color-link default "#808080,#1c1c1c"
+
+color-link comment "#d7af5f"
+
+color-link constant "#5faf5f"
+color-link constant.specialChar "#5f8787"
+color-link constant.string "#af87d7"
+
+color-link identifier "#585858"
+color-link identifier.class "#afd700"
+
+color-link preproc "#afd700"
+
+color-link special "#ffaf00"
+
+color-link statement "#585858"
+
+color-link symbol.operator "#808080"
+color-link symbol.tag "#808080"
+
+color-link type "#afd700"
+
+color-link underlined "#585858"
+
+color-link error "bold #1c1c1c,#585858"
+color-link todo "bold #afd700,#af005f"
+color-link hlsearch "#af005f,#afd700"
+color-link statusline "#5fafd7,#5faf00"
+color-link tabbar "#d7af5f,#af005f"
+color-link indent-char "#d7af5f"
+color-link line-number "#d7af5f,#af005f"
+color-link current-line-number "#5fafd7,#af005f"
+
+color-link diff-added "#af87d7,#af005f"
+color-link diff-modified "#d7af5f,#af005f"
+color-link diff-deleted "#585858,#af005f"
+color-link gutter-error "#585858,#af005f"
+color-link gutter-warning "#ff5faf,#af005f"
+
+color-link cursor-line "#af005f"
+color-link color-column "#af005f"

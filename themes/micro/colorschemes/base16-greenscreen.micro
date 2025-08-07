@@ -1,0 +1,44 @@
+# Base16 Green Screen - micro color scheme
+# Scheme by Chris Kempson (http://chriskempson.com)
+
+color-link default "#00bb00,#001100"
+
+color-link comment "#007700"
+
+color-link constant "#009900"
+color-link constant.specialChar "#005500"
+color-link constant.string "#00bb00"
+
+color-link identifier "#007700"
+color-link identifier.class "#007700"
+
+color-link preproc "#007700"
+
+color-link special "#005500"
+
+color-link statement "#007700"
+
+color-link symbol.operator "#00bb00"
+color-link symbol.tag "#00bb00"
+
+color-link type "#007700"
+
+color-link underlined "#007700"
+
+color-link error "bold #001100,#007700"
+color-link todo "bold #007700,#003300"
+color-link hlsearch "#003300,#007700"
+color-link statusline "#009900,#005500"
+color-link tabbar "#007700,#003300"
+color-link indent-char "#007700"
+color-link line-number "#007700,#003300"
+color-link current-line-number "#009900,#003300"
+
+color-link diff-added "#00bb00,#003300"
+color-link diff-modified "#007700,#003300"
+color-link diff-deleted "#007700,#003300"
+color-link gutter-error "#007700,#003300"
+color-link gutter-warning "#009900,#003300"
+
+color-link cursor-line "#003300"
+color-link color-column "#003300"

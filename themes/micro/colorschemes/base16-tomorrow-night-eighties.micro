@@ -1,0 +1,44 @@
+# Base16 Tomorrow Night Eighties - micro color scheme
+# Scheme by Chris Kempson (http://chriskempson.com)
+
+color-link default "#cccccc,#2d2d2d"
+
+color-link comment "#999999"
+
+color-link constant "#f99157"
+color-link constant.specialChar "#a3685a"
+color-link constant.string "#99cc99"
+
+color-link identifier "#f2777a"
+color-link identifier.class "#ffcc66"
+
+color-link preproc "#ffcc66"
+
+color-link special "#66cccc"
+
+color-link statement "#f2777a"
+
+color-link symbol.operator "#cccccc"
+color-link symbol.tag "#cccccc"
+
+color-link type "#ffcc66"
+
+color-link underlined "#f2777a"
+
+color-link error "bold #2d2d2d,#f2777a"
+color-link todo "bold #ffcc66,#393939"
+color-link hlsearch "#393939,#ffcc66"
+color-link statusline "#b4b7b4,#515151"
+color-link tabbar "#999999,#393939"
+color-link indent-char "#999999"
+color-link line-number "#999999,#393939"
+color-link current-line-number "#b4b7b4,#393939"
+
+color-link diff-added "#99cc99,#393939"
+color-link diff-modified "#999999,#393939"
+color-link diff-deleted "#f2777a,#393939"
+color-link gutter-error "#f2777a,#393939"
+color-link gutter-warning "#6699cc,#393939"
+
+color-link cursor-line "#393939"
+color-link color-column "#393939"

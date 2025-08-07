@@ -1,0 +1,44 @@
+# Base16 Dracula - micro color scheme
+# Scheme by Jamy Golden (http://github.com/JamyGolden), based on Dracula Theme (http://github.com/dracula)
+
+color-link default "#f8f8f2,#282a36"
+
+color-link comment "#6272a4"
+
+color-link constant "#ffb86c"
+color-link constant.specialChar "#bd93f9"
+color-link constant.string "#50fa7b"
+
+color-link identifier "#ff5555"
+color-link identifier.class "#f1fa8c"
+
+color-link preproc "#f1fa8c"
+
+color-link special "#8be9fd"
+
+color-link statement "#ff5555"
+
+color-link symbol.operator "#f8f8f2"
+color-link symbol.tag "#f8f8f2"
+
+color-link type "#f1fa8c"
+
+color-link underlined "#ff5555"
+
+color-link error "bold #282a36,#ff5555"
+color-link todo "bold #f1fa8c,#363447"
+color-link hlsearch "#363447,#f1fa8c"
+color-link statusline "#9ea8c7,#44475a"
+color-link tabbar "#6272a4,#363447"
+color-link indent-char "#6272a4"
+color-link line-number "#6272a4,#363447"
+color-link current-line-number "#9ea8c7,#363447"
+
+color-link diff-added "#50fa7b,#363447"
+color-link diff-modified "#6272a4,#363447"
+color-link diff-deleted "#ff5555,#363447"
+color-link gutter-error "#ff5555,#363447"
+color-link gutter-warning "#80bfff,#363447"
+
+color-link cursor-line "#363447"
+color-link color-column "#363447"

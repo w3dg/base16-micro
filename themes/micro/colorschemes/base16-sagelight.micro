@@ -1,0 +1,44 @@
+# Base16 Sagelight - micro color scheme
+# Scheme by Carter Veldhuizen
+
+color-link default "#383838,#f8f8f8"
+
+color-link comment "#b8b8b8"
+
+color-link constant "#ffaa61"
+color-link constant.specialChar "#d2b2a0"
+color-link constant.string "#a0d2c8"
+
+color-link identifier "#fa8480"
+color-link identifier.class "#ffdc61"
+
+color-link preproc "#ffdc61"
+
+color-link special "#a2d6f5"
+
+color-link statement "#fa8480"
+
+color-link symbol.operator "#383838"
+color-link symbol.tag "#383838"
+
+color-link type "#ffdc61"
+
+color-link underlined "#fa8480"
+
+color-link error "bold #f8f8f8,#fa8480"
+color-link todo "bold #ffdc61,#e8e8e8"
+color-link hlsearch "#e8e8e8,#ffdc61"
+color-link statusline "#585858,#d8d8d8"
+color-link tabbar "#b8b8b8,#e8e8e8"
+color-link indent-char "#b8b8b8"
+color-link line-number "#b8b8b8,#e8e8e8"
+color-link current-line-number "#585858,#e8e8e8"
+
+color-link diff-added "#a0d2c8,#e8e8e8"
+color-link diff-modified "#b8b8b8,#e8e8e8"
+color-link diff-deleted "#fa8480,#e8e8e8"
+color-link gutter-error "#fa8480,#e8e8e8"
+color-link gutter-warning "#a0a7d2,#e8e8e8"
+
+color-link cursor-line "#e8e8e8"
+color-link color-column "#e8e8e8"

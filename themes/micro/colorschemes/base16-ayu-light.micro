@@ -1,0 +1,44 @@
+# Base16 Ayu Light - micro color scheme
+# Scheme by Khue Nguyen &lt;Z5483Y@gmail.com&gt;
+
+color-link default "#5c6773,#fafafa"
+
+color-link comment "#abb0b6"
+
+color-link constant "#fa8d3e"
+color-link constant.specialChar "#e6ba7e"
+color-link constant.string "#86b300"
+
+color-link identifier "#f07178"
+color-link identifier.class "#f2ae49"
+
+color-link preproc "#f2ae49"
+
+color-link special "#4cbf99"
+
+color-link statement "#f07178"
+
+color-link symbol.operator "#5c6773"
+color-link symbol.tag "#5c6773"
+
+color-link type "#f2ae49"
+
+color-link underlined "#f07178"
+
+color-link error "bold #fafafa,#f07178"
+color-link todo "bold #f2ae49,#f3f4f5"
+color-link hlsearch "#f3f4f5,#f2ae49"
+color-link statusline "#828c99,#f8f9fa"
+color-link tabbar "#abb0b6,#f3f4f5"
+color-link indent-char "#abb0b6"
+color-link line-number "#abb0b6,#f3f4f5"
+color-link current-line-number "#828c99,#f3f4f5"
+
+color-link diff-added "#86b300,#f3f4f5"
+color-link diff-modified "#abb0b6,#f3f4f5"
+color-link diff-deleted "#f07178,#f3f4f5"
+color-link gutter-error "#f07178,#f3f4f5"
+color-link gutter-warning "#36a3d9,#f3f4f5"
+
+color-link cursor-line "#f3f4f5"
+color-link color-column "#f3f4f5"

@@ -1,0 +1,44 @@
+# Base16 Brush Trees - micro color scheme
+# Scheme by Abraham White &lt;abelincoln.white@gmail.com&gt;
+
+color-link default "#6d828e,#e3efef"
+
+color-link comment "#98afb5"
+
+color-link constant "#d8bba2"
+color-link constant.specialChar "#b39f9f"
+color-link constant.string "#87b386"
+
+color-link identifier "#b38686"
+color-link identifier.class "#aab386"
+
+color-link preproc "#aab386"
+
+color-link special "#86b3b3"
+
+color-link statement "#b38686"
+
+color-link symbol.operator "#6d828e"
+color-link symbol.tag "#6d828e"
+
+color-link type "#aab386"
+
+color-link underlined "#b38686"
+
+color-link error "bold #e3efef,#b38686"
+color-link todo "bold #aab386,#c9dbdc"
+color-link hlsearch "#c9dbdc,#aab386"
+color-link statusline "#8299a1,#b0c5c8"
+color-link tabbar "#98afb5,#c9dbdc"
+color-link indent-char "#98afb5"
+color-link line-number "#98afb5,#c9dbdc"
+color-link current-line-number "#8299a1,#c9dbdc"
+
+color-link diff-added "#87b386,#c9dbdc"
+color-link diff-modified "#98afb5,#c9dbdc"
+color-link diff-deleted "#b38686,#c9dbdc"
+color-link gutter-error "#b38686,#c9dbdc"
+color-link gutter-warning "#868cb3,#c9dbdc"
+
+color-link cursor-line "#c9dbdc"
+color-link color-column "#c9dbdc"

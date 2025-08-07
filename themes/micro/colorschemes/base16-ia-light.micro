@@ -1,0 +1,44 @@
+# Base16 iA Light - micro color scheme
+# Scheme by iA Inc. (modified by aramisgithub)
+
+color-link default "#181818,#f6f6f6"
+
+color-link comment "#898989"
+
+color-link constant "#c43e18"
+color-link constant.specialChar "#8b6c37"
+color-link constant.string "#38781c"
+
+color-link identifier "#9c5a02"
+color-link identifier.class "#c48218"
+
+color-link preproc "#c48218"
+
+color-link special "#2d6bb1"
+
+color-link statement "#9c5a02"
+
+color-link symbol.operator "#181818"
+color-link symbol.tag "#181818"
+
+color-link type "#c48218"
+
+color-link underlined "#9c5a02"
+
+color-link error "bold #f6f6f6,#9c5a02"
+color-link todo "bold #c48218,#dedede"
+color-link hlsearch "#dedede,#c48218"
+color-link statusline "#767676,#bde5f2"
+color-link tabbar "#898989,#dedede"
+color-link indent-char "#898989"
+color-link line-number "#898989,#dedede"
+color-link current-line-number "#767676,#dedede"
+
+color-link diff-added "#38781c,#dedede"
+color-link diff-modified "#898989,#dedede"
+color-link diff-deleted "#9c5a02,#dedede"
+color-link gutter-error "#9c5a02,#dedede"
+color-link gutter-warning "#48bac2,#dedede"
+
+color-link cursor-line "#dedede"
+color-link color-column "#dedede"

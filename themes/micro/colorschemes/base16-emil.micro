@@ -1,0 +1,44 @@
+# Base16 emil - micro color scheme
+# Scheme by limelier
+
+color-link default "#313145,#efefef"
+
+color-link comment "#7c7c98"
+
+color-link constant "#d22a8b"
+color-link constant.specialChar "#8d17a5"
+color-link constant.string "#0073a8"
+
+color-link identifier "#f43979"
+color-link identifier.class "#ff669b"
+
+color-link preproc "#ff669b"
+
+color-link special "#2155d6"
+
+color-link statement "#f43979"
+
+color-link symbol.operator "#313145"
+color-link symbol.tag "#313145"
+
+color-link type "#ff669b"
+
+color-link underlined "#f43979"
+
+color-link error "bold #efefef,#f43979"
+color-link todo "bold #ff669b,#bebed2"
+color-link hlsearch "#bebed2,#ff669b"
+color-link statusline "#505063,#9e9eaf"
+color-link tabbar "#7c7c98,#bebed2"
+color-link indent-char "#7c7c98"
+color-link line-number "#7c7c98,#bebed2"
+color-link current-line-number "#505063,#bebed2"
+
+color-link diff-added "#0073a8,#bebed2"
+color-link diff-modified "#7c7c98,#bebed2"
+color-link diff-deleted "#f43979,#bebed2"
+color-link gutter-error "#f43979,#bebed2"
+color-link gutter-warning "#471397,#bebed2"
+
+color-link cursor-line "#bebed2"
+color-link color-column "#bebed2"

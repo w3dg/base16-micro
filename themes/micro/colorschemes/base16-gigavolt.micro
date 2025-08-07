@@ -1,0 +1,44 @@
+# Base16 Gigavolt - micro color scheme
+# Scheme by Aidan Swope (http://github.com/Whillikers)
+
+color-link default "#e9e7e1,#202126"
+
+color-link comment "#a1d2e6"
+
+color-link constant "#19f988"
+color-link constant.specialChar "#6187ff"
+color-link constant.string "#f2e6a9"
+
+color-link identifier "#ff661a"
+color-link identifier.class "#ffdc2d"
+
+color-link preproc "#ffdc2d"
+
+color-link special "#fb6acb"
+
+color-link statement "#ff661a"
+
+color-link symbol.operator "#e9e7e1"
+color-link symbol.tag "#e9e7e1"
+
+color-link type "#ffdc2d"
+
+color-link underlined "#ff661a"
+
+color-link error "bold #202126,#ff661a"
+color-link todo "bold #ffdc2d,#2d303d"
+color-link hlsearch "#2d303d,#ffdc2d"
+color-link statusline "#cad3ff,#5a576e"
+color-link tabbar "#a1d2e6,#2d303d"
+color-link indent-char "#a1d2e6"
+color-link line-number "#a1d2e6,#2d303d"
+color-link current-line-number "#cad3ff,#2d303d"
+
+color-link diff-added "#f2e6a9,#2d303d"
+color-link diff-modified "#a1d2e6,#2d303d"
+color-link diff-deleted "#ff661a,#2d303d"
+color-link gutter-error "#ff661a,#2d303d"
+color-link gutter-warning "#40bfff,#2d303d"
+
+color-link cursor-line "#2d303d"
+color-link color-column "#2d303d"

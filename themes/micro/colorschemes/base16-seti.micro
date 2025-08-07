@@ -1,0 +1,44 @@
+# Base16 Seti UI - micro color scheme
+# Scheme by 
+
+color-link default "#d6d6d6,#151718"
+
+color-link comment "#41535b"
+
+color-link constant "#db7b55"
+color-link constant.specialChar "#8a553f"
+color-link constant.string "#9fca56"
+
+color-link identifier "#cd3f45"
+color-link identifier.class "#e6cd69"
+
+color-link preproc "#e6cd69"
+
+color-link special "#55dbbe"
+
+color-link statement "#cd3f45"
+
+color-link symbol.operator "#d6d6d6"
+color-link symbol.tag "#d6d6d6"
+
+color-link type "#e6cd69"
+
+color-link underlined "#cd3f45"
+
+color-link error "bold #151718,#cd3f45"
+color-link todo "bold #e6cd69,#282a2b"
+color-link hlsearch "#282a2b,#e6cd69"
+color-link statusline "#43a5d5,#3b758c"
+color-link tabbar "#41535b,#282a2b"
+color-link indent-char "#41535b"
+color-link line-number "#41535b,#282a2b"
+color-link current-line-number "#43a5d5,#282a2b"
+
+color-link diff-added "#9fca56,#282a2b"
+color-link diff-modified "#41535b,#282a2b"
+color-link diff-deleted "#cd3f45,#282a2b"
+color-link gutter-error "#cd3f45,#282a2b"
+color-link gutter-warning "#55b5db,#282a2b"
+
+color-link cursor-line "#282a2b"
+color-link color-column "#282a2b"

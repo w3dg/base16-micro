@@ -1,0 +1,44 @@
+# Base16 Precious Light Warm - micro color scheme
+# Scheme by 4lex4 &lt;4lex49@zoho.com&gt;
+
+color-link default "#4e5359,#fff5e5"
+
+color-link comment "#7f8080"
+
+color-link constant "#a25600"
+color-link constant.specialChar "#a83f92"
+color-link constant.string "#557300"
+
+color-link identifier "#b14745"
+color-link identifier.class "#876500"
+
+color-link preproc "#876500"
+
+color-link special "#0e7767"
+
+color-link statement "#b14745"
+
+color-link symbol.operator "#4e5359"
+color-link symbol.tag "#4e5359"
+
+color-link type "#876500"
+
+color-link underlined "#b14745"
+
+color-link error "bold #fff5e5,#b14745"
+color-link todo "bold #876500,#ece4d6"
+color-link hlsearch "#ece4d6,#876500"
+color-link statusline "#5d6065,#d9d3c8"
+color-link tabbar "#7f8080,#ece4d6"
+color-link indent-char "#7f8080"
+color-link line-number "#7f8080,#ece4d6"
+color-link current-line-number "#5d6065,#ece4d6"
+
+color-link diff-added "#557300,#ece4d6"
+color-link diff-modified "#7f8080,#ece4d6"
+color-link diff-deleted "#b14745,#ece4d6"
+color-link gutter-error "#b14745,#ece4d6"
+color-link gutter-warning "#246da5,#ece4d6"
+
+color-link cursor-line "#ece4d6"
+color-link color-column "#ece4d6"

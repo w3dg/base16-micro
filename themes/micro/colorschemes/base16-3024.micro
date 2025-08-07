@@ -1,0 +1,44 @@
+# Base16 3024 - micro color scheme
+# Scheme by Jan T. Sott (http://github.com/idleberg)
+
+color-link default "#a5a2a2,#090300"
+
+color-link comment "#5c5855"
+
+color-link constant "#e8bbd0"
+color-link constant.specialChar "#cdab53"
+color-link constant.string "#01a252"
+
+color-link identifier "#db2d20"
+color-link identifier.class "#fded02"
+
+color-link preproc "#fded02"
+
+color-link special "#b5e4f4"
+
+color-link statement "#db2d20"
+
+color-link symbol.operator "#a5a2a2"
+color-link symbol.tag "#a5a2a2"
+
+color-link type "#fded02"
+
+color-link underlined "#db2d20"
+
+color-link error "bold #090300,#db2d20"
+color-link todo "bold #fded02,#3a3432"
+color-link hlsearch "#3a3432,#fded02"
+color-link statusline "#807d7c,#4a4543"
+color-link tabbar "#5c5855,#3a3432"
+color-link indent-char "#5c5855"
+color-link line-number "#5c5855,#3a3432"
+color-link current-line-number "#807d7c,#3a3432"
+
+color-link diff-added "#01a252,#3a3432"
+color-link diff-modified "#5c5855,#3a3432"
+color-link diff-deleted "#db2d20,#3a3432"
+color-link gutter-error "#db2d20,#3a3432"
+color-link gutter-warning "#01a0e4,#3a3432"
+
+color-link cursor-line "#3a3432"
+color-link color-column "#3a3432"

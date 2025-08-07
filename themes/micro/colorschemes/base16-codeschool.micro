@@ -1,0 +1,44 @@
+# Base16 Codeschool - micro color scheme
+# Scheme by blockloop
+
+color-link default "#9ea7a6,#232c31"
+
+color-link comment "#3f4944"
+
+color-link constant "#43820d"
+color-link constant.specialChar "#c98344"
+color-link constant.string "#237986"
+
+color-link identifier "#2a5491"
+color-link identifier.class "#a03b1e"
+
+color-link preproc "#a03b1e"
+
+color-link special "#b02f30"
+
+color-link statement "#2a5491"
+
+color-link symbol.operator "#9ea7a6"
+color-link symbol.tag "#9ea7a6"
+
+color-link type "#a03b1e"
+
+color-link underlined "#2a5491"
+
+color-link error "bold #232c31,#2a5491"
+color-link todo "bold #a03b1e,#1c3657"
+color-link hlsearch "#1c3657,#a03b1e"
+color-link statusline "#84898c,#2a343a"
+color-link tabbar "#3f4944,#1c3657"
+color-link indent-char "#3f4944"
+color-link line-number "#3f4944,#1c3657"
+color-link current-line-number "#84898c,#1c3657"
+
+color-link diff-added "#237986,#1c3657"
+color-link diff-modified "#3f4944,#1c3657"
+color-link diff-deleted "#2a5491,#1c3657"
+color-link gutter-error "#2a5491,#1c3657"
+color-link gutter-warning "#484d79,#1c3657"
+
+color-link cursor-line "#1c3657"
+color-link color-column "#1c3657"

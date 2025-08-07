@@ -1,0 +1,44 @@
+# Base16 Hardcore - micro color scheme
+# Scheme by Chris Caller
+
+color-link default "#cdcdcd,#212121"
+
+color-link comment "#4a4a4a"
+
+color-link constant "#fd971f"
+color-link constant.specialChar "#e8b882"
+color-link constant.string "#a6e22e"
+
+color-link identifier "#f92672"
+color-link identifier.class "#e6db74"
+
+color-link preproc "#e6db74"
+
+color-link special "#708387"
+
+color-link statement "#f92672"
+
+color-link symbol.operator "#cdcdcd"
+color-link symbol.tag "#cdcdcd"
+
+color-link type "#e6db74"
+
+color-link underlined "#f92672"
+
+color-link error "bold #212121,#f92672"
+color-link todo "bold #e6db74,#303030"
+color-link hlsearch "#303030,#e6db74"
+color-link statusline "#707070,#353535"
+color-link tabbar "#4a4a4a,#303030"
+color-link indent-char "#4a4a4a"
+color-link line-number "#4a4a4a,#303030"
+color-link current-line-number "#707070,#303030"
+
+color-link diff-added "#a6e22e,#303030"
+color-link diff-modified "#4a4a4a,#303030"
+color-link diff-deleted "#f92672,#303030"
+color-link gutter-error "#f92672,#303030"
+color-link gutter-warning "#66d9ef,#303030"
+
+color-link cursor-line "#303030"
+color-link color-column "#303030"

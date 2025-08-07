@@ -1,0 +1,44 @@
+# Base16 Material Vivid - micro color scheme
+# Scheme by joshyrobot
+
+color-link default "#80868b,#202124"
+
+color-link comment "#44464d"
+
+color-link constant "#ff9800"
+color-link constant.specialChar "#8d6e63"
+color-link constant.string "#00e676"
+
+color-link identifier "#f44336"
+color-link identifier.class "#ffeb3b"
+
+color-link preproc "#ffeb3b"
+
+color-link special "#00bcd4"
+
+color-link statement "#f44336"
+
+color-link symbol.operator "#80868b"
+color-link symbol.tag "#80868b"
+
+color-link type "#ffeb3b"
+
+color-link underlined "#f44336"
+
+color-link error "bold #202124,#f44336"
+color-link todo "bold #ffeb3b,#27292c"
+color-link hlsearch "#27292c,#ffeb3b"
+color-link statusline "#676c71,#323639"
+color-link tabbar "#44464d,#27292c"
+color-link indent-char "#44464d"
+color-link line-number "#44464d,#27292c"
+color-link current-line-number "#676c71,#27292c"
+
+color-link diff-added "#00e676,#27292c"
+color-link diff-modified "#44464d,#27292c"
+color-link diff-deleted "#f44336,#27292c"
+color-link gutter-error "#f44336,#27292c"
+color-link gutter-warning "#2196f3,#27292c"
+
+color-link cursor-line "#27292c"
+color-link color-column "#27292c"

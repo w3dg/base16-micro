@@ -1,0 +1,44 @@
+# Base16 Gruvbox dark, pale - micro color scheme
+# Scheme by Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
+
+color-link default "#dab997,#262626"
+
+color-link comment "#8a8a8a"
+
+color-link constant "#ff8700"
+color-link constant.specialChar "#d65d0e"
+color-link constant.string "#afaf00"
+
+color-link identifier "#d75f5f"
+color-link identifier.class "#ffaf00"
+
+color-link preproc "#ffaf00"
+
+color-link special "#85ad85"
+
+color-link statement "#d75f5f"
+
+color-link symbol.operator "#dab997"
+color-link symbol.tag "#dab997"
+
+color-link type "#ffaf00"
+
+color-link underlined "#d75f5f"
+
+color-link error "bold #262626,#d75f5f"
+color-link todo "bold #ffaf00,#3a3a3a"
+color-link hlsearch "#3a3a3a,#ffaf00"
+color-link statusline "#949494,#4e4e4e"
+color-link tabbar "#8a8a8a,#3a3a3a"
+color-link indent-char "#8a8a8a"
+color-link line-number "#8a8a8a,#3a3a3a"
+color-link current-line-number "#949494,#3a3a3a"
+
+color-link diff-added "#afaf00,#3a3a3a"
+color-link diff-modified "#8a8a8a,#3a3a3a"
+color-link diff-deleted "#d75f5f,#3a3a3a"
+color-link gutter-error "#d75f5f,#3a3a3a"
+color-link gutter-warning "#83adad,#3a3a3a"
+
+color-link cursor-line "#3a3a3a"
+color-link color-column "#3a3a3a"

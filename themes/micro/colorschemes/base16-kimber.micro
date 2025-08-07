@@ -1,0 +1,44 @@
+# Base16 Kimber - micro color scheme
+# Scheme by Mishka Nguyen (https://github.com/akhsiM)
+
+color-link default "#dedee7,#222222"
+
+color-link comment "#644646"
+
+color-link constant "#476c88"
+color-link constant.specialChar "#704f4f"
+color-link constant.string "#99c899"
+
+color-link identifier "#c88c8c"
+color-link identifier.class "#d8b56d"
+
+color-link preproc "#d8b56d"
+
+color-link special "#78b4b4"
+
+color-link statement "#c88c8c"
+
+color-link symbol.operator "#dedee7"
+color-link symbol.tag "#dedee7"
+
+color-link type "#d8b56d"
+
+color-link underlined "#c88c8c"
+
+color-link error "bold #222222,#c88c8c"
+color-link todo "bold #d8b56d,#313131"
+color-link hlsearch "#313131,#d8b56d"
+color-link statusline "#5a5a5a,#555d55"
+color-link tabbar "#644646,#313131"
+color-link indent-char "#644646"
+color-link line-number "#644646,#313131"
+color-link current-line-number "#5a5a5a,#313131"
+
+color-link diff-added "#99c899,#313131"
+color-link diff-modified "#644646,#313131"
+color-link diff-deleted "#c88c8c,#313131"
+color-link gutter-error "#c88c8c,#313131"
+color-link gutter-warning "#537c9c,#313131"
+
+color-link cursor-line "#313131"
+color-link color-column "#313131"

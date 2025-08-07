@@ -1,0 +1,44 @@
+# Base16 Macintosh - micro color scheme
+# Scheme by Rebecca Bettencourt (http://www.kreativekorp.com)
+
+color-link default "#c0c0c0,#000000"
+
+color-link comment "#808080"
+
+color-link constant "#ff6403"
+color-link constant.specialChar "#90713a"
+color-link constant.string "#1fb714"
+
+color-link identifier "#dd0907"
+color-link identifier.class "#fbf305"
+
+color-link preproc "#fbf305"
+
+color-link special "#02abea"
+
+color-link statement "#dd0907"
+
+color-link symbol.operator "#c0c0c0"
+color-link symbol.tag "#c0c0c0"
+
+color-link type "#fbf305"
+
+color-link underlined "#dd0907"
+
+color-link error "bold #000000,#dd0907"
+color-link todo "bold #fbf305,#404040"
+color-link hlsearch "#404040,#fbf305"
+color-link statusline "#808080,#404040"
+color-link tabbar "#808080,#404040"
+color-link indent-char "#808080"
+color-link line-number "#808080,#404040"
+color-link current-line-number "#808080,#404040"
+
+color-link diff-added "#1fb714,#404040"
+color-link diff-modified "#808080,#404040"
+color-link diff-deleted "#dd0907,#404040"
+color-link gutter-error "#dd0907,#404040"
+color-link gutter-warning "#0000d3,#404040"
+
+color-link cursor-line "#404040"
+color-link color-column "#404040"

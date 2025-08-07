@@ -1,0 +1,44 @@
+# Base16 Qualia - micro color scheme
+# Scheme by isaacwhanson
+
+color-link default "#c0c0c0,#101010"
+
+color-link comment "#454545"
+
+color-link constant "#a3b8ef"
+color-link constant.specialChar "#808080"
+color-link constant.string "#80c990"
+
+color-link identifier "#efa6a2"
+color-link identifier.class "#e6a3dc"
+
+color-link preproc "#e6a3dc"
+
+color-link special "#c8c874"
+
+color-link statement "#efa6a2"
+
+color-link symbol.operator "#c0c0c0"
+color-link symbol.tag "#c0c0c0"
+
+color-link type "#e6a3dc"
+
+color-link underlined "#efa6a2"
+
+color-link error "bold #101010,#efa6a2"
+color-link todo "bold #e6a3dc,#454545"
+color-link hlsearch "#454545,#e6a3dc"
+color-link statusline "#808080,#454545"
+color-link tabbar "#454545,#454545"
+color-link indent-char "#454545"
+color-link line-number "#454545,#454545"
+color-link current-line-number "#808080,#454545"
+
+color-link diff-added "#80c990,#454545"
+color-link diff-modified "#454545,#454545"
+color-link diff-deleted "#efa6a2,#454545"
+color-link gutter-error "#efa6a2,#454545"
+color-link gutter-warning "#50cacd,#454545"
+
+color-link cursor-line "#454545"
+color-link color-column "#454545"

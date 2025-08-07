@@ -1,0 +1,44 @@
+# Base16 Chicago Day - micro color scheme
+# Scheme by Wendell, Ryan &lt;ryanjwendell@gmail.com&gt;
+
+color-link default "#364c40,#e8f0ea"
+
+color-link comment "#8a9a91"
+
+color-link constant "#f9461c"
+color-link constant.specialChar "#62361b"
+color-link constant.string "#009b3a"
+
+color-link identifier "#c60c30"
+color-link identifier.class "#968400"
+
+color-link preproc "#968400"
+
+color-link special "#00a1de"
+
+color-link statement "#c60c30"
+
+color-link symbol.operator "#364c40"
+color-link symbol.tag "#364c40"
+
+color-link type "#968400"
+
+color-link underlined "#c60c30"
+
+color-link error "bold #e8f0ea,#c60c30"
+color-link todo "bold #968400,#d1e0d7"
+color-link hlsearch "#d1e0d7,#968400"
+color-link statusline "#4b5a51,#b9d0c3"
+color-link tabbar "#8a9a91,#d1e0d7"
+color-link indent-char "#8a9a91"
+color-link line-number "#8a9a91,#d1e0d7"
+color-link current-line-number "#4b5a51,#d1e0d7"
+
+color-link diff-added "#009b3a,#d1e0d7"
+color-link diff-modified "#8a9a91,#d1e0d7"
+color-link diff-deleted "#c60c30,#d1e0d7"
+color-link gutter-error "#c60c30,#d1e0d7"
+color-link gutter-warning "#522398,#d1e0d7"
+
+color-link cursor-line "#d1e0d7"
+color-link color-column "#d1e0d7"

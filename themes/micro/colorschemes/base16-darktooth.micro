@@ -1,0 +1,44 @@
+# Base16 Darktooth - micro color scheme
+# Scheme by Jason Milkins (https://github.com/jasonm23)
+
+color-link default "#a89984,#1d2021"
+
+color-link comment "#665c54"
+
+color-link constant "#fe8625"
+color-link constant.specialChar "#a87322"
+color-link constant.string "#95c085"
+
+color-link identifier "#fb543f"
+color-link identifier.class "#fac03b"
+
+color-link preproc "#fac03b"
+
+color-link special "#8ba59b"
+
+color-link statement "#fb543f"
+
+color-link symbol.operator "#a89984"
+color-link symbol.tag "#a89984"
+
+color-link type "#fac03b"
+
+color-link underlined "#fb543f"
+
+color-link error "bold #1d2021,#fb543f"
+color-link todo "bold #fac03b,#32302f"
+color-link hlsearch "#32302f,#fac03b"
+color-link statusline "#928374,#504945"
+color-link tabbar "#665c54,#32302f"
+color-link indent-char "#665c54"
+color-link line-number "#665c54,#32302f"
+color-link current-line-number "#928374,#32302f"
+
+color-link diff-added "#95c085,#32302f"
+color-link diff-modified "#665c54,#32302f"
+color-link diff-deleted "#fb543f,#32302f"
+color-link gutter-error "#fb543f,#32302f"
+color-link gutter-warning "#0d6678,#32302f"
+
+color-link cursor-line "#32302f"
+color-link color-column "#32302f"

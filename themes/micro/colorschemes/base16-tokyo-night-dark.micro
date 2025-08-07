@@ -1,0 +1,44 @@
+# Base16 Tokyo Night Dark - micro color scheme
+# Scheme by Michaël Ball
+
+color-link default "#a9b1d6,#1a1b26"
+
+color-link comment "#444b6a"
+
+color-link constant "#a9b1d6"
+color-link constant.specialChar "#f7768e"
+color-link constant.string "#9ece6a"
+
+color-link identifier "#c0caf5"
+color-link identifier.class "#0db9d7"
+
+color-link preproc "#0db9d7"
+
+color-link special "#b4f9f8"
+
+color-link statement "#c0caf5"
+
+color-link symbol.operator "#a9b1d6"
+color-link symbol.tag "#a9b1d6"
+
+color-link type "#0db9d7"
+
+color-link underlined "#c0caf5"
+
+color-link error "bold #1a1b26,#c0caf5"
+color-link todo "bold #0db9d7,#16161e"
+color-link hlsearch "#16161e,#0db9d7"
+color-link statusline "#787c99,#2f3549"
+color-link tabbar "#444b6a,#16161e"
+color-link indent-char "#444b6a"
+color-link line-number "#444b6a,#16161e"
+color-link current-line-number "#787c99,#16161e"
+
+color-link diff-added "#9ece6a,#16161e"
+color-link diff-modified "#444b6a,#16161e"
+color-link diff-deleted "#c0caf5,#16161e"
+color-link gutter-error "#c0caf5,#16161e"
+color-link gutter-warning "#2ac3de,#16161e"
+
+color-link cursor-line "#16161e"
+color-link color-column "#16161e"

@@ -1,0 +1,44 @@
+# Base16 Zenburn - micro color scheme
+# Scheme by elnawe
+
+color-link default "#dcdccc,#383838"
+
+color-link comment "#6f6f6f"
+
+color-link constant "#dfaf8f"
+color-link constant.specialChar "#000000"
+color-link constant.string "#5f7f5f"
+
+color-link identifier "#dca3a3"
+color-link identifier.class "#e0cf9f"
+
+color-link preproc "#e0cf9f"
+
+color-link special "#93e0e3"
+
+color-link statement "#dca3a3"
+
+color-link symbol.operator "#dcdccc"
+color-link symbol.tag "#dcdccc"
+
+color-link type "#e0cf9f"
+
+color-link underlined "#dca3a3"
+
+color-link error "bold #383838,#dca3a3"
+color-link todo "bold #e0cf9f,#404040"
+color-link hlsearch "#404040,#e0cf9f"
+color-link statusline "#808080,#606060"
+color-link tabbar "#6f6f6f,#404040"
+color-link indent-char "#6f6f6f"
+color-link line-number "#6f6f6f,#404040"
+color-link current-line-number "#808080,#404040"
+
+color-link diff-added "#5f7f5f,#404040"
+color-link diff-modified "#6f6f6f,#404040"
+color-link diff-deleted "#dca3a3,#404040"
+color-link gutter-error "#dca3a3,#404040"
+color-link gutter-warning "#7cb8bb,#404040"
+
+color-link cursor-line "#404040"
+color-link color-column "#404040"

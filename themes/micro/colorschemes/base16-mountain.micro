@@ -1,0 +1,44 @@
+# Base16 Mountain - micro color scheme
+# Scheme by gnsfujiwara (https://github.com/gnsfujiwara)
+
+color-link default "#cacaca,#0f0f0f"
+
+color-link comment "#393939"
+
+color-link constant "#ceb188"
+color-link constant.specialChar "#ac8a8c"
+color-link constant.string "#8aac8b"
+
+color-link identifier "#ac8a8c"
+color-link identifier.class "#aca98a"
+
+color-link preproc "#aca98a"
+
+color-link special "#8aabac"
+
+color-link statement "#ac8a8c"
+
+color-link symbol.operator "#cacaca"
+color-link symbol.tag "#cacaca"
+
+color-link type "#aca98a"
+
+color-link underlined "#ac8a8c"
+
+color-link error "bold #0f0f0f,#ac8a8c"
+color-link todo "bold #aca98a,#191919"
+color-link hlsearch "#191919,#aca98a"
+color-link statusline "#4c4c4c,#262626"
+color-link tabbar "#393939,#191919"
+color-link indent-char "#393939"
+color-link line-number "#393939,#191919"
+color-link current-line-number "#4c4c4c,#191919"
+
+color-link diff-added "#8aac8b,#191919"
+color-link diff-modified "#393939,#191919"
+color-link diff-deleted "#ac8a8c,#191919"
+color-link gutter-error "#ac8a8c,#191919"
+color-link gutter-warning "#8f8aac,#191919"
+
+color-link cursor-line "#191919"
+color-link color-column "#191919"

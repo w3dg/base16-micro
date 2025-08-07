@@ -1,0 +1,44 @@
+# Base16 Catppuccin Mocha - micro color scheme
+# Scheme by https://github.com/catppuccin/catppuccin
+
+color-link default "#cdd6f4,#1e1e2e"
+
+color-link comment "#45475a"
+
+color-link constant "#fab387"
+color-link constant.specialChar "#f2cdcd"
+color-link constant.string "#a6e3a1"
+
+color-link identifier "#f38ba8"
+color-link identifier.class "#f9e2af"
+
+color-link preproc "#f9e2af"
+
+color-link special "#94e2d5"
+
+color-link statement "#f38ba8"
+
+color-link symbol.operator "#cdd6f4"
+color-link symbol.tag "#cdd6f4"
+
+color-link type "#f9e2af"
+
+color-link underlined "#f38ba8"
+
+color-link error "bold #1e1e2e,#f38ba8"
+color-link todo "bold #f9e2af,#181825"
+color-link hlsearch "#181825,#f9e2af"
+color-link statusline "#585b70,#313244"
+color-link tabbar "#45475a,#181825"
+color-link indent-char "#45475a"
+color-link line-number "#45475a,#181825"
+color-link current-line-number "#585b70,#181825"
+
+color-link diff-added "#a6e3a1,#181825"
+color-link diff-modified "#45475a,#181825"
+color-link diff-deleted "#f38ba8,#181825"
+color-link gutter-error "#f38ba8,#181825"
+color-link gutter-warning "#89b4fa,#181825"
+
+color-link cursor-line "#181825"
+color-link color-column "#181825"

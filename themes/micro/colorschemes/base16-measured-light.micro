@@ -1,0 +1,44 @@
+# Base16 Measured Light - micro color scheme
+# Scheme by Measured (https://measured.co)
+
+color-link default "#292929,#fdf9f5"
+
+color-link comment "#5a5a5a"
+
+color-link constant "#ad5601"
+color-link constant.specialChar "#a81a66"
+color-link constant.string "#0c680c"
+
+color-link identifier "#ac1f35"
+color-link identifier.class "#645a00"
+
+color-link preproc "#645a00"
+
+color-link special "#01716f"
+
+color-link statement "#ac1f35"
+
+color-link symbol.operator "#292929"
+color-link symbol.tag "#292929"
+
+color-link type "#645a00"
+
+color-link underlined "#ac1f35"
+
+color-link error "bold #fdf9f5,#ac1f35"
+color-link todo "bold #645a00,#f9f5f1"
+color-link hlsearch "#f9f5f1,#645a00"
+color-link statusline "#404040,#ffeada"
+color-link tabbar "#5a5a5a,#f9f5f1"
+color-link indent-char "#5a5a5a"
+color-link line-number "#5a5a5a,#f9f5f1"
+color-link current-line-number "#404040,#f9f5f1"
+
+color-link diff-added "#0c680c,#f9f5f1"
+color-link diff-modified "#5a5a5a,#f9f5f1"
+color-link diff-deleted "#ac1f35,#f9f5f1"
+color-link gutter-error "#ac1f35,#f9f5f1"
+color-link gutter-warning "#0158ad,#f9f5f1"
+
+color-link cursor-line "#f9f5f1"
+color-link color-column "#f9f5f1"

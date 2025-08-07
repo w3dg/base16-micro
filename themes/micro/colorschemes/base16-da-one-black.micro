@@ -1,0 +1,44 @@
+# Base16 Da One Black - micro color scheme
+# Scheme by NNB (https://github.com/NNBnh)
+
+color-link default "#ffffff,#000000"
+
+color-link comment "#888888"
+
+color-link constant "#ffc387"
+color-link constant.specialChar "#b3684f"
+color-link constant.string "#98c379"
+
+color-link identifier "#fa7883"
+color-link identifier.class "#ff9470"
+
+color-link preproc "#ff9470"
+
+color-link special "#8af5ff"
+
+color-link statement "#fa7883"
+
+color-link symbol.operator "#ffffff"
+color-link symbol.tag "#ffffff"
+
+color-link type "#ff9470"
+
+color-link underlined "#fa7883"
+
+color-link error "bold #000000,#fa7883"
+color-link todo "bold #ff9470,#282828"
+color-link hlsearch "#282828,#ff9470"
+color-link statusline "#c8c8c8,#585858"
+color-link tabbar "#888888,#282828"
+color-link indent-char "#888888"
+color-link line-number "#888888,#282828"
+color-link current-line-number "#c8c8c8,#282828"
+
+color-link diff-added "#98c379,#282828"
+color-link diff-modified "#888888,#282828"
+color-link diff-deleted "#fa7883,#282828"
+color-link gutter-error "#fa7883,#282828"
+color-link gutter-warning "#6bb8ff,#282828"
+
+color-link cursor-line "#282828"
+color-link color-column "#282828"

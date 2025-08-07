@@ -1,0 +1,44 @@
+# Base16 0x96f - micro color scheme
+# Scheme by Filip Janevski (https://0x96f.dev/theme)
+
+color-link default "#fcfcfc,#262427"
+
+color-link comment "#676567"
+
+color-link constant "#fc9d6f"
+color-link constant.specialChar "#ff8787"
+color-link constant.string "#bcdf59"
+
+color-link identifier "#ff7272"
+color-link identifier.class "#ffca58"
+
+color-link preproc "#ffca58"
+
+color-link special "#aee8f4"
+
+color-link statement "#ff7272"
+
+color-link symbol.operator "#fcfcfc"
+color-link symbol.tag "#fcfcfc"
+
+color-link type "#ffca58"
+
+color-link underlined "#ff7272"
+
+color-link error "bold #262427,#ff7272"
+color-link todo "bold #ffca58,#3b393c"
+color-link hlsearch "#3b393c,#ffca58"
+color-link statusline "#7c7b7d,#514f52"
+color-link tabbar "#676567,#3b393c"
+color-link indent-char "#676567"
+color-link line-number "#676567,#3b393c"
+color-link current-line-number "#7c7b7d,#3b393c"
+
+color-link diff-added "#bcdf59,#3b393c"
+color-link diff-modified "#676567,#3b393c"
+color-link diff-deleted "#ff7272,#3b393c"
+color-link gutter-error "#ff7272,#3b393c"
+color-link gutter-warning "#49cae4,#3b393c"
+
+color-link cursor-line "#3b393c"
+color-link color-column "#3b393c"

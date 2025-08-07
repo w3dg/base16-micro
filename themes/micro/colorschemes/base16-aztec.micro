@@ -1,0 +1,44 @@
+# Base16 Aztec - micro color scheme
+# Scheme by TheNeverMan (github.com/TheNeverMan)
+
+color-link default "#ffda51,#101600"
+
+color-link comment "#2e2e05"
+
+color-link constant "#ee8800"
+color-link constant.specialChar "#a928b9"
+color-link constant.string "#63d932"
+
+color-link identifier "#ee2e00"
+color-link identifier.class "#eebb00"
+
+color-link preproc "#eebb00"
+
+color-link special "#3d94a5"
+
+color-link statement "#ee2e00"
+
+color-link symbol.operator "#ffda51"
+color-link symbol.tag "#ffda51"
+
+color-link type "#eebb00"
+
+color-link underlined "#ee2e00"
+
+color-link error "bold #101600,#ee2e00"
+color-link todo "bold #eebb00,#1a1e01"
+color-link hlsearch "#1a1e01,#eebb00"
+color-link statusline "#ffd129,#242604"
+color-link tabbar "#2e2e05,#1a1e01"
+color-link indent-char "#2e2e05"
+color-link line-number "#2e2e05,#1a1e01"
+color-link current-line-number "#ffd129,#1a1e01"
+
+color-link diff-added "#63d932,#1a1e01"
+color-link diff-modified "#2e2e05,#1a1e01"
+color-link diff-deleted "#ee2e00,#1a1e01"
+color-link gutter-error "#ee2e00,#1a1e01"
+color-link gutter-warning "#5b4a9f,#1a1e01"
+
+color-link cursor-line "#1a1e01"
+color-link color-column "#1a1e01"

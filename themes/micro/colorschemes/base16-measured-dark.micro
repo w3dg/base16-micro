@@ -1,0 +1,44 @@
+# Base16 Measured Dark - micro color scheme
+# Scheme by Measured (https://measured.co)
+
+color-link default "#dcdcdc,#00211f"
+
+color-link comment "#ababab"
+
+color-link constant "#dca37c"
+color-link constant.specialChar "#d89aba"
+color-link constant.string "#56c16f"
+
+color-link identifier "#ce7e8e"
+color-link identifier.class "#bfac4e"
+
+color-link preproc "#bfac4e"
+
+color-link special "#62c0be"
+
+color-link statement "#ce7e8e"
+
+color-link symbol.operator "#dcdcdc"
+color-link symbol.tag "#dcdcdc"
+
+color-link type "#bfac4e"
+
+color-link underlined "#ce7e8e"
+
+color-link error "bold #00211f,#ce7e8e"
+color-link todo "bold #bfac4e,#003a38"
+color-link hlsearch "#003a38,#bfac4e"
+color-link statusline "#c3c3c3,#005453"
+color-link tabbar "#ababab,#003a38"
+color-link indent-char "#ababab"
+color-link line-number "#ababab,#003a38"
+color-link current-line-number "#c3c3c3,#003a38"
+
+color-link diff-added "#56c16f,#003a38"
+color-link diff-modified "#ababab,#003a38"
+color-link diff-deleted "#ce7e8e,#003a38"
+color-link gutter-error "#ce7e8e,#003a38"
+color-link gutter-warning "#88b0da,#003a38"
+
+color-link cursor-line "#003a38"
+color-link color-column "#003a38"

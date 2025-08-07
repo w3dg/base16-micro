@@ -1,0 +1,44 @@
+# Base16 SAGA - micro color scheme
+# Scheme by https://github.com/SAGAtheme/SAGA
+
+color-link default "#dce2f7,#05080a"
+
+color-link comment "#141f27"
+
+color-link constant "#fbcbae"
+color-link constant.specialChar "#f6dddd"
+color-link constant.string "#f7ddff"
+
+color-link identifier "#ffd4e9"
+color-link identifier.class "#fbebc8"
+
+color-link preproc "#fbebc8"
+
+color-link special "#c5edc1"
+
+color-link statement "#ffd4e9"
+
+color-link symbol.operator "#dce2f7"
+color-link symbol.tag "#dce2f7"
+
+color-link type "#fbebc8"
+
+color-link underlined "#ffd4e9"
+
+color-link error "bold #05080a,#ffd4e9"
+color-link todo "bold #fbebc8,#0a1014"
+color-link hlsearch "#0a1014,#fbebc8"
+color-link statusline "#192630,#0f181e"
+color-link tabbar "#141f27,#0a1014"
+color-link indent-char "#141f27"
+color-link line-number "#141f27,#0a1014"
+color-link current-line-number "#192630,#0a1014"
+
+color-link diff-added "#f7ddff,#0a1014"
+color-link diff-modified "#141f27,#0a1014"
+color-link diff-deleted "#ffd4e9,#0a1014"
+color-link gutter-error "#ffd4e9,#0a1014"
+color-link gutter-warning "#c9fff7,#0a1014"
+
+color-link cursor-line "#0a1014"
+color-link color-column "#0a1014"

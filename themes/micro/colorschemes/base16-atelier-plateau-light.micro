@@ -1,0 +1,44 @@
+# Base16 Atelier Plateau Light - micro color scheme
+# Scheme by Bram de Haan (http://atelierbramdehaan.nl)
+
+color-link default "#585050,#f4ecec"
+
+color-link comment "#7e7777"
+
+color-link constant "#b45a3c"
+color-link constant.specialChar "#bd5187"
+color-link constant.string "#4b8b8b"
+
+color-link identifier "#ca4949"
+color-link identifier.class "#a06e3b"
+
+color-link preproc "#a06e3b"
+
+color-link special "#5485b6"
+
+color-link statement "#ca4949"
+
+color-link symbol.operator "#585050"
+color-link symbol.tag "#585050"
+
+color-link type "#a06e3b"
+
+color-link underlined "#ca4949"
+
+color-link error "bold #f4ecec,#ca4949"
+color-link todo "bold #a06e3b,#e7dfdf"
+color-link hlsearch "#e7dfdf,#a06e3b"
+color-link statusline "#655d5d,#8a8585"
+color-link tabbar "#7e7777,#e7dfdf"
+color-link indent-char "#7e7777"
+color-link line-number "#7e7777,#e7dfdf"
+color-link current-line-number "#655d5d,#e7dfdf"
+
+color-link diff-added "#4b8b8b,#e7dfdf"
+color-link diff-modified "#7e7777,#e7dfdf"
+color-link diff-deleted "#ca4949,#e7dfdf"
+color-link gutter-error "#ca4949,#e7dfdf"
+color-link gutter-warning "#7272ca,#e7dfdf"
+
+color-link cursor-line "#e7dfdf"
+color-link color-column "#e7dfdf"

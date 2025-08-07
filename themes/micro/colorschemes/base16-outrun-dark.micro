@@ -1,0 +1,44 @@
+# Base16 Outrun Dark - micro color scheme
+# Scheme by Hugo Delahousse (http://github.com/hugodelahousse/)
+
+color-link default "#d0d0fa,#00002a"
+
+color-link comment "#50507a"
+
+color-link constant "#fc8d28"
+color-link constant.specialChar "#f003ef"
+color-link constant.string "#59f176"
+
+color-link identifier "#ff4242"
+color-link identifier.class "#f3e877"
+
+color-link preproc "#f3e877"
+
+color-link special "#0ef0f0"
+
+color-link statement "#ff4242"
+
+color-link symbol.operator "#d0d0fa"
+color-link symbol.tag "#d0d0fa"
+
+color-link type "#f3e877"
+
+color-link underlined "#ff4242"
+
+color-link error "bold #00002a,#ff4242"
+color-link todo "bold #f3e877,#20204a"
+color-link hlsearch "#20204a,#f3e877"
+color-link statusline "#b0b0da,#30305a"
+color-link tabbar "#50507a,#20204a"
+color-link indent-char "#50507a"
+color-link line-number "#50507a,#20204a"
+color-link current-line-number "#b0b0da,#20204a"
+
+color-link diff-added "#59f176,#20204a"
+color-link diff-modified "#50507a,#20204a"
+color-link diff-deleted "#ff4242,#20204a"
+color-link gutter-error "#ff4242,#20204a"
+color-link gutter-warning "#66b0ff,#20204a"
+
+color-link cursor-line "#20204a"
+color-link color-column "#20204a"

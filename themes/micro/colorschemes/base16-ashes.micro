@@ -1,0 +1,44 @@
+# Base16 Ashes - micro color scheme
+# Scheme by Jannik Siebert (https://github.com/janniks)
+
+color-link default "#c7ccd1,#1c2023"
+
+color-link comment "#747c84"
+
+color-link constant "#c7c795"
+color-link constant.specialChar "#c79595"
+color-link constant.string "#95c7ae"
+
+color-link identifier "#c7ae95"
+color-link identifier.class "#aec795"
+
+color-link preproc "#aec795"
+
+color-link special "#95aec7"
+
+color-link statement "#c7ae95"
+
+color-link symbol.operator "#c7ccd1"
+color-link symbol.tag "#c7ccd1"
+
+color-link type "#aec795"
+
+color-link underlined "#c7ae95"
+
+color-link error "bold #1c2023,#c7ae95"
+color-link todo "bold #aec795,#393f45"
+color-link hlsearch "#393f45,#aec795"
+color-link statusline "#adb3ba,#565e65"
+color-link tabbar "#747c84,#393f45"
+color-link indent-char "#747c84"
+color-link line-number "#747c84,#393f45"
+color-link current-line-number "#adb3ba,#393f45"
+
+color-link diff-added "#95c7ae,#393f45"
+color-link diff-modified "#747c84,#393f45"
+color-link diff-deleted "#c7ae95,#393f45"
+color-link gutter-error "#c7ae95,#393f45"
+color-link gutter-warning "#ae95c7,#393f45"
+
+color-link cursor-line "#393f45"
+color-link color-column "#393f45"

@@ -1,0 +1,44 @@
+# Base16 Atelier Cave - micro color scheme
+# Scheme by Bram de Haan (http://atelierbramdehaan.nl)
+
+color-link default "#8b8792,#19171c"
+
+color-link comment "#655f6d"
+
+color-link constant "#aa573c"
+color-link constant.specialChar "#bf40bf"
+color-link constant.string "#2a9292"
+
+color-link identifier "#be4678"
+color-link identifier.class "#a06e3b"
+
+color-link preproc "#a06e3b"
+
+color-link special "#398bc6"
+
+color-link statement "#be4678"
+
+color-link symbol.operator "#8b8792"
+color-link symbol.tag "#8b8792"
+
+color-link type "#a06e3b"
+
+color-link underlined "#be4678"
+
+color-link error "bold #19171c,#be4678"
+color-link todo "bold #a06e3b,#26232a"
+color-link hlsearch "#26232a,#a06e3b"
+color-link statusline "#7e7887,#585260"
+color-link tabbar "#655f6d,#26232a"
+color-link indent-char "#655f6d"
+color-link line-number "#655f6d,#26232a"
+color-link current-line-number "#7e7887,#26232a"
+
+color-link diff-added "#2a9292,#26232a"
+color-link diff-modified "#655f6d,#26232a"
+color-link diff-deleted "#be4678,#26232a"
+color-link gutter-error "#be4678,#26232a"
+color-link gutter-warning "#576ddb,#26232a"
+
+color-link cursor-line "#26232a"
+color-link color-column "#26232a"

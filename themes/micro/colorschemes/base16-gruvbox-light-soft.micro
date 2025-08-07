@@ -1,0 +1,44 @@
+# Base16 Gruvbox light, soft - micro color scheme
+# Scheme by Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
+
+color-link default "#504945,#f2e5bc"
+
+color-link comment "#bdae93"
+
+color-link constant "#af3a03"
+color-link constant.specialChar "#d65d0e"
+color-link constant.string "#79740e"
+
+color-link identifier "#9d0006"
+color-link identifier.class "#b57614"
+
+color-link preproc "#b57614"
+
+color-link special "#427b58"
+
+color-link statement "#9d0006"
+
+color-link symbol.operator "#504945"
+color-link symbol.tag "#504945"
+
+color-link type "#b57614"
+
+color-link underlined "#9d0006"
+
+color-link error "bold #f2e5bc,#9d0006"
+color-link todo "bold #b57614,#ebdbb2"
+color-link hlsearch "#ebdbb2,#b57614"
+color-link statusline "#665c54,#d5c4a1"
+color-link tabbar "#bdae93,#ebdbb2"
+color-link indent-char "#bdae93"
+color-link line-number "#bdae93,#ebdbb2"
+color-link current-line-number "#665c54,#ebdbb2"
+
+color-link diff-added "#79740e,#ebdbb2"
+color-link diff-modified "#bdae93,#ebdbb2"
+color-link diff-deleted "#9d0006,#ebdbb2"
+color-link gutter-error "#9d0006,#ebdbb2"
+color-link gutter-warning "#076678,#ebdbb2"
+
+color-link cursor-line "#ebdbb2"
+color-link color-column "#ebdbb2"

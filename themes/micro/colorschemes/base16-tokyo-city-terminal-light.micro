@@ -1,0 +1,44 @@
+# Base16 Tokyo City Terminal Light - micro color scheme
+# Scheme by Michaël Ball
+
+color-link default "#28323a,#fbfbfd"
+
+color-link comment "#b7c5d3"
+
+color-link constant "#965027"
+color-link constant.specialChar "#7e5140"
+color-link constant.string "#33635c"
+
+color-link identifier "#8c4351"
+color-link identifier.class "#8f5e15"
+
+color-link preproc "#8f5e15"
+
+color-link special "#0f4b6e"
+
+color-link statement "#8c4351"
+
+color-link symbol.operator "#28323a"
+color-link symbol.tag "#28323a"
+
+color-link type "#8f5e15"
+
+color-link underlined "#8c4351"
+
+color-link error "bold #fbfbfd,#8c4351"
+color-link todo "bold #8f5e15,#f6f6f8"
+color-link hlsearch "#f6f6f8,#8f5e15"
+color-link statusline "#526270,#d8e2ec"
+color-link tabbar "#b7c5d3,#f6f6f8"
+color-link indent-char "#b7c5d3"
+color-link line-number "#b7c5d3,#f6f6f8"
+color-link current-line-number "#526270,#f6f6f8"
+
+color-link diff-added "#33635c,#f6f6f8"
+color-link diff-modified "#b7c5d3,#f6f6f8"
+color-link diff-deleted "#8c4351,#f6f6f8"
+color-link gutter-error "#8c4351,#f6f6f8"
+color-link gutter-warning "#34548a,#f6f6f8"
+
+color-link cursor-line "#f6f6f8"
+color-link color-column "#f6f6f8"

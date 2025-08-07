@@ -1,0 +1,44 @@
+# Base16 dirtysea - micro color scheme
+# Scheme by Kahlil (Kal) Hodgson
+
+color-link default "#000000,#e0e0e0"
+
+color-link comment "#707070"
+
+color-link constant "#006565"
+color-link constant.specialChar "#755b00"
+color-link constant.string "#730073"
+
+color-link identifier "#840000"
+color-link identifier.class "#755b00"
+
+color-link preproc "#755b00"
+
+color-link special "#755b00"
+
+color-link statement "#840000"
+
+color-link symbol.operator "#000000"
+color-link symbol.tag "#000000"
+
+color-link type "#755b00"
+
+color-link underlined "#840000"
+
+color-link error "bold #e0e0e0,#840000"
+color-link todo "bold #755b00,#d0dad0"
+color-link hlsearch "#d0dad0,#755b00"
+color-link statusline "#202020,#d0d0d0"
+color-link tabbar "#707070,#d0dad0"
+color-link indent-char "#707070"
+color-link line-number "#707070,#d0dad0"
+color-link current-line-number "#202020,#d0dad0"
+
+color-link diff-added "#730073,#d0dad0"
+color-link diff-modified "#707070,#d0dad0"
+color-link diff-deleted "#840000,#d0dad0"
+color-link gutter-error "#840000,#d0dad0"
+color-link gutter-warning "#007300,#d0dad0"
+
+color-link cursor-line "#d0dad0"
+color-link color-column "#d0dad0"

@@ -1,0 +1,44 @@
+# Base16 Catppuccin Frappe - micro color scheme
+# Scheme by https://github.com/catppuccin/catppuccin
+
+color-link default "#c6d0f5,#303446"
+
+color-link comment "#51576d"
+
+color-link constant "#ef9f76"
+color-link constant.specialChar "#eebebe"
+color-link constant.string "#a6d189"
+
+color-link identifier "#e78284"
+color-link identifier.class "#e5c890"
+
+color-link preproc "#e5c890"
+
+color-link special "#81c8be"
+
+color-link statement "#e78284"
+
+color-link symbol.operator "#c6d0f5"
+color-link symbol.tag "#c6d0f5"
+
+color-link type "#e5c890"
+
+color-link underlined "#e78284"
+
+color-link error "bold #303446,#e78284"
+color-link todo "bold #e5c890,#292c3c"
+color-link hlsearch "#292c3c,#e5c890"
+color-link statusline "#626880,#414559"
+color-link tabbar "#51576d,#292c3c"
+color-link indent-char "#51576d"
+color-link line-number "#51576d,#292c3c"
+color-link current-line-number "#626880,#292c3c"
+
+color-link diff-added "#a6d189,#292c3c"
+color-link diff-modified "#51576d,#292c3c"
+color-link diff-deleted "#e78284,#292c3c"
+color-link gutter-error "#e78284,#292c3c"
+color-link gutter-warning "#8caaee,#292c3c"
+
+color-link cursor-line "#292c3c"
+color-link color-column "#292c3c"

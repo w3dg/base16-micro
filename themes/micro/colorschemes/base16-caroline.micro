@@ -1,0 +1,44 @@
+# Base16 caroline - micro color scheme
+# Scheme by ed (https://codeberg.org/ed)
+
+color-link default "#a87569,#1c1213"
+
+color-link comment "#6d4745"
+
+color-link constant "#a63650"
+color-link constant.specialChar "#893f45"
+color-link constant.string "#806c61"
+
+color-link identifier "#c24f57"
+color-link identifier.class "#f28171"
+
+color-link preproc "#f28171"
+
+color-link special "#6b6566"
+
+color-link statement "#c24f57"
+
+color-link symbol.operator "#a87569"
+color-link symbol.tag "#a87569"
+
+color-link type "#f28171"
+
+color-link underlined "#c24f57"
+
+color-link error "bold #1c1213,#c24f57"
+color-link todo "bold #f28171,#3a2425"
+color-link hlsearch "#3a2425,#f28171"
+color-link statusline "#8b5d57,#563837"
+color-link tabbar "#6d4745,#3a2425"
+color-link indent-char "#6d4745"
+color-link line-number "#6d4745,#3a2425"
+color-link current-line-number "#8b5d57,#3a2425"
+
+color-link diff-added "#806c61,#3a2425"
+color-link diff-modified "#6d4745,#3a2425"
+color-link diff-deleted "#c24f57,#3a2425"
+color-link gutter-error "#c24f57,#3a2425"
+color-link gutter-warning "#684c59,#3a2425"
+
+color-link cursor-line "#3a2425"
+color-link color-column "#3a2425"

@@ -1,0 +1,44 @@
+# Base16 Gotham - micro color scheme
+# Scheme by Andrea Leopardi (arranged by Brett Jones)
+
+color-link default "#599cab,#0c1014"
+
+color-link comment "#0a3749"
+
+color-link constant "#d26937"
+color-link constant.specialChar "#4e5166"
+color-link constant.string "#33859e"
+
+color-link identifier "#c23127"
+color-link identifier.class "#edb443"
+
+color-link preproc "#edb443"
+
+color-link special "#2aa889"
+
+color-link statement "#c23127"
+
+color-link symbol.operator "#599cab"
+color-link symbol.tag "#599cab"
+
+color-link type "#edb443"
+
+color-link underlined "#c23127"
+
+color-link error "bold #0c1014,#c23127"
+color-link todo "bold #edb443,#11151c"
+color-link hlsearch "#11151c,#edb443"
+color-link statusline "#245361,#091f2e"
+color-link tabbar "#0a3749,#11151c"
+color-link indent-char "#0a3749"
+color-link line-number "#0a3749,#11151c"
+color-link current-line-number "#245361,#11151c"
+
+color-link diff-added "#33859e,#11151c"
+color-link diff-modified "#0a3749,#11151c"
+color-link diff-deleted "#c23127,#11151c"
+color-link gutter-error "#c23127,#11151c"
+color-link gutter-warning "#195466,#11151c"
+
+color-link cursor-line "#11151c"
+color-link color-column "#11151c"

@@ -1,0 +1,44 @@
+# Base16 Cupcake - micro color scheme
+# Scheme by Chris Kempson (http://chriskempson.com)
+
+color-link default "#8b8198,#fbf1f2"
+
+color-link comment "#bfb9c6"
+
+color-link constant "#ebb790"
+color-link constant.specialChar "#baa58c"
+color-link constant.string "#a3b367"
+
+color-link identifier "#d57e85"
+color-link identifier.class "#dcb16c"
+
+color-link preproc "#dcb16c"
+
+color-link special "#69a9a7"
+
+color-link statement "#d57e85"
+
+color-link symbol.operator "#8b8198"
+color-link symbol.tag "#8b8198"
+
+color-link type "#dcb16c"
+
+color-link underlined "#d57e85"
+
+color-link error "bold #fbf1f2,#d57e85"
+color-link todo "bold #dcb16c,#f2f1f4"
+color-link hlsearch "#f2f1f4,#dcb16c"
+color-link statusline "#a59daf,#d8d5dd"
+color-link tabbar "#bfb9c6,#f2f1f4"
+color-link indent-char "#bfb9c6"
+color-link line-number "#bfb9c6,#f2f1f4"
+color-link current-line-number "#a59daf,#f2f1f4"
+
+color-link diff-added "#a3b367,#f2f1f4"
+color-link diff-modified "#bfb9c6,#f2f1f4"
+color-link diff-deleted "#d57e85,#f2f1f4"
+color-link gutter-error "#d57e85,#f2f1f4"
+color-link gutter-warning "#7297b9,#f2f1f4"
+
+color-link cursor-line "#f2f1f4"
+color-link color-column "#f2f1f4"

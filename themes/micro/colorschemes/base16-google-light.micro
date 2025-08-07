@@ -1,0 +1,44 @@
+# Base16 Google Light - micro color scheme
+# Scheme by Seth Wright (http://sethawright.com)
+
+color-link default "#373b41,#ffffff"
+
+color-link comment "#b4b7b4"
+
+color-link constant "#f96a38"
+color-link constant.specialChar "#3971ed"
+color-link constant.string "#198844"
+
+color-link identifier "#cc342b"
+color-link identifier.class "#fba922"
+
+color-link preproc "#fba922"
+
+color-link special "#3971ed"
+
+color-link statement "#cc342b"
+
+color-link symbol.operator "#373b41"
+color-link symbol.tag "#373b41"
+
+color-link type "#fba922"
+
+color-link underlined "#cc342b"
+
+color-link error "bold #ffffff,#cc342b"
+color-link todo "bold #fba922,#e0e0e0"
+color-link hlsearch "#e0e0e0,#fba922"
+color-link statusline "#969896,#c5c8c6"
+color-link tabbar "#b4b7b4,#e0e0e0"
+color-link indent-char "#b4b7b4"
+color-link line-number "#b4b7b4,#e0e0e0"
+color-link current-line-number "#969896,#e0e0e0"
+
+color-link diff-added "#198844,#e0e0e0"
+color-link diff-modified "#b4b7b4,#e0e0e0"
+color-link diff-deleted "#cc342b,#e0e0e0"
+color-link gutter-error "#cc342b,#e0e0e0"
+color-link gutter-warning "#3971ed,#e0e0e0"
+
+color-link cursor-line "#e0e0e0"
+color-link color-column "#e0e0e0"

@@ -1,0 +1,44 @@
+# Base16 Horizon Terminal Light - micro color scheme
+# Scheme by Michaël Ball (http://github.com/michael-ball/)
+
+color-link default "#403c3d,#fdf0ed"
+
+color-link comment "#bdb3b1"
+
+color-link constant "#f9cec3"
+color-link constant.specialChar "#f9cbbe"
+color-link constant.string "#29d398"
+
+color-link identifier "#e95678"
+color-link identifier.class "#fadad1"
+
+color-link preproc "#fadad1"
+
+color-link special "#59e1e3"
+
+color-link statement "#e95678"
+
+color-link symbol.operator "#403c3d"
+color-link symbol.tag "#403c3d"
+
+color-link type "#fadad1"
+
+color-link underlined "#e95678"
+
+color-link error "bold #fdf0ed,#e95678"
+color-link todo "bold #fadad1,#fadad1"
+color-link hlsearch "#fadad1,#fadad1"
+color-link statusline "#948c8a,#f9cbbe"
+color-link tabbar "#bdb3b1,#fadad1"
+color-link indent-char "#bdb3b1"
+color-link line-number "#bdb3b1,#fadad1"
+color-link current-line-number "#948c8a,#fadad1"
+
+color-link diff-added "#29d398,#fadad1"
+color-link diff-modified "#bdb3b1,#fadad1"
+color-link diff-deleted "#e95678,#fadad1"
+color-link gutter-error "#e95678,#fadad1"
+color-link gutter-warning "#26bbd9,#fadad1"
+
+color-link cursor-line "#fadad1"
+color-link color-column "#fadad1"

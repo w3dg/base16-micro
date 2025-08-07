@@ -1,0 +1,44 @@
+# Base16 IR Black - micro color scheme
+# Scheme by Timothée Poisot (http://timotheepoisot.fr)
+
+color-link default "#b5b3aa,#000000"
+
+color-link comment "#6c6c66"
+
+color-link constant "#e9c062"
+color-link constant.specialChar "#b18a3d"
+color-link constant.string "#a8ff60"
+
+color-link identifier "#ff6c60"
+color-link identifier.class "#ffffb6"
+
+color-link preproc "#ffffb6"
+
+color-link special "#c6c5fe"
+
+color-link statement "#ff6c60"
+
+color-link symbol.operator "#b5b3aa"
+color-link symbol.tag "#b5b3aa"
+
+color-link type "#ffffb6"
+
+color-link underlined "#ff6c60"
+
+color-link error "bold #000000,#ff6c60"
+color-link todo "bold #ffffb6,#242422"
+color-link hlsearch "#242422,#ffffb6"
+color-link statusline "#918f88,#484844"
+color-link tabbar "#6c6c66,#242422"
+color-link indent-char "#6c6c66"
+color-link line-number "#6c6c66,#242422"
+color-link current-line-number "#918f88,#242422"
+
+color-link diff-added "#a8ff60,#242422"
+color-link diff-modified "#6c6c66,#242422"
+color-link diff-deleted "#ff6c60,#242422"
+color-link gutter-error "#ff6c60,#242422"
+color-link gutter-warning "#96cbfe,#242422"
+
+color-link cursor-line "#242422"
+color-link color-column "#242422"

@@ -1,0 +1,44 @@
+# Base16 Humanoid light - micro color scheme
+# Scheme by Thomas (tasmo) Friese
+
+color-link default "#232629,#f8f8f2"
+
+color-link comment "#c0c0bd"
+
+color-link constant "#ff3d00"
+color-link constant.specialChar "#b27701"
+color-link constant.string "#388e3c"
+
+color-link identifier "#b0151a"
+color-link identifier.class "#ffb627"
+
+color-link preproc "#ffb627"
+
+color-link special "#008e8e"
+
+color-link statement "#b0151a"
+
+color-link symbol.operator "#232629"
+color-link symbol.tag "#232629"
+
+color-link type "#ffb627"
+
+color-link underlined "#b0151a"
+
+color-link error "bold #f8f8f2,#b0151a"
+color-link todo "bold #ffb627,#efefe9"
+color-link hlsearch "#efefe9,#ffb627"
+color-link statusline "#60615d,#deded8"
+color-link tabbar "#c0c0bd,#efefe9"
+color-link indent-char "#c0c0bd"
+color-link line-number "#c0c0bd,#efefe9"
+color-link current-line-number "#60615d,#efefe9"
+
+color-link diff-added "#388e3c,#efefe9"
+color-link diff-modified "#c0c0bd,#efefe9"
+color-link diff-deleted "#b0151a,#efefe9"
+color-link gutter-error "#b0151a,#efefe9"
+color-link gutter-warning "#0082c9,#efefe9"
+
+color-link cursor-line "#efefe9"
+color-link color-column "#efefe9"

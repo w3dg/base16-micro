@@ -1,0 +1,44 @@
+# Base16 Catppuccin Latte - micro color scheme
+# Scheme by https://github.com/catppuccin/catppuccin
+
+color-link default "#4c4f69,#eff1f5"
+
+color-link comment "#bcc0cc"
+
+color-link constant "#fe640b"
+color-link constant.specialChar "#dd7878"
+color-link constant.string "#40a02b"
+
+color-link identifier "#d20f39"
+color-link identifier.class "#df8e1d"
+
+color-link preproc "#df8e1d"
+
+color-link special "#179299"
+
+color-link statement "#d20f39"
+
+color-link symbol.operator "#4c4f69"
+color-link symbol.tag "#4c4f69"
+
+color-link type "#df8e1d"
+
+color-link underlined "#d20f39"
+
+color-link error "bold #eff1f5,#d20f39"
+color-link todo "bold #df8e1d,#e6e9ef"
+color-link hlsearch "#e6e9ef,#df8e1d"
+color-link statusline "#acb0be,#ccd0da"
+color-link tabbar "#bcc0cc,#e6e9ef"
+color-link indent-char "#bcc0cc"
+color-link line-number "#bcc0cc,#e6e9ef"
+color-link current-line-number "#acb0be,#e6e9ef"
+
+color-link diff-added "#40a02b,#e6e9ef"
+color-link diff-modified "#bcc0cc,#e6e9ef"
+color-link diff-deleted "#d20f39,#e6e9ef"
+color-link gutter-error "#d20f39,#e6e9ef"
+color-link gutter-warning "#1e66f5,#e6e9ef"
+
+color-link cursor-line "#e6e9ef"
+color-link color-column "#e6e9ef"

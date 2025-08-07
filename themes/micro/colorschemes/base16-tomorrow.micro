@@ -1,0 +1,44 @@
+# Base16 Tomorrow - micro color scheme
+# Scheme by Chris Kempson (http://chriskempson.com)
+
+color-link default "#373b41,#ffffff"
+
+color-link comment "#b4b7b4"
+
+color-link constant "#f5871f"
+color-link constant.specialChar "#a3685a"
+color-link constant.string "#718c00"
+
+color-link identifier "#c82829"
+color-link identifier.class "#eab700"
+
+color-link preproc "#eab700"
+
+color-link special "#3e999f"
+
+color-link statement "#c82829"
+
+color-link symbol.operator "#373b41"
+color-link symbol.tag "#373b41"
+
+color-link type "#eab700"
+
+color-link underlined "#c82829"
+
+color-link error "bold #ffffff,#c82829"
+color-link todo "bold #eab700,#e0e0e0"
+color-link hlsearch "#e0e0e0,#eab700"
+color-link statusline "#969896,#c5c8c6"
+color-link tabbar "#b4b7b4,#e0e0e0"
+color-link indent-char "#b4b7b4"
+color-link line-number "#b4b7b4,#e0e0e0"
+color-link current-line-number "#969896,#e0e0e0"
+
+color-link diff-added "#718c00,#e0e0e0"
+color-link diff-modified "#b4b7b4,#e0e0e0"
+color-link diff-deleted "#c82829,#e0e0e0"
+color-link gutter-error "#c82829,#e0e0e0"
+color-link gutter-warning "#4271ae,#e0e0e0"
+
+color-link cursor-line "#e0e0e0"
+color-link color-column "#e0e0e0"

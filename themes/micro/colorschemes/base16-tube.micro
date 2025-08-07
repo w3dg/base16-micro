@@ -1,0 +1,44 @@
+# Base16 London Tube - micro color scheme
+# Scheme by Jan T. Sott
+
+color-link default "#d9d8d8,#231f20"
+
+color-link comment "#737171"
+
+color-link constant "#f386a1"
+color-link constant.specialChar "#b06110"
+color-link constant.string "#00853e"
+
+color-link identifier "#ee2e24"
+color-link identifier.class "#ffd204"
+
+color-link preproc "#ffd204"
+
+color-link special "#85cebc"
+
+color-link statement "#ee2e24"
+
+color-link symbol.operator "#d9d8d8"
+color-link symbol.tag "#d9d8d8"
+
+color-link type "#ffd204"
+
+color-link underlined "#ee2e24"
+
+color-link error "bold #231f20,#ee2e24"
+color-link todo "bold #ffd204,#1c3f95"
+color-link hlsearch "#1c3f95,#ffd204"
+color-link statusline "#959ca1,#5a5758"
+color-link tabbar "#737171,#1c3f95"
+color-link indent-char "#737171"
+color-link line-number "#737171,#1c3f95"
+color-link current-line-number "#959ca1,#1c3f95"
+
+color-link diff-added "#00853e,#1c3f95"
+color-link diff-modified "#737171,#1c3f95"
+color-link diff-deleted "#ee2e24,#1c3f95"
+color-link gutter-error "#ee2e24,#1c3f95"
+color-link gutter-warning "#009ddc,#1c3f95"
+
+color-link cursor-line "#1c3f95"
+color-link color-column "#1c3f95"

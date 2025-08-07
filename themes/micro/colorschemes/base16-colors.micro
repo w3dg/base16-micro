@@ -1,0 +1,44 @@
+# Base16 Colors - micro color scheme
+# Scheme by mrmrs (http://clrs.cc)
+
+color-link default "#bbbbbb,#111111"
+
+color-link comment "#777777"
+
+color-link constant "#ff851b"
+color-link constant.specialChar "#85144b"
+color-link constant.string "#2ecc40"
+
+color-link identifier "#ff4136"
+color-link identifier.class "#ffdc00"
+
+color-link preproc "#ffdc00"
+
+color-link special "#7fdbff"
+
+color-link statement "#ff4136"
+
+color-link symbol.operator "#bbbbbb"
+color-link symbol.tag "#bbbbbb"
+
+color-link type "#ffdc00"
+
+color-link underlined "#ff4136"
+
+color-link error "bold #111111,#ff4136"
+color-link todo "bold #ffdc00,#333333"
+color-link hlsearch "#333333,#ffdc00"
+color-link statusline "#999999,#555555"
+color-link tabbar "#777777,#333333"
+color-link indent-char "#777777"
+color-link line-number "#777777,#333333"
+color-link current-line-number "#999999,#333333"
+
+color-link diff-added "#2ecc40,#333333"
+color-link diff-modified "#777777,#333333"
+color-link diff-deleted "#ff4136,#333333"
+color-link gutter-error "#ff4136,#333333"
+color-link gutter-warning "#0074d9,#333333"
+
+color-link cursor-line "#333333"
+color-link color-column "#333333"

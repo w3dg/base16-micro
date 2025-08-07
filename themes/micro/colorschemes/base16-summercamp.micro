@@ -1,0 +1,44 @@
+# Base16 summercamp - micro color scheme
+# Scheme by zoe firi (zoefiri.github.io)
+
+color-link default "#736e55,#1c1810"
+
+color-link comment "#504b38"
+
+color-link constant "#fba11b"
+color-link constant.specialChar "#f69be7"
+color-link constant.string "#5ceb5a"
+
+color-link identifier "#e35142"
+color-link identifier.class "#f2ff27"
+
+color-link preproc "#f2ff27"
+
+color-link special "#5aebbc"
+
+color-link statement "#e35142"
+
+color-link symbol.operator "#736e55"
+color-link symbol.tag "#736e55"
+
+color-link type "#f2ff27"
+
+color-link underlined "#e35142"
+
+color-link error "bold #1c1810,#e35142"
+color-link todo "bold #f2ff27,#2a261c"
+color-link hlsearch "#2a261c,#f2ff27"
+color-link statusline "#5f5b45,#3a3527"
+color-link tabbar "#504b38,#2a261c"
+color-link indent-char "#504b38"
+color-link line-number "#504b38,#2a261c"
+color-link current-line-number "#5f5b45,#2a261c"
+
+color-link diff-added "#5ceb5a,#2a261c"
+color-link diff-modified "#504b38,#2a261c"
+color-link diff-deleted "#e35142,#2a261c"
+color-link gutter-error "#e35142,#2a261c"
+color-link gutter-warning "#489bf0,#2a261c"
+
+color-link cursor-line "#2a261c"
+color-link color-column "#2a261c"

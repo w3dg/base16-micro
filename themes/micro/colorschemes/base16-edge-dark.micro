@@ -1,0 +1,44 @@
+# Base16 Edge Dark - micro color scheme
+# Scheme by cjayross (https://github.com/cjayross)
+
+color-link default "#b7bec9,#262729"
+
+color-link comment "#3e4249"
+
+color-link constant "#e77171"
+color-link constant.specialChar "#5ebaa5"
+color-link constant.string "#a1bf78"
+
+color-link identifier "#e77171"
+color-link identifier.class "#dbb774"
+
+color-link preproc "#dbb774"
+
+color-link special "#5ebaa5"
+
+color-link statement "#e77171"
+
+color-link symbol.operator "#b7bec9"
+color-link symbol.tag "#b7bec9"
+
+color-link type "#dbb774"
+
+color-link underlined "#e77171"
+
+color-link error "bold #262729,#e77171"
+color-link todo "bold #dbb774,#88909f"
+color-link hlsearch "#88909f,#dbb774"
+color-link statusline "#73b3e7,#b7bec9"
+color-link tabbar "#3e4249,#88909f"
+color-link indent-char "#3e4249"
+color-link line-number "#3e4249,#88909f"
+color-link current-line-number "#73b3e7,#88909f"
+
+color-link diff-added "#a1bf78,#88909f"
+color-link diff-modified "#3e4249,#88909f"
+color-link diff-deleted "#e77171,#88909f"
+color-link gutter-error "#e77171,#88909f"
+color-link gutter-warning "#73b3e7,#88909f"
+
+color-link cursor-line "#88909f"
+color-link color-column "#88909f"

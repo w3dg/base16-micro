@@ -1,0 +1,44 @@
+# Base16 Eighties - micro color scheme
+# Scheme by Chris Kempson (http://chriskempson.com)
+
+color-link default "#d3d0c8,#2d2d2d"
+
+color-link comment "#747369"
+
+color-link constant "#f99157"
+color-link constant.specialChar "#d27b53"
+color-link constant.string "#99cc99"
+
+color-link identifier "#f2777a"
+color-link identifier.class "#ffcc66"
+
+color-link preproc "#ffcc66"
+
+color-link special "#66cccc"
+
+color-link statement "#f2777a"
+
+color-link symbol.operator "#d3d0c8"
+color-link symbol.tag "#d3d0c8"
+
+color-link type "#ffcc66"
+
+color-link underlined "#f2777a"
+
+color-link error "bold #2d2d2d,#f2777a"
+color-link todo "bold #ffcc66,#393939"
+color-link hlsearch "#393939,#ffcc66"
+color-link statusline "#a09f93,#515151"
+color-link tabbar "#747369,#393939"
+color-link indent-char "#747369"
+color-link line-number "#747369,#393939"
+color-link current-line-number "#a09f93,#393939"
+
+color-link diff-added "#99cc99,#393939"
+color-link diff-modified "#747369,#393939"
+color-link diff-deleted "#f2777a,#393939"
+color-link gutter-error "#f2777a,#393939"
+color-link gutter-warning "#6699cc,#393939"
+
+color-link cursor-line "#393939"
+color-link color-column "#393939"

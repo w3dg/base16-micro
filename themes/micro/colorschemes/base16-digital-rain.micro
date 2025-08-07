@@ -1,0 +1,44 @@
+# Base16 Digital Rain - micro color scheme
+# Scheme by Nathan Byrd (https://github.com/cognitivegears)
+
+color-link default "#00ff00,#000000"
+
+color-link comment "#7c8d7c"
+
+color-link constant "#c86428"
+color-link constant.specialChar "#b37c5e"
+color-link constant.string "#64c83c"
+
+color-link identifier "#c85a46"
+color-link identifier.class "#a67a50"
+
+color-link preproc "#a67a50"
+
+color-link special "#468c78"
+
+color-link statement "#c85a46"
+
+color-link symbol.operator "#00ff00"
+color-link symbol.tag "#00ff00"
+
+color-link type "#a67a50"
+
+color-link underlined "#c85a46"
+
+color-link error "bold #000000,#c85a46"
+color-link todo "bold #a67a50,#4a806c"
+color-link hlsearch "#4a806c,#a67a50"
+color-link statusline "#919893,#4a8d7e"
+color-link tabbar "#7c8d7c,#4a806c"
+color-link indent-char "#7c8d7c"
+color-link line-number "#7c8d7c,#4a806c"
+color-link current-line-number "#919893,#4a806c"
+
+color-link diff-added "#64c83c,#4a806c"
+color-link diff-modified "#7c8d7c,#4a806c"
+color-link diff-deleted "#c85a46,#4a806c"
+color-link gutter-error "#c85a46,#4a806c"
+color-link gutter-warning "#5482af,#4a806c"
+
+color-link cursor-line "#4a806c"
+color-link color-column "#4a806c"

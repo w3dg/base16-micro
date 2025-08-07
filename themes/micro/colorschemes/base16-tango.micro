@@ -1,0 +1,44 @@
+# Base16 Tango - micro color scheme
+# Scheme by @Schnouki, based on the Tango Desktop Project
+
+color-link default "#d3d7cf,#2e3436"
+
+color-link comment "#555753"
+
+color-link constant "#ef2929"
+color-link constant.specialChar "#34e2e2"
+color-link constant.string "#4e9a06"
+
+color-link identifier "#cc0000"
+color-link identifier.class "#c4a000"
+
+color-link preproc "#c4a000"
+
+color-link special "#06989a"
+
+color-link statement "#cc0000"
+
+color-link symbol.operator "#d3d7cf"
+color-link symbol.tag "#d3d7cf"
+
+color-link type "#c4a000"
+
+color-link underlined "#cc0000"
+
+color-link error "bold #2e3436,#cc0000"
+color-link todo "bold #c4a000,#8ae234"
+color-link hlsearch "#8ae234,#c4a000"
+color-link statusline "#729fcf,#fce94f"
+color-link tabbar "#555753,#8ae234"
+color-link indent-char "#555753"
+color-link line-number "#555753,#8ae234"
+color-link current-line-number "#729fcf,#8ae234"
+
+color-link diff-added "#4e9a06,#8ae234"
+color-link diff-modified "#555753,#8ae234"
+color-link diff-deleted "#cc0000,#8ae234"
+color-link gutter-error "#cc0000,#8ae234"
+color-link gutter-warning "#3465a4,#8ae234"
+
+color-link cursor-line "#8ae234"
+color-link color-column "#8ae234"

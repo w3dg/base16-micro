@@ -1,0 +1,44 @@
+# Base16 Primer Light - micro color scheme
+# Scheme by Jimmy Lin
+
+color-link default "#2f363d,#fafbfc"
+
+color-link comment "#959da5"
+
+color-link constant "#f66a0a"
+color-link constant.specialChar "#a04100"
+color-link constant.string "#28a745"
+
+color-link identifier "#d73a49"
+color-link identifier.class "#ffd33d"
+
+color-link preproc "#ffd33d"
+
+color-link special "#79b8ff"
+
+color-link statement "#d73a49"
+
+color-link symbol.operator "#2f363d"
+color-link symbol.tag "#2f363d"
+
+color-link type "#ffd33d"
+
+color-link underlined "#d73a49"
+
+color-link error "bold #fafbfc,#d73a49"
+color-link todo "bold #ffd33d,#e1e4e8"
+color-link hlsearch "#e1e4e8,#ffd33d"
+color-link statusline "#444d56,#d1d5da"
+color-link tabbar "#959da5,#e1e4e8"
+color-link indent-char "#959da5"
+color-link line-number "#959da5,#e1e4e8"
+color-link current-line-number "#444d56,#e1e4e8"
+
+color-link diff-added "#28a745,#e1e4e8"
+color-link diff-modified "#959da5,#e1e4e8"
+color-link diff-deleted "#d73a49,#e1e4e8"
+color-link gutter-error "#d73a49,#e1e4e8"
+color-link gutter-warning "#0366d6,#e1e4e8"
+
+color-link cursor-line "#e1e4e8"
+color-link color-column "#e1e4e8"

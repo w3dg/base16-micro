@@ -1,0 +1,44 @@
+# Base16 Apprentice - micro color scheme
+# Scheme by romainl
+
+color-link default "#5f5f87,#262626"
+
+color-link comment "#87875f"
+
+color-link constant "#ff8700"
+color-link constant.specialChar "#bcbcbc"
+color-link constant.string "#ffffaf"
+
+color-link identifier "#444444"
+color-link identifier.class "#87af87"
+
+color-link preproc "#87af87"
+
+color-link special "#87afd7"
+
+color-link statement "#444444"
+
+color-link symbol.operator "#5f5f87"
+color-link symbol.tag "#5f5f87"
+
+color-link type "#87af87"
+
+color-link underlined "#444444"
+
+color-link error "bold #262626,#444444"
+color-link todo "bold #87af87,#af5f5f"
+color-link hlsearch "#af5f5f,#87af87"
+color-link statusline "#5f87af,#5f875f"
+color-link tabbar "#87875f,#af5f5f"
+color-link indent-char "#87875f"
+color-link line-number "#87875f,#af5f5f"
+color-link current-line-number "#5f87af,#af5f5f"
+
+color-link diff-added "#ffffaf,#af5f5f"
+color-link diff-modified "#87875f,#af5f5f"
+color-link diff-deleted "#444444,#af5f5f"
+color-link gutter-error "#444444,#af5f5f"
+color-link gutter-warning "#8787af,#af5f5f"
+
+color-link cursor-line "#af5f5f"
+color-link color-column "#af5f5f"

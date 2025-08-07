@@ -1,0 +1,44 @@
+# Base16 Everforest Dark Medium - micro color scheme
+# Scheme by Sainnhe Park (https://github.com/sainnhe)
+
+color-link default "#859289,#2d353b"
+
+color-link comment "#475258"
+
+color-link constant "#e69875"
+color-link constant.specialChar "#514045"
+color-link constant.string "#a7c080"
+
+color-link identifier "#e67e80"
+color-link identifier.class "#dbbc7f"
+
+color-link preproc "#dbbc7f"
+
+color-link special "#83c092"
+
+color-link statement "#e67e80"
+
+color-link symbol.operator "#859289"
+color-link symbol.tag "#859289"
+
+color-link type "#dbbc7f"
+
+color-link underlined "#e67e80"
+
+color-link error "bold #2d353b,#e67e80"
+color-link todo "bold #dbbc7f,#343f44"
+color-link hlsearch "#343f44,#dbbc7f"
+color-link statusline "#7a8478,#3d484d"
+color-link tabbar "#475258,#343f44"
+color-link indent-char "#475258"
+color-link line-number "#475258,#343f44"
+color-link current-line-number "#7a8478,#343f44"
+
+color-link diff-added "#a7c080,#343f44"
+color-link diff-modified "#475258,#343f44"
+color-link diff-deleted "#e67e80,#343f44"
+color-link gutter-error "#e67e80,#343f44"
+color-link gutter-warning "#7fbbb3,#343f44"
+
+color-link cursor-line "#343f44"
+color-link color-column "#343f44"

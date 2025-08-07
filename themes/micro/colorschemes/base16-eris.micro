@@ -1,0 +1,44 @@
+# Base16 eris - micro color scheme
+# Scheme by ed (https://codeberg.org/ed)
+
+color-link default "#606bac,#0a0920"
+
+color-link comment "#333773"
+
+color-link constant "#f768a3"
+color-link constant.specialChar "#f768a3"
+color-link constant.string "#faaea2"
+
+color-link identifier "#f768a3"
+color-link identifier.class "#faaea2"
+
+color-link preproc "#faaea2"
+
+color-link special "#258fc4"
+
+color-link statement "#f768a3"
+
+color-link symbol.operator "#606bac"
+color-link symbol.tag "#606bac"
+
+color-link type "#faaea2"
+
+color-link underlined "#f768a3"
+
+color-link error "bold #0a0920,#f768a3"
+color-link todo "bold #faaea2,#13133a"
+color-link hlsearch "#13133a,#faaea2"
+color-link statusline "#4a5293,#23255a"
+color-link tabbar "#333773,#13133a"
+color-link indent-char "#333773"
+color-link line-number "#333773,#13133a"
+color-link current-line-number "#4a5293,#13133a"
+
+color-link diff-added "#faaea2,#13133a"
+color-link diff-modified "#333773,#13133a"
+color-link diff-deleted "#f768a3,#13133a"
+color-link gutter-error "#f768a3,#13133a"
+color-link gutter-warning "#258fc4,#13133a"
+
+color-link cursor-line "#13133a"
+color-link color-column "#13133a"

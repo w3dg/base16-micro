@@ -1,0 +1,44 @@
+# Base16 Horizon Dark - micro color scheme
+# Scheme by Michaël Ball (http://github.com/michael-ball/)
+
+color-link default "#cbced0,#1c1e26"
+
+color-link comment "#6f6f70"
+
+color-link constant "#e58d7d"
+color-link constant.specialChar "#e4a382"
+color-link constant.string "#efaf8e"
+
+color-link identifier "#e93c58"
+color-link identifier.class "#efb993"
+
+color-link preproc "#efb993"
+
+color-link special "#24a8b4"
+
+color-link statement "#e93c58"
+
+color-link symbol.operator "#cbced0"
+color-link symbol.tag "#cbced0"
+
+color-link type "#efb993"
+
+color-link underlined "#e93c58"
+
+color-link error "bold #1c1e26,#e93c58"
+color-link todo "bold #efb993,#232530"
+color-link hlsearch "#232530,#efb993"
+color-link statusline "#9da0a2,#2e303e"
+color-link tabbar "#6f6f70,#232530"
+color-link indent-char "#6f6f70"
+color-link line-number "#6f6f70,#232530"
+color-link current-line-number "#9da0a2,#232530"
+
+color-link diff-added "#efaf8e,#232530"
+color-link diff-modified "#6f6f70,#232530"
+color-link diff-deleted "#e93c58,#232530"
+color-link gutter-error "#e93c58,#232530"
+color-link gutter-warning "#df5273,#232530"
+
+color-link cursor-line "#232530"
+color-link color-column "#232530"

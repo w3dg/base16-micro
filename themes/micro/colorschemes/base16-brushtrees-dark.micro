@@ -1,0 +1,44 @@
+# Base16 Brush Trees Dark - micro color scheme
+# Scheme by Abraham White &lt;abelincoln.white@gmail.com&gt;
+
+color-link default "#b0c5c8,#485867"
+
+color-link comment "#8299a1"
+
+color-link constant "#d8bba2"
+color-link constant.specialChar "#b39f9f"
+color-link constant.string "#87b386"
+
+color-link identifier "#b38686"
+color-link identifier.class "#aab386"
+
+color-link preproc "#aab386"
+
+color-link special "#86b3b3"
+
+color-link statement "#b38686"
+
+color-link symbol.operator "#b0c5c8"
+color-link symbol.tag "#b0c5c8"
+
+color-link type "#aab386"
+
+color-link underlined "#b38686"
+
+color-link error "bold #485867,#b38686"
+color-link todo "bold #aab386,#5a6d7a"
+color-link hlsearch "#5a6d7a,#aab386"
+color-link statusline "#98afb5,#6d828e"
+color-link tabbar "#8299a1,#5a6d7a"
+color-link indent-char "#8299a1"
+color-link line-number "#8299a1,#5a6d7a"
+color-link current-line-number "#98afb5,#5a6d7a"
+
+color-link diff-added "#87b386,#5a6d7a"
+color-link diff-modified "#8299a1,#5a6d7a"
+color-link diff-deleted "#b38686,#5a6d7a"
+color-link gutter-error "#b38686,#5a6d7a"
+color-link gutter-warning "#868cb3,#5a6d7a"
+
+color-link cursor-line "#5a6d7a"
+color-link color-column "#5a6d7a"

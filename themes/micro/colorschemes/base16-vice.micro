@@ -1,0 +1,44 @@
+# Base16 vice - micro color scheme
+# Scheme by Thomas Leon Highbaugh thighbaugh@zoho.com
+
+color-link default "#8b9cbe,#17191e"
+
+color-link comment "#383a47"
+
+color-link constant "#85ffe0"
+color-link constant.specialChar "#ff3d81"
+color-link constant.string "#0badff"
+
+color-link identifier "#ff29a8"
+color-link identifier.class "#f0ffaa"
+
+color-link preproc "#f0ffaa"
+
+color-link special "#8265ff"
+
+color-link statement "#ff29a8"
+
+color-link symbol.operator "#8b9cbe"
+color-link symbol.tag "#8b9cbe"
+
+color-link type "#f0ffaa"
+
+color-link underlined "#ff29a8"
+
+color-link error "bold #17191e,#ff29a8"
+color-link todo "bold #f0ffaa,#22262d"
+color-link hlsearch "#22262d,#f0ffaa"
+color-link statusline "#555e70,#3c3f4c"
+color-link tabbar "#383a47,#22262d"
+color-link indent-char "#383a47"
+color-link line-number "#383a47,#22262d"
+color-link current-line-number "#555e70,#22262d"
+
+color-link diff-added "#0badff,#22262d"
+color-link diff-modified "#383a47,#22262d"
+color-link diff-deleted "#ff29a8,#22262d"
+color-link gutter-error "#ff29a8,#22262d"
+color-link gutter-warning "#00eaff,#22262d"
+
+color-link cursor-line "#22262d"
+color-link color-column "#22262d"

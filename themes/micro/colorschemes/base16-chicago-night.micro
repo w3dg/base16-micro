@@ -1,0 +1,44 @@
+# Base16 Chicago Night - micro color scheme
+# Scheme by Wendell, Ryan &lt;ryanjwendell@gmail.com&gt;
+
+color-link default "#a7b8af,#1e2a24"
+
+color-link comment "#5f7368"
+
+color-link constant "#f9461c"
+color-link constant.specialChar "#62361b"
+color-link constant.string "#009b3a"
+
+color-link identifier "#c60c30"
+color-link identifier.class "#f9e300"
+
+color-link preproc "#f9e300"
+
+color-link special "#00a1de"
+
+color-link statement "#c60c30"
+
+color-link symbol.operator "#a7b8af"
+color-link symbol.tag "#a7b8af"
+
+color-link type "#f9e300"
+
+color-link underlined "#c60c30"
+
+color-link error "bold #1e2a24,#c60c30"
+color-link todo "bold #f9e300,#2a3b32"
+color-link hlsearch "#2a3b32,#f9e300"
+color-link statusline "#8a9a91,#364c40"
+color-link tabbar "#5f7368,#2a3b32"
+color-link indent-char "#5f7368"
+color-link line-number "#5f7368,#2a3b32"
+color-link current-line-number "#8a9a91,#2a3b32"
+
+color-link diff-added "#009b3a,#2a3b32"
+color-link diff-modified "#5f7368,#2a3b32"
+color-link diff-deleted "#c60c30,#2a3b32"
+color-link gutter-error "#c60c30,#2a3b32"
+color-link gutter-warning "#522398,#2a3b32"
+
+color-link cursor-line "#2a3b32"
+color-link color-column "#2a3b32"

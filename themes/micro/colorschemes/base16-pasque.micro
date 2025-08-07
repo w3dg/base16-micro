@@ -1,0 +1,44 @@
+# Base16 Pasque - micro color scheme
+# Scheme by Gabriel Fontes (https://github.com/Misterio77)
+
+color-link default "#dedcdf,#271c3a"
+
+color-link comment "#5d5766"
+
+color-link constant "#918889"
+color-link constant.specialChar "#59325c"
+color-link constant.string "#c6914b"
+
+color-link identifier "#a92258"
+color-link identifier.class "#804ead"
+
+color-link preproc "#804ead"
+
+color-link special "#7263aa"
+
+color-link statement "#a92258"
+
+color-link symbol.operator "#dedcdf"
+color-link symbol.tag "#dedcdf"
+
+color-link type "#804ead"
+
+color-link underlined "#a92258"
+
+color-link error "bold #271c3a,#a92258"
+color-link todo "bold #804ead,#100323"
+color-link hlsearch "#100323,#804ead"
+color-link statusline "#bebcbf,#3e2d5c"
+color-link tabbar "#5d5766,#100323"
+color-link indent-char "#5d5766"
+color-link line-number "#5d5766,#100323"
+color-link current-line-number "#bebcbf,#100323"
+
+color-link diff-added "#c6914b,#100323"
+color-link diff-modified "#5d5766,#100323"
+color-link diff-deleted "#a92258,#100323"
+color-link gutter-error "#a92258,#100323"
+color-link gutter-warning "#8e7dc6,#100323"
+
+color-link cursor-line "#100323"
+color-link color-column "#100323"

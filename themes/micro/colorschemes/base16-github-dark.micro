@@ -1,0 +1,44 @@
+# Base16 Github Dark - micro color scheme
+# Scheme by Tinted Theming (https://github.com/tinted-theming)
+
+color-link default "#c9d1d9,#161b22"
+
+color-link comment "#6e7681"
+
+color-link constant "#db6d28"
+color-link constant.specialChar "#3d2f00"
+color-link constant.string "#2ea043"
+
+color-link identifier "#f85149"
+color-link identifier.class "#bb8009"
+
+color-link preproc "#bb8009"
+
+color-link special "#2a9d9a"
+
+color-link statement "#f85149"
+
+color-link symbol.operator "#c9d1d9"
+color-link symbol.tag "#c9d1d9"
+
+color-link type "#bb8009"
+
+color-link underlined "#f85149"
+
+color-link error "bold #161b22,#f85149"
+color-link todo "bold #bb8009,#30363d"
+color-link hlsearch "#30363d,#bb8009"
+color-link statusline "#8b949e,#484f58"
+color-link tabbar "#6e7681,#30363d"
+color-link indent-char "#6e7681"
+color-link line-number "#6e7681,#30363d"
+color-link current-line-number "#8b949e,#30363d"
+
+color-link diff-added "#2ea043,#30363d"
+color-link diff-modified "#6e7681,#30363d"
+color-link diff-deleted "#f85149,#30363d"
+color-link gutter-error "#f85149,#30363d"
+color-link gutter-warning "#388bfd,#30363d"
+
+color-link cursor-line "#30363d"
+color-link color-column "#30363d"

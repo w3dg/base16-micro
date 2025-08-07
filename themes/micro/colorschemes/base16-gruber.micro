@@ -1,0 +1,44 @@
+# Base16 Gruber - micro color scheme
+# Scheme by Patel, Nimai &lt;nimai.m.patel@gmail.com&gt;, colors from www.github.com/rexim/gruber-darker-theme
+
+color-link default "#f4f4ff,#181818"
+
+color-link comment "#52494e"
+
+color-link constant "#c73c3f"
+color-link constant.specialChar "#cc8c3c"
+color-link constant.string "#73c936"
+
+color-link identifier "#f43841"
+color-link identifier.class "#ffdd33"
+
+color-link preproc "#ffdd33"
+
+color-link special "#95a99f"
+
+color-link statement "#f43841"
+
+color-link symbol.operator "#f4f4ff"
+color-link symbol.tag "#f4f4ff"
+
+color-link type "#ffdd33"
+
+color-link underlined "#f43841"
+
+color-link error "bold #181818,#f43841"
+color-link todo "bold #ffdd33,#453d41"
+color-link hlsearch "#453d41,#ffdd33"
+color-link statusline "#e4e4ef,#484848"
+color-link tabbar "#52494e,#453d41"
+color-link indent-char "#52494e"
+color-link line-number "#52494e,#453d41"
+color-link current-line-number "#e4e4ef,#453d41"
+
+color-link diff-added "#73c936,#453d41"
+color-link diff-modified "#52494e,#453d41"
+color-link diff-deleted "#f43841,#453d41"
+color-link gutter-error "#f43841,#453d41"
+color-link gutter-warning "#96a6c8,#453d41"
+
+color-link cursor-line "#453d41"
+color-link color-column "#453d41"

@@ -1,0 +1,44 @@
+# Base16 ShadeSmear Dark - micro color scheme
+# Scheme by Kyle Giammarco (http://kyle.giammar.co)
+
+color-link default "#dbdbdb,#232323"
+
+color-link comment "#c0c0c0"
+
+color-link constant "#a64270"
+color-link constant.specialChar "#6d6d6d"
+color-link constant.string "#71983b"
+
+color-link identifier "#cc5450"
+color-link identifier.class "#307878"
+
+color-link preproc "#307878"
+
+color-link special "#c57d42"
+
+color-link statement "#cc5450"
+
+color-link symbol.operator "#dbdbdb"
+color-link symbol.tag "#dbdbdb"
+
+color-link type "#307878"
+
+color-link underlined "#cc5450"
+
+color-link error "bold #232323,#cc5450"
+color-link todo "bold #307878,#1c1c1c"
+color-link hlsearch "#1c1c1c,#307878"
+color-link statusline "#e4e4e4,#4e4e4e"
+color-link tabbar "#c0c0c0,#1c1c1c"
+color-link indent-char "#c0c0c0"
+color-link line-number "#c0c0c0,#1c1c1c"
+color-link current-line-number "#e4e4e4,#1c1c1c"
+
+color-link diff-added "#71983b,#1c1c1c"
+color-link diff-modified "#c0c0c0,#1c1c1c"
+color-link diff-deleted "#cc5450,#1c1c1c"
+color-link gutter-error "#cc5450,#1c1c1c"
+color-link gutter-warning "#376388,#1c1c1c"
+
+color-link cursor-line "#1c1c1c"
+color-link color-column "#1c1c1c"

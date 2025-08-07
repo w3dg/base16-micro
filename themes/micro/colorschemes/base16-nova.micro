@@ -1,0 +1,44 @@
+# Base16 Nova - micro color scheme
+# Scheme by George Essig (https://github.com/gessig), Trevor D. Miller (https://trevordmiller.com)
+
+color-link default "#c5d4dd,#3c4c55"
+
+color-link comment "#899ba6"
+
+color-link constant "#7fc1ca"
+color-link constant.specialChar "#f2c38f"
+color-link constant.string "#7fc1ca"
+
+color-link identifier "#83afe5"
+color-link identifier.class "#a8ce93"
+
+color-link preproc "#a8ce93"
+
+color-link special "#f2c38f"
+
+color-link statement "#83afe5"
+
+color-link symbol.operator "#c5d4dd"
+color-link symbol.tag "#c5d4dd"
+
+color-link type "#a8ce93"
+
+color-link underlined "#83afe5"
+
+color-link error "bold #3c4c55,#83afe5"
+color-link todo "bold #a8ce93,#556873"
+color-link hlsearch "#556873,#a8ce93"
+color-link statusline "#899ba6,#6a7d89"
+color-link tabbar "#899ba6,#556873"
+color-link indent-char "#899ba6"
+color-link line-number "#899ba6,#556873"
+color-link current-line-number "#899ba6,#556873"
+
+color-link diff-added "#7fc1ca,#556873"
+color-link diff-modified "#899ba6,#556873"
+color-link diff-deleted "#83afe5,#556873"
+color-link gutter-error "#83afe5,#556873"
+color-link gutter-warning "#83afe5,#556873"
+
+color-link cursor-line "#556873"
+color-link color-column "#556873"

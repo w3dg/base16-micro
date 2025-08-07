@@ -1,0 +1,44 @@
+# Base16 Google Dark - micro color scheme
+# Scheme by Seth Wright (http://sethawright.com)
+
+color-link default "#c5c8c6,#1d1f21"
+
+color-link comment "#969896"
+
+color-link constant "#f96a38"
+color-link constant.specialChar "#3971ed"
+color-link constant.string "#198844"
+
+color-link identifier "#cc342b"
+color-link identifier.class "#fba922"
+
+color-link preproc "#fba922"
+
+color-link special "#3971ed"
+
+color-link statement "#cc342b"
+
+color-link symbol.operator "#c5c8c6"
+color-link symbol.tag "#c5c8c6"
+
+color-link type "#fba922"
+
+color-link underlined "#cc342b"
+
+color-link error "bold #1d1f21,#cc342b"
+color-link todo "bold #fba922,#282a2e"
+color-link hlsearch "#282a2e,#fba922"
+color-link statusline "#b4b7b4,#373b41"
+color-link tabbar "#969896,#282a2e"
+color-link indent-char "#969896"
+color-link line-number "#969896,#282a2e"
+color-link current-line-number "#b4b7b4,#282a2e"
+
+color-link diff-added "#198844,#282a2e"
+color-link diff-modified "#969896,#282a2e"
+color-link diff-deleted "#cc342b,#282a2e"
+color-link gutter-error "#cc342b,#282a2e"
+color-link gutter-warning "#3971ed,#282a2e"
+
+color-link cursor-line "#282a2e"
+color-link color-column "#282a2e"

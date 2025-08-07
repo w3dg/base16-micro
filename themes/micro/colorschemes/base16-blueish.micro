@@ -1,0 +1,44 @@
+# Base16 Blueish - micro color scheme
+# Scheme by Ben Mayoras
+
+color-link default "#c8e1f8,#182430"
+
+color-link comment "#616d78"
+
+color-link constant "#f6a85c"
+color-link constant.specialChar "#bbd2e8"
+color-link constant.string "#c3e88d"
+
+color-link identifier "#4ce587"
+color-link identifier.class "#82aaff"
+
+color-link preproc "#82aaff"
+
+color-link special "#5fd1ff"
+
+color-link statement "#4ce587"
+
+color-link symbol.operator "#c8e1f8"
+color-link symbol.tag "#c8e1f8"
+
+color-link type "#82aaff"
+
+color-link underlined "#4ce587"
+
+color-link error "bold #182430,#4ce587"
+color-link todo "bold #82aaff,#243c54"
+color-link hlsearch "#243c54,#82aaff"
+color-link statusline "#74afe7,#46290a"
+color-link tabbar "#616d78,#243c54"
+color-link indent-char "#616d78"
+color-link line-number "#616d78,#243c54"
+color-link current-line-number "#74afe7,#243c54"
+
+color-link diff-added "#c3e88d,#243c54"
+color-link diff-modified "#616d78,#243c54"
+color-link diff-deleted "#4ce587,#243c54"
+color-link gutter-error "#4ce587,#243c54"
+color-link gutter-warning "#82aaff,#243c54"
+
+color-link cursor-line "#243c54"
+color-link color-column "#243c54"

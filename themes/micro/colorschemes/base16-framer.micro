@@ -1,0 +1,44 @@
+# Base16 Framer - micro color scheme
+# Scheme by Framer (Maintained by Jesse Hoyos)
+
+color-link default "#d0d0d0,#181818"
+
+color-link comment "#747474"
+
+color-link constant "#fc4769"
+color-link constant.specialChar "#b15f4a"
+color-link constant.string "#32ccdc"
+
+color-link identifier "#fd886b"
+color-link identifier.class "#fecb6e"
+
+color-link preproc "#fecb6e"
+
+color-link special "#acddfd"
+
+color-link statement "#fd886b"
+
+color-link symbol.operator "#d0d0d0"
+color-link symbol.tag "#d0d0d0"
+
+color-link type "#fecb6e"
+
+color-link underlined "#fd886b"
+
+color-link error "bold #181818,#fd886b"
+color-link todo "bold #fecb6e,#151515"
+color-link hlsearch "#151515,#fecb6e"
+color-link statusline "#b9b9b9,#464646"
+color-link tabbar "#747474,#151515"
+color-link indent-char "#747474"
+color-link line-number "#747474,#151515"
+color-link current-line-number "#b9b9b9,#151515"
+
+color-link diff-added "#32ccdc,#151515"
+color-link diff-modified "#747474,#151515"
+color-link diff-deleted "#fd886b,#151515"
+color-link gutter-error "#fd886b,#151515"
+color-link gutter-warning "#20bcfc,#151515"
+
+color-link cursor-line "#151515"
+color-link color-column "#151515"

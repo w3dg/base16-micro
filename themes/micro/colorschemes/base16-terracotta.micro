@@ -1,0 +1,44 @@
+# Base16 Terracotta - micro color scheme
+# Scheme by Alexander Rossell Hayes (https://github.com/rossellhayes)
+
+color-link default "#473731,#efeae8"
+
+color-link comment "#c0aca4"
+
+color-link constant "#bd6942"
+color-link constant.specialChar "#b07158"
+color-link constant.string "#7a894a"
+
+color-link identifier "#a75045"
+color-link identifier.class "#ce943e"
+
+color-link preproc "#ce943e"
+
+color-link special "#847f9e"
+
+color-link statement "#a75045"
+
+color-link symbol.operator "#473731"
+color-link symbol.tag "#473731"
+
+color-link type "#ce943e"
+
+color-link underlined "#a75045"
+
+color-link error "bold #efeae8,#a75045"
+color-link todo "bold #ce943e,#dfd6d1"
+color-link hlsearch "#dfd6d1,#ce943e"
+color-link statusline "#59453d,#d0c1bb"
+color-link tabbar "#c0aca4,#dfd6d1"
+color-link indent-char "#c0aca4"
+color-link line-number "#c0aca4,#dfd6d1"
+color-link current-line-number "#59453d,#dfd6d1"
+
+color-link diff-added "#7a894a,#dfd6d1"
+color-link diff-modified "#c0aca4,#dfd6d1"
+color-link diff-deleted "#a75045,#dfd6d1"
+color-link gutter-error "#a75045,#dfd6d1"
+color-link gutter-warning "#625574,#dfd6d1"
+
+color-link cursor-line "#dfd6d1"
+color-link color-column "#dfd6d1"

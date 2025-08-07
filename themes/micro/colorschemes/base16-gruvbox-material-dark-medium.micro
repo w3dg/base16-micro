@@ -1,0 +1,44 @@
+# Base16 Gruvbox Material Dark, Medium - micro color scheme
+# Scheme by Mayush Kumar (https://github.com/MayushKumar), sainnhe (https://github.com/sainnhe/gruvbox-material-vscode)
+
+color-link default "#ddc7a1,#292828"
+
+color-link comment "#665c54"
+
+color-link constant "#e78a4e"
+color-link constant.specialChar "#bd6f3e"
+color-link constant.string "#a9b665"
+
+color-link identifier "#ea6962"
+color-link identifier.class "#d8a657"
+
+color-link preproc "#d8a657"
+
+color-link special "#89b482"
+
+color-link statement "#ea6962"
+
+color-link symbol.operator "#ddc7a1"
+color-link symbol.tag "#ddc7a1"
+
+color-link type "#d8a657"
+
+color-link underlined "#ea6962"
+
+color-link error "bold #292828,#ea6962"
+color-link todo "bold #d8a657,#32302f"
+color-link hlsearch "#32302f,#d8a657"
+color-link statusline "#bdae93,#504945"
+color-link tabbar "#665c54,#32302f"
+color-link indent-char "#665c54"
+color-link line-number "#665c54,#32302f"
+color-link current-line-number "#bdae93,#32302f"
+
+color-link diff-added "#a9b665,#32302f"
+color-link diff-modified "#665c54,#32302f"
+color-link diff-deleted "#ea6962,#32302f"
+color-link gutter-error "#ea6962,#32302f"
+color-link gutter-warning "#7daea3,#32302f"
+
+color-link cursor-line "#32302f"
+color-link color-column "#32302f"

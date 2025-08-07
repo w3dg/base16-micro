@@ -1,0 +1,44 @@
+# Base16 Solar Flare - micro color scheme
+# Scheme by Chuck Harmston (https://chuck.harmston.ch)
+
+color-link default "#a6afb8,#18262f"
+
+color-link comment "#667581"
+
+color-link constant "#e66b2b"
+color-link constant.specialChar "#d73c9a"
+color-link constant.string "#7cc844"
+
+color-link identifier "#ef5253"
+color-link identifier.class "#e4b51c"
+
+color-link preproc "#e4b51c"
+
+color-link special "#52cbb0"
+
+color-link statement "#ef5253"
+
+color-link symbol.operator "#a6afb8"
+color-link symbol.tag "#a6afb8"
+
+color-link type "#e4b51c"
+
+color-link underlined "#ef5253"
+
+color-link error "bold #18262f,#ef5253"
+color-link todo "bold #e4b51c,#222e38"
+color-link hlsearch "#222e38,#e4b51c"
+color-link statusline "#85939e,#586875"
+color-link tabbar "#667581,#222e38"
+color-link indent-char "#667581"
+color-link line-number "#667581,#222e38"
+color-link current-line-number "#85939e,#222e38"
+
+color-link diff-added "#7cc844,#222e38"
+color-link diff-modified "#667581,#222e38"
+color-link diff-deleted "#ef5253,#222e38"
+color-link gutter-error "#ef5253,#222e38"
+color-link gutter-warning "#33b5e1,#222e38"
+
+color-link cursor-line "#222e38"
+color-link color-column "#222e38"

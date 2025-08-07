@@ -1,0 +1,44 @@
+# Base16 tender - micro color scheme
+# Scheme by Jacobo Tabernero (https://github/com/jacoborus/tender.vim)
+
+color-link default "#eeeeee,#282828"
+
+color-link comment "#4c4c4c"
+
+color-link constant "#dc9656"
+color-link constant.specialChar "#a16946"
+color-link constant.string "#c9d05c"
+
+color-link identifier "#f43753"
+color-link identifier.class "#ffc24b"
+
+color-link preproc "#ffc24b"
+
+color-link special "#73cef4"
+
+color-link statement "#f43753"
+
+color-link symbol.operator "#eeeeee"
+color-link symbol.tag "#eeeeee"
+
+color-link type "#ffc24b"
+
+color-link underlined "#f43753"
+
+color-link error "bold #282828,#f43753"
+color-link todo "bold #ffc24b,#383838"
+color-link hlsearch "#383838,#ffc24b"
+color-link statusline "#b8b8b8,#484848"
+color-link tabbar "#4c4c4c,#383838"
+color-link indent-char "#4c4c4c"
+color-link line-number "#4c4c4c,#383838"
+color-link current-line-number "#b8b8b8,#383838"
+
+color-link diff-added "#c9d05c,#383838"
+color-link diff-modified "#4c4c4c,#383838"
+color-link diff-deleted "#f43753,#383838"
+color-link gutter-error "#f43753,#383838"
+color-link gutter-warning "#b3deef,#383838"
+
+color-link cursor-line "#383838"
+color-link color-column "#383838"

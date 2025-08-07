@@ -1,0 +1,44 @@
+# Base16 Atelier Dune - micro color scheme
+# Scheme by Bram de Haan (http://atelierbramdehaan.nl)
+
+color-link default "#a6a28c,#20201d"
+
+color-link comment "#7d7a68"
+
+color-link constant "#b65611"
+color-link constant.specialChar "#d43552"
+color-link constant.string "#60ac39"
+
+color-link identifier "#d73737"
+color-link identifier.class "#ae9513"
+
+color-link preproc "#ae9513"
+
+color-link special "#1fad83"
+
+color-link statement "#d73737"
+
+color-link symbol.operator "#a6a28c"
+color-link symbol.tag "#a6a28c"
+
+color-link type "#ae9513"
+
+color-link underlined "#d73737"
+
+color-link error "bold #20201d,#d73737"
+color-link todo "bold #ae9513,#292824"
+color-link hlsearch "#292824,#ae9513"
+color-link statusline "#999580,#6e6b5e"
+color-link tabbar "#7d7a68,#292824"
+color-link indent-char "#7d7a68"
+color-link line-number "#7d7a68,#292824"
+color-link current-line-number "#999580,#292824"
+
+color-link diff-added "#60ac39,#292824"
+color-link diff-modified "#7d7a68,#292824"
+color-link diff-deleted "#d73737,#292824"
+color-link gutter-error "#d73737,#292824"
+color-link gutter-warning "#6684e1,#292824"
+
+color-link cursor-line "#292824"
+color-link color-column "#292824"

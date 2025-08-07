@@ -1,0 +1,44 @@
+# Base16 Atelier Seaside - micro color scheme
+# Scheme by Bram de Haan (http://atelierbramdehaan.nl)
+
+color-link default "#8ca68c,#131513"
+
+color-link comment "#687d68"
+
+color-link constant "#87711d"
+color-link constant.specialChar "#e619c3"
+color-link constant.string "#29a329"
+
+color-link identifier "#e6193c"
+color-link identifier.class "#98981b"
+
+color-link preproc "#98981b"
+
+color-link special "#1999b3"
+
+color-link statement "#e6193c"
+
+color-link symbol.operator "#8ca68c"
+color-link symbol.tag "#8ca68c"
+
+color-link type "#98981b"
+
+color-link underlined "#e6193c"
+
+color-link error "bold #131513,#e6193c"
+color-link todo "bold #98981b,#242924"
+color-link hlsearch "#242924,#98981b"
+color-link statusline "#809980,#5e6e5e"
+color-link tabbar "#687d68,#242924"
+color-link indent-char "#687d68"
+color-link line-number "#687d68,#242924"
+color-link current-line-number "#809980,#242924"
+
+color-link diff-added "#29a329,#242924"
+color-link diff-modified "#687d68,#242924"
+color-link diff-deleted "#e6193c,#242924"
+color-link gutter-error "#e6193c,#242924"
+color-link gutter-warning "#3d62f5,#242924"
+
+color-link cursor-line "#242924"
+color-link color-column "#242924"

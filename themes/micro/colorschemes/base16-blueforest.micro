@@ -1,0 +1,44 @@
+# Base16 Blue Forest - micro color scheme
+# Scheme by alonsodomin (https://github.com/alonsodomin)
+
+color-link default "#ffcc33,#141f2e"
+
+color-link comment "#a0ffa0"
+
+color-link constant "#ff8080"
+color-link constant.specialChar "#e7e7e7"
+color-link constant.string "#80ff80"
+
+color-link identifier "#fffab1"
+color-link identifier.class "#91ccff"
+
+color-link preproc "#91ccff"
+
+color-link special "#80ff80"
+
+color-link statement "#fffab1"
+
+color-link symbol.operator "#ffcc33"
+color-link symbol.tag "#ffcc33"
+
+color-link type "#91ccff"
+
+color-link underlined "#fffab1"
+
+color-link error "bold #141f2e,#fffab1"
+color-link todo "bold #91ccff,#1e5c1e"
+color-link hlsearch "#1e5c1e,#91ccff"
+color-link statusline "#1e5c1e,#273e5c"
+color-link tabbar "#a0ffa0,#1e5c1e"
+color-link indent-char "#a0ffa0"
+color-link line-number "#a0ffa0,#1e5c1e"
+color-link current-line-number "#1e5c1e,#1e5c1e"
+
+color-link diff-added "#80ff80,#1e5c1e"
+color-link diff-modified "#a0ffa0,#1e5c1e"
+color-link diff-deleted "#fffab1,#1e5c1e"
+color-link gutter-error "#fffab1,#1e5c1e"
+color-link gutter-warning "#a2cff5,#1e5c1e"
+
+color-link cursor-line "#1e5c1e"
+color-link color-column "#1e5c1e"

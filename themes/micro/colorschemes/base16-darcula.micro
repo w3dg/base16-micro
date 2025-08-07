@@ -1,0 +1,44 @@
+# Base16 Darcula - micro color scheme
+# Scheme by jetbrains
+
+color-link default "#a9b7c6,#2b2b2b"
+
+color-link comment "#606366"
+
+color-link constant "#689757"
+color-link constant.specialChar "#808080"
+color-link constant.string "#6a8759"
+
+color-link identifier "#4eade5"
+color-link identifier.class "#bbb529"
+
+color-link preproc "#bbb529"
+
+color-link special "#629755"
+
+color-link statement "#4eade5"
+
+color-link symbol.operator "#a9b7c6"
+color-link symbol.tag "#a9b7c6"
+
+color-link type "#bbb529"
+
+color-link underlined "#4eade5"
+
+color-link error "bold #2b2b2b,#4eade5"
+color-link todo "bold #bbb529,#323232"
+color-link hlsearch "#323232,#bbb529"
+color-link statusline "#a4a3a3,#323232"
+color-link tabbar "#606366,#323232"
+color-link indent-char "#606366"
+color-link line-number "#606366,#323232"
+color-link current-line-number "#a4a3a3,#323232"
+
+color-link diff-added "#6a8759,#323232"
+color-link diff-modified "#606366,#323232"
+color-link diff-deleted "#4eade5,#323232"
+color-link gutter-error "#4eade5,#323232"
+color-link gutter-warning "#9876aa,#323232"
+
+color-link cursor-line "#323232"
+color-link color-column "#323232"

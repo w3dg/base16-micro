@@ -1,0 +1,44 @@
+# Base16 Marrakesh - micro color scheme
+# Scheme by Alexandre Gavioli (http://github.com/Alexx2/)
+
+color-link default "#948e48,#201602"
+
+color-link comment "#6c6823"
+
+color-link constant "#b36144"
+color-link constant.specialChar "#b3588e"
+color-link constant.string "#18974e"
+
+color-link identifier "#c35359"
+color-link identifier.class "#a88339"
+
+color-link preproc "#a88339"
+
+color-link special "#75a738"
+
+color-link statement "#c35359"
+
+color-link symbol.operator "#948e48"
+color-link symbol.tag "#948e48"
+
+color-link type "#a88339"
+
+color-link underlined "#c35359"
+
+color-link error "bold #201602,#c35359"
+color-link todo "bold #a88339,#302e00"
+color-link hlsearch "#302e00,#a88339"
+color-link statusline "#86813b,#5f5b17"
+color-link tabbar "#6c6823,#302e00"
+color-link indent-char "#6c6823"
+color-link line-number "#6c6823,#302e00"
+color-link current-line-number "#86813b,#302e00"
+
+color-link diff-added "#18974e,#302e00"
+color-link diff-modified "#6c6823,#302e00"
+color-link diff-deleted "#c35359,#302e00"
+color-link gutter-error "#c35359,#302e00"
+color-link gutter-warning "#477ca1,#302e00"
+
+color-link cursor-line "#302e00"
+color-link color-column "#302e00"

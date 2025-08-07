@@ -1,0 +1,44 @@
+# Base16 Atelier Sulphurpool - micro color scheme
+# Scheme by Bram de Haan (http://atelierbramdehaan.nl)
+
+color-link default "#979db4,#202746"
+
+color-link comment "#6b7394"
+
+color-link constant "#c76b29"
+color-link constant.specialChar "#9c637a"
+color-link constant.string "#ac9739"
+
+color-link identifier "#c94922"
+color-link identifier.class "#c08b30"
+
+color-link preproc "#c08b30"
+
+color-link special "#22a2c9"
+
+color-link statement "#c94922"
+
+color-link symbol.operator "#979db4"
+color-link symbol.tag "#979db4"
+
+color-link type "#c08b30"
+
+color-link underlined "#c94922"
+
+color-link error "bold #202746,#c94922"
+color-link todo "bold #c08b30,#293256"
+color-link hlsearch "#293256,#c08b30"
+color-link statusline "#898ea4,#5e6687"
+color-link tabbar "#6b7394,#293256"
+color-link indent-char "#6b7394"
+color-link line-number "#6b7394,#293256"
+color-link current-line-number "#898ea4,#293256"
+
+color-link diff-added "#ac9739,#293256"
+color-link diff-modified "#6b7394,#293256"
+color-link diff-deleted "#c94922,#293256"
+color-link gutter-error "#c94922,#293256"
+color-link gutter-warning "#3d8fd1,#293256"
+
+color-link cursor-line "#293256"
+color-link color-column "#293256"

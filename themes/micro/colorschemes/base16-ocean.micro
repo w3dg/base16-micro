@@ -1,0 +1,44 @@
+# Base16 Ocean - micro color scheme
+# Scheme by Chris Kempson (http://chriskempson.com)
+
+color-link default "#c0c5ce,#2b303b"
+
+color-link comment "#65737e"
+
+color-link constant "#d08770"
+color-link constant.specialChar "#ab7967"
+color-link constant.string "#a3be8c"
+
+color-link identifier "#bf616a"
+color-link identifier.class "#ebcb8b"
+
+color-link preproc "#ebcb8b"
+
+color-link special "#96b5b4"
+
+color-link statement "#bf616a"
+
+color-link symbol.operator "#c0c5ce"
+color-link symbol.tag "#c0c5ce"
+
+color-link type "#ebcb8b"
+
+color-link underlined "#bf616a"
+
+color-link error "bold #2b303b,#bf616a"
+color-link todo "bold #ebcb8b,#343d46"
+color-link hlsearch "#343d46,#ebcb8b"
+color-link statusline "#a7adba,#4f5b66"
+color-link tabbar "#65737e,#343d46"
+color-link indent-char "#65737e"
+color-link line-number "#65737e,#343d46"
+color-link current-line-number "#a7adba,#343d46"
+
+color-link diff-added "#a3be8c,#343d46"
+color-link diff-modified "#65737e,#343d46"
+color-link diff-deleted "#bf616a,#343d46"
+color-link gutter-error "#bf616a,#343d46"
+color-link gutter-warning "#8fa1b3,#343d46"
+
+color-link cursor-line "#343d46"
+color-link color-column "#343d46"

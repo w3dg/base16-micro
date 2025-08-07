@@ -1,0 +1,44 @@
+# Base16 Nebula - micro color scheme
+# Scheme by Gabriel Fontes (https://github.com/Misterio77)
+
+color-link default "#a4a6a9,#22273b"
+
+color-link comment "#6e6f72"
+
+color-link constant "#94929e"
+color-link constant.specialChar "#8c70a7"
+color-link constant.string "#6562a8"
+
+color-link identifier "#777abc"
+color-link identifier.class "#4f9062"
+
+color-link preproc "#4f9062"
+
+color-link special "#226f68"
+
+color-link statement "#777abc"
+
+color-link symbol.operator "#a4a6a9"
+color-link symbol.tag "#a4a6a9"
+
+color-link type "#4f9062"
+
+color-link underlined "#777abc"
+
+color-link error "bold #22273b,#777abc"
+color-link todo "bold #4f9062,#414f60"
+color-link hlsearch "#414f60,#4f9062"
+color-link statusline "#87888b,#5a8380"
+color-link tabbar "#6e6f72,#414f60"
+color-link indent-char "#6e6f72"
+color-link line-number "#6e6f72,#414f60"
+color-link current-line-number "#87888b,#414f60"
+
+color-link diff-added "#6562a8,#414f60"
+color-link diff-modified "#6e6f72,#414f60"
+color-link diff-deleted "#777abc,#414f60"
+color-link gutter-error "#777abc,#414f60"
+color-link gutter-warning "#4d6bb6,#414f60"
+
+color-link cursor-line "#414f60"
+color-link color-column "#414f60"

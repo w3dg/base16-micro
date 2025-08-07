@@ -1,0 +1,44 @@
+# Base16 Valua - micro color scheme
+# Scheme by Nonetrix (https://github.com/nonetrix)
+
+color-link default "#98c1a3,#131f1f"
+
+color-link comment "#3e5c53"
+
+color-link constant "#e6b466"
+color-link constant.specialChar "#c05a8f"
+color-link constant.string "#59d678"
+
+color-link identifier "#d7586e"
+color-link identifier.class "#dfe754"
+
+color-link preproc "#dfe754"
+
+color-link special "#76dbd2"
+
+color-link statement "#d7586e"
+
+color-link symbol.operator "#98c1a3"
+color-link symbol.tag "#98c1a3"
+
+color-link type "#dfe754"
+
+color-link underlined "#d7586e"
+
+color-link error "bold #131f1f,#d7586e"
+color-link todo "bold #dfe754,#213132"
+color-link hlsearch "#213132,#dfe754"
+color-link statusline "#6d9877,#273d3c"
+color-link tabbar "#3e5c53,#213132"
+color-link indent-char "#3e5c53"
+color-link line-number "#3e5c53,#213132"
+color-link current-line-number "#6d9877,#213132"
+
+color-link diff-added "#59d678,#213132"
+color-link diff-modified "#3e5c53,#213132"
+color-link diff-deleted "#d7586e,#213132"
+color-link gutter-error "#d7586e,#213132"
+color-link gutter-warning "#4ed2d2,#213132"
+
+color-link cursor-line "#213132"
+color-link color-column "#213132"

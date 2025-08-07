@@ -1,0 +1,44 @@
+# Base16 Unikitty Reversible - micro color scheme
+# Scheme by Josh W Lewis (@joshwlewis)
+
+color-link default "#c3c2c4,#2e2a31"
+
+color-link comment "#878589"
+
+color-link constant "#d65407"
+color-link constant.specialChar "#d41acd"
+color-link constant.string "#17ad98"
+
+color-link identifier "#d8137f"
+color-link identifier.class "#dc8a0e"
+
+color-link preproc "#dc8a0e"
+
+color-link special "#149bda"
+
+color-link statement "#d8137f"
+
+color-link symbol.operator "#c3c2c4"
+color-link symbol.tag "#c3c2c4"
+
+color-link type "#dc8a0e"
+
+color-link underlined "#d8137f"
+
+color-link error "bold #2e2a31,#d8137f"
+color-link todo "bold #dc8a0e,#4b484e"
+color-link hlsearch "#4b484e,#dc8a0e"
+color-link statusline "#a5a3a6,#69666b"
+color-link tabbar "#878589,#4b484e"
+color-link indent-char "#878589"
+color-link line-number "#878589,#4b484e"
+color-link current-line-number "#a5a3a6,#4b484e"
+
+color-link diff-added "#17ad98,#4b484e"
+color-link diff-modified "#878589,#4b484e"
+color-link diff-deleted "#d8137f,#4b484e"
+color-link gutter-error "#d8137f,#4b484e"
+color-link gutter-warning "#7864fa,#4b484e"
+
+color-link cursor-line "#4b484e"
+color-link color-column "#4b484e"

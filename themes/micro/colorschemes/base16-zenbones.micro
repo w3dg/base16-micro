@@ -1,0 +1,44 @@
+# Base16 Zenbones - micro color scheme
+# Scheme by mcchrish
+
+color-link default "#b279a7,#191919"
+
+color-link comment "#b77e64"
+
+color-link constant "#e8838f"
+color-link constant.specialChar "#8e8e8e"
+color-link constant.string "#d68c67"
+
+color-link identifier "#3d3839"
+color-link identifier.class "#8bae68"
+
+color-link preproc "#8bae68"
+
+color-link special "#61abda"
+
+color-link statement "#3d3839"
+
+color-link symbol.operator "#b279a7"
+color-link symbol.tag "#b279a7"
+
+color-link type "#8bae68"
+
+color-link underlined "#3d3839"
+
+color-link error "bold #191919,#3d3839"
+color-link todo "bold #8bae68,#de6e7c"
+color-link hlsearch "#de6e7c,#8bae68"
+color-link statusline "#6099c0,#819b69"
+color-link tabbar "#b77e64,#de6e7c"
+color-link indent-char "#b77e64"
+color-link line-number "#b77e64,#de6e7c"
+color-link current-line-number "#6099c0,#de6e7c"
+
+color-link diff-added "#d68c67,#de6e7c"
+color-link diff-modified "#b77e64,#de6e7c"
+color-link diff-deleted "#3d3839,#de6e7c"
+color-link gutter-error "#3d3839,#de6e7c"
+color-link gutter-warning "#cf86c1,#de6e7c"
+
+color-link cursor-line "#de6e7c"
+color-link color-column "#de6e7c"

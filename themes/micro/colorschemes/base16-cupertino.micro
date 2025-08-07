@@ -1,0 +1,44 @@
+# Base16 Cupertino - micro color scheme
+# Scheme by Defman21
+
+color-link default "#404040,#ffffff"
+
+color-link comment "#808080"
+
+color-link constant "#eb8500"
+color-link constant.specialChar "#826b28"
+color-link constant.string "#007400"
+
+color-link identifier "#c41a15"
+color-link identifier.class "#826b28"
+
+color-link preproc "#826b28"
+
+color-link special "#318495"
+
+color-link statement "#c41a15"
+
+color-link symbol.operator "#404040"
+color-link symbol.tag "#404040"
+
+color-link type "#826b28"
+
+color-link underlined "#c41a15"
+
+color-link error "bold #ffffff,#c41a15"
+color-link todo "bold #826b28,#c0c0c0"
+color-link hlsearch "#c0c0c0,#826b28"
+color-link statusline "#808080,#c0c0c0"
+color-link tabbar "#808080,#c0c0c0"
+color-link indent-char "#808080"
+color-link line-number "#808080,#c0c0c0"
+color-link current-line-number "#808080,#c0c0c0"
+
+color-link diff-added "#007400,#c0c0c0"
+color-link diff-modified "#808080,#c0c0c0"
+color-link diff-deleted "#c41a15,#c0c0c0"
+color-link gutter-error "#c41a15,#c0c0c0"
+color-link gutter-warning "#0000ff,#c0c0c0"
+
+color-link cursor-line "#c0c0c0"
+color-link color-column "#c0c0c0"

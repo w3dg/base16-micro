@@ -1,0 +1,44 @@
+# Base16 Rebecca - micro color scheme
+# Scheme by Victor Borja (http://github.com/vic) based on Rebecca Theme (http://github.com/vic/rebecca-theme)
+
+color-link default "#f1eff8,#292a44"
+
+color-link comment "#666699"
+
+color-link constant "#efe4a1"
+color-link constant.specialChar "#ff79c6"
+color-link constant.string "#6dfedf"
+
+color-link identifier "#a0a0c5"
+color-link identifier.class "#ae81ff"
+
+color-link preproc "#ae81ff"
+
+color-link special "#8eaee0"
+
+color-link statement "#a0a0c5"
+
+color-link symbol.operator "#f1eff8"
+color-link symbol.tag "#f1eff8"
+
+color-link type "#ae81ff"
+
+color-link underlined "#a0a0c5"
+
+color-link error "bold #292a44,#a0a0c5"
+color-link todo "bold #ae81ff,#663399"
+color-link hlsearch "#663399,#ae81ff"
+color-link statusline "#a0a0c5,#383a62"
+color-link tabbar "#666699,#663399"
+color-link indent-char "#666699"
+color-link line-number "#666699,#663399"
+color-link current-line-number "#a0a0c5,#663399"
+
+color-link diff-added "#6dfedf,#663399"
+color-link diff-modified "#666699,#663399"
+color-link diff-deleted "#a0a0c5,#663399"
+color-link gutter-error "#a0a0c5,#663399"
+color-link gutter-warning "#2de0a7,#663399"
+
+color-link cursor-line "#663399"
+color-link color-column "#663399"

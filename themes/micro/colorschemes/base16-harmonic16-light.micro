@@ -1,0 +1,44 @@
+# Base16 Harmonic16 Light - micro color scheme
+# Scheme by Jannik Siebert (https://github.com/janniks)
+
+color-link default "#405c79,#f7f9fb"
+
+color-link comment "#aabcce"
+
+color-link constant "#bfbf56"
+color-link constant.specialChar "#bf5656"
+color-link constant.string "#56bf8b"
+
+color-link identifier "#bf8b56"
+color-link identifier.class "#8bbf56"
+
+color-link preproc "#8bbf56"
+
+color-link special "#568bbf"
+
+color-link statement "#bf8b56"
+
+color-link symbol.operator "#405c79"
+color-link symbol.tag "#405c79"
+
+color-link type "#8bbf56"
+
+color-link underlined "#bf8b56"
+
+color-link error "bold #f7f9fb,#bf8b56"
+color-link todo "bold #8bbf56,#e5ebf1"
+color-link hlsearch "#e5ebf1,#8bbf56"
+color-link statusline "#627e99,#cbd6e2"
+color-link tabbar "#aabcce,#e5ebf1"
+color-link indent-char "#aabcce"
+color-link line-number "#aabcce,#e5ebf1"
+color-link current-line-number "#627e99,#e5ebf1"
+
+color-link diff-added "#56bf8b,#e5ebf1"
+color-link diff-modified "#aabcce,#e5ebf1"
+color-link diff-deleted "#bf8b56,#e5ebf1"
+color-link gutter-error "#bf8b56,#e5ebf1"
+color-link gutter-warning "#8b56bf,#e5ebf1"
+
+color-link cursor-line "#e5ebf1"
+color-link color-column "#e5ebf1"

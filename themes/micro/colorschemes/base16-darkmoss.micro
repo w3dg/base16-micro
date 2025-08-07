@@ -1,0 +1,44 @@
+# Base16 darkmoss - micro color scheme
+# Scheme by Gabriel Avanzi (https://github.com/avanzzzi)
+
+color-link default "#c7c7a5,#171e1f"
+
+color-link comment "#555e5f"
+
+color-link constant "#e6db74"
+color-link constant.specialChar "#d27b53"
+color-link constant.string "#499180"
+
+color-link identifier "#ff4658"
+color-link identifier.class "#fdb11f"
+
+color-link preproc "#fdb11f"
+
+color-link special "#66d9ef"
+
+color-link statement "#ff4658"
+
+color-link symbol.operator "#c7c7a5"
+color-link symbol.tag "#c7c7a5"
+
+color-link type "#fdb11f"
+
+color-link underlined "#ff4658"
+
+color-link error "bold #171e1f,#ff4658"
+color-link todo "bold #fdb11f,#252c2d"
+color-link hlsearch "#252c2d,#fdb11f"
+color-link statusline "#818f80,#373c3d"
+color-link tabbar "#555e5f,#252c2d"
+color-link indent-char "#555e5f"
+color-link line-number "#555e5f,#252c2d"
+color-link current-line-number "#818f80,#252c2d"
+
+color-link diff-added "#499180,#252c2d"
+color-link diff-modified "#555e5f,#252c2d"
+color-link diff-deleted "#ff4658,#252c2d"
+color-link gutter-error "#ff4658,#252c2d"
+color-link gutter-warning "#498091,#252c2d"
+
+color-link cursor-line "#252c2d"
+color-link color-column "#252c2d"

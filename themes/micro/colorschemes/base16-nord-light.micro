@@ -1,0 +1,44 @@
+# Base16 Nord Light - micro color scheme
+# Scheme by threddast, based on fuxialexander&#39;s doom-nord-light-theme (Doom Emacs)
+
+color-link default "#2e3440,#e5e9f0"
+
+color-link comment "#aebacf"
+
+color-link constant "#ac4426"
+color-link constant.specialChar "#5272af"
+color-link constant.string "#4f894c"
+
+color-link identifier "#99324b"
+color-link identifier.class "#9a7500"
+
+color-link preproc "#9a7500"
+
+color-link special "#398eac"
+
+color-link statement "#99324b"
+
+color-link symbol.operator "#2e3440"
+color-link symbol.tag "#2e3440"
+
+color-link type "#9a7500"
+
+color-link underlined "#99324b"
+
+color-link error "bold #e5e9f0,#99324b"
+color-link todo "bold #9a7500,#c2d0e7"
+color-link hlsearch "#c2d0e7,#9a7500"
+color-link statusline "#60728c,#b8c5db"
+color-link tabbar "#aebacf,#c2d0e7"
+color-link indent-char "#aebacf"
+color-link line-number "#aebacf,#c2d0e7"
+color-link current-line-number "#60728c,#c2d0e7"
+
+color-link diff-added "#4f894c,#c2d0e7"
+color-link diff-modified "#aebacf,#c2d0e7"
+color-link diff-deleted "#99324b,#c2d0e7"
+color-link gutter-error "#99324b,#c2d0e7"
+color-link gutter-warning "#3b6ea8,#c2d0e7"
+
+color-link cursor-line "#c2d0e7"
+color-link color-column "#c2d0e7"

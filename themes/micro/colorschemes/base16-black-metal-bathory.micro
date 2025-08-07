@@ -1,0 +1,44 @@
+# Base16 Black Metal (Bathory) - micro color scheme
+# Scheme by metalelf0 (https://github.com/metalelf0)
+
+color-link default "#c1c1c1,#000000"
+
+color-link comment "#333333"
+
+color-link constant "#aaaaaa"
+color-link constant.specialChar "#444444"
+color-link constant.string "#fbcb97"
+
+color-link identifier "#5f8787"
+color-link identifier.class "#e78a53"
+
+color-link preproc "#e78a53"
+
+color-link special "#aaaaaa"
+
+color-link statement "#5f8787"
+
+color-link symbol.operator "#c1c1c1"
+color-link symbol.tag "#c1c1c1"
+
+color-link type "#e78a53"
+
+color-link underlined "#5f8787"
+
+color-link error "bold #000000,#5f8787"
+color-link todo "bold #e78a53,#121212"
+color-link hlsearch "#121212,#e78a53"
+color-link statusline "#999999,#222222"
+color-link tabbar "#333333,#121212"
+color-link indent-char "#333333"
+color-link line-number "#333333,#121212"
+color-link current-line-number "#999999,#121212"
+
+color-link diff-added "#fbcb97,#121212"
+color-link diff-modified "#333333,#121212"
+color-link diff-deleted "#5f8787,#121212"
+color-link gutter-error "#5f8787,#121212"
+color-link gutter-warning "#888888,#121212"
+
+color-link cursor-line "#121212"
+color-link color-column "#121212"

@@ -1,0 +1,44 @@
+# Base16 standardized-light - micro color scheme
+# Scheme by ali (https://github.com/ali-githb/base16-standardized-scheme)
+
+color-link default "#444444,#ffffff"
+
+color-link comment "#767676"
+
+color-link constant "#d7691d"
+color-link constant.specialChar "#895025"
+color-link constant.string "#31861f"
+
+color-link identifier "#d03e3e"
+color-link identifier.class "#ad8200"
+
+color-link preproc "#ad8200"
+
+color-link special "#00998f"
+
+color-link statement "#d03e3e"
+
+color-link symbol.operator "#444444"
+color-link symbol.tag "#444444"
+
+color-link type "#ad8200"
+
+color-link underlined "#d03e3e"
+
+color-link error "bold #ffffff,#d03e3e"
+color-link todo "bold #ad8200,#eeeeee"
+color-link hlsearch "#eeeeee,#ad8200"
+color-link statusline "#767676,#cccccc"
+color-link tabbar "#767676,#eeeeee"
+color-link indent-char "#767676"
+color-link line-number "#767676,#eeeeee"
+color-link current-line-number "#767676,#eeeeee"
+
+color-link diff-added "#31861f,#eeeeee"
+color-link diff-modified "#767676,#eeeeee"
+color-link diff-deleted "#d03e3e,#eeeeee"
+color-link gutter-error "#d03e3e,#eeeeee"
+color-link gutter-warning "#3173c5,#eeeeee"
+
+color-link cursor-line "#eeeeee"
+color-link color-column "#eeeeee"

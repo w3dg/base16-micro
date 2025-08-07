@@ -1,0 +1,44 @@
+# Base16 Paraiso - micro color scheme
+# Scheme by Jan T. Sott
+
+color-link default "#a39e9b,#2f1e2e"
+
+color-link comment "#776e71"
+
+color-link constant "#f99b15"
+color-link constant.specialChar "#e96ba8"
+color-link constant.string "#48b685"
+
+color-link identifier "#ef6155"
+color-link identifier.class "#fec418"
+
+color-link preproc "#fec418"
+
+color-link special "#5bc4bf"
+
+color-link statement "#ef6155"
+
+color-link symbol.operator "#a39e9b"
+color-link symbol.tag "#a39e9b"
+
+color-link type "#fec418"
+
+color-link underlined "#ef6155"
+
+color-link error "bold #2f1e2e,#ef6155"
+color-link todo "bold #fec418,#41323f"
+color-link hlsearch "#41323f,#fec418"
+color-link statusline "#8d8687,#4f424c"
+color-link tabbar "#776e71,#41323f"
+color-link indent-char "#776e71"
+color-link line-number "#776e71,#41323f"
+color-link current-line-number "#8d8687,#41323f"
+
+color-link diff-added "#48b685,#41323f"
+color-link diff-modified "#776e71,#41323f"
+color-link diff-deleted "#ef6155,#41323f"
+color-link gutter-error "#ef6155,#41323f"
+color-link gutter-warning "#06b6ef,#41323f"
+
+color-link cursor-line "#41323f"
+color-link color-column "#41323f"

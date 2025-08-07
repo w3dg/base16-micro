@@ -1,0 +1,44 @@
+# Base16 Decaf - micro color scheme
+# Scheme by Alex Mirrington (https://github.com/alexmirrington)
+
+color-link default "#cccccc,#2d2d2d"
+
+color-link comment "#777777"
+
+color-link constant "#ffbf70"
+color-link constant.specialChar "#ff93b3"
+color-link constant.string "#beda78"
+
+color-link identifier "#ff7f7b"
+color-link identifier.class "#ffd67c"
+
+color-link preproc "#ffd67c"
+
+color-link special "#bed6ff"
+
+color-link statement "#ff7f7b"
+
+color-link symbol.operator "#cccccc"
+color-link symbol.tag "#cccccc"
+
+color-link type "#ffd67c"
+
+color-link underlined "#ff7f7b"
+
+color-link error "bold #2d2d2d,#ff7f7b"
+color-link todo "bold #ffd67c,#393939"
+color-link hlsearch "#393939,#ffd67c"
+color-link statusline "#b4b7b4,#515151"
+color-link tabbar "#777777,#393939"
+color-link indent-char "#777777"
+color-link line-number "#777777,#393939"
+color-link current-line-number "#b4b7b4,#393939"
+
+color-link diff-added "#beda78,#393939"
+color-link diff-modified "#777777,#393939"
+color-link diff-deleted "#ff7f7b,#393939"
+color-link gutter-error "#ff7f7b,#393939"
+color-link gutter-warning "#90bee1,#393939"
+
+color-link cursor-line "#393939"
+color-link color-column "#393939"

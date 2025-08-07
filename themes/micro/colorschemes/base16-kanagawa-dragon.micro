@@ -1,0 +1,44 @@
+# Base16 Kanagawa Dragon - micro color scheme
+# Scheme by Tommaso Laurenzi (https://github.com/rebelot)
+
+color-link default "#c5c9c5,#0d0c0c"
+
+color-link comment "#737c73"
+
+color-link constant "#b98d7b"
+color-link constant.specialChar "#a292a3"
+color-link constant.string "#87a987"
+
+color-link identifier "#c4746e"
+color-link identifier.class "#c4b28a"
+
+color-link preproc "#c4b28a"
+
+color-link special "#8ea4a2"
+
+color-link statement "#c4746e"
+
+color-link symbol.operator "#c5c9c5"
+color-link symbol.tag "#c5c9c5"
+
+color-link type "#c4b28a"
+
+color-link underlined "#c4746e"
+
+color-link error "bold #0d0c0c,#c4746e"
+color-link todo "bold #c4b28a,#1d1c19"
+color-link hlsearch "#1d1c19,#c4b28a"
+color-link statusline "#a6a69c,#282727"
+color-link tabbar "#737c73,#1d1c19"
+color-link indent-char "#737c73"
+color-link line-number "#737c73,#1d1c19"
+color-link current-line-number "#a6a69c,#1d1c19"
+
+color-link diff-added "#87a987,#1d1c19"
+color-link diff-modified "#737c73,#1d1c19"
+color-link diff-deleted "#c4746e,#1d1c19"
+color-link gutter-error "#c4746e,#1d1c19"
+color-link gutter-warning "#8ba4b0,#1d1c19"
+
+color-link cursor-line "#1d1c19"
+color-link color-column "#1d1c19"

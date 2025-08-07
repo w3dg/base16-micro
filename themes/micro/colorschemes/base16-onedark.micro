@@ -1,0 +1,44 @@
+# Base16 OneDark - micro color scheme
+# Scheme by Lalit Magant (http://github.com/tilal6991)
+
+color-link default "#abb2bf,#282c34"
+
+color-link comment "#545862"
+
+color-link constant "#d19a66"
+color-link constant.specialChar "#be5046"
+color-link constant.string "#98c379"
+
+color-link identifier "#e06c75"
+color-link identifier.class "#e5c07b"
+
+color-link preproc "#e5c07b"
+
+color-link special "#56b6c2"
+
+color-link statement "#e06c75"
+
+color-link symbol.operator "#abb2bf"
+color-link symbol.tag "#abb2bf"
+
+color-link type "#e5c07b"
+
+color-link underlined "#e06c75"
+
+color-link error "bold #282c34,#e06c75"
+color-link todo "bold #e5c07b,#353b45"
+color-link hlsearch "#353b45,#e5c07b"
+color-link statusline "#565c64,#3e4451"
+color-link tabbar "#545862,#353b45"
+color-link indent-char "#545862"
+color-link line-number "#545862,#353b45"
+color-link current-line-number "#565c64,#353b45"
+
+color-link diff-added "#98c379,#353b45"
+color-link diff-modified "#545862,#353b45"
+color-link diff-deleted "#e06c75,#353b45"
+color-link gutter-error "#e06c75,#353b45"
+color-link gutter-warning "#61afef,#353b45"
+
+color-link cursor-line "#353b45"
+color-link color-column "#353b45"

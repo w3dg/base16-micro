@@ -1,0 +1,44 @@
+# Base16 Atelier Savanna Light - micro color scheme
+# Scheme by Bram de Haan (http://atelierbramdehaan.nl)
+
+color-link default "#526057,#ecf4ee"
+
+color-link comment "#78877d"
+
+color-link constant "#9f713c"
+color-link constant.specialChar "#867469"
+color-link constant.string "#489963"
+
+color-link identifier "#b16139"
+color-link identifier.class "#a07e3b"
+
+color-link preproc "#a07e3b"
+
+color-link special "#1c9aa0"
+
+color-link statement "#b16139"
+
+color-link symbol.operator "#526057"
+color-link symbol.tag "#526057"
+
+color-link type "#a07e3b"
+
+color-link underlined "#b16139"
+
+color-link error "bold #ecf4ee,#b16139"
+color-link todo "bold #a07e3b,#dfe7e2"
+color-link hlsearch "#dfe7e2,#a07e3b"
+color-link statusline "#5f6d64,#87928a"
+color-link tabbar "#78877d,#dfe7e2"
+color-link indent-char "#78877d"
+color-link line-number "#78877d,#dfe7e2"
+color-link current-line-number "#5f6d64,#dfe7e2"
+
+color-link diff-added "#489963,#dfe7e2"
+color-link diff-modified "#78877d,#dfe7e2"
+color-link diff-deleted "#b16139,#dfe7e2"
+color-link gutter-error "#b16139,#dfe7e2"
+color-link gutter-warning "#478c90,#dfe7e2"
+
+color-link cursor-line "#dfe7e2"
+color-link color-column "#dfe7e2"

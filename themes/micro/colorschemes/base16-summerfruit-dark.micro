@@ -1,0 +1,44 @@
+# Base16 Summerfruit Dark - micro color scheme
+# Scheme by Christopher Corley (http://christop.club/)
+
+color-link default "#d0d0d0,#151515"
+
+color-link comment "#505050"
+
+color-link constant "#fd8900"
+color-link constant.specialChar "#cc6633"
+color-link constant.string "#00c918"
+
+color-link identifier "#ff0086"
+color-link identifier.class "#aba800"
+
+color-link preproc "#aba800"
+
+color-link special "#1faaaa"
+
+color-link statement "#ff0086"
+
+color-link symbol.operator "#d0d0d0"
+color-link symbol.tag "#d0d0d0"
+
+color-link type "#aba800"
+
+color-link underlined "#ff0086"
+
+color-link error "bold #151515,#ff0086"
+color-link todo "bold #aba800,#202020"
+color-link hlsearch "#202020,#aba800"
+color-link statusline "#b0b0b0,#303030"
+color-link tabbar "#505050,#202020"
+color-link indent-char "#505050"
+color-link line-number "#505050,#202020"
+color-link current-line-number "#b0b0b0,#202020"
+
+color-link diff-added "#00c918,#202020"
+color-link diff-modified "#505050,#202020"
+color-link diff-deleted "#ff0086,#202020"
+color-link gutter-error "#ff0086,#202020"
+color-link gutter-warning "#3777e6,#202020"
+
+color-link cursor-line "#202020"
+color-link color-column "#202020"

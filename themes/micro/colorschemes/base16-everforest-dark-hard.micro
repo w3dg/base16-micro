@@ -1,0 +1,44 @@
+# Base16 Everforest Dark Hard - micro color scheme
+# Scheme by Sainnhe Park (https://github.com/sainnhe)
+
+color-link default "#d3c6aa,#272e33"
+
+color-link comment "#859289"
+
+color-link constant "#e69875"
+color-link constant.specialChar "#9da9a0"
+color-link constant.string "#a7c080"
+
+color-link identifier "#e67e80"
+color-link identifier.class "#dbbc7f"
+
+color-link preproc "#dbbc7f"
+
+color-link special "#83c092"
+
+color-link statement "#e67e80"
+
+color-link symbol.operator "#d3c6aa"
+color-link symbol.tag "#d3c6aa"
+
+color-link type "#dbbc7f"
+
+color-link underlined "#e67e80"
+
+color-link error "bold #272e33,#e67e80"
+color-link todo "bold #dbbc7f,#2e383c"
+color-link hlsearch "#2e383c,#dbbc7f"
+color-link statusline "#9da9a0,#414b50"
+color-link tabbar "#859289,#2e383c"
+color-link indent-char "#859289"
+color-link line-number "#859289,#2e383c"
+color-link current-line-number "#9da9a0,#2e383c"
+
+color-link diff-added "#a7c080,#2e383c"
+color-link diff-modified "#859289,#2e383c"
+color-link diff-deleted "#e67e80,#2e383c"
+color-link gutter-error "#e67e80,#2e383c"
+color-link gutter-warning "#7fbbb3,#2e383c"
+
+color-link cursor-line "#2e383c"
+color-link color-column "#2e383c"

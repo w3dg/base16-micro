@@ -1,0 +1,44 @@
+# Base16 Sparky - micro color scheme
+# Scheme by Leila Sother (https://github.com/mixcoac)
+
+color-link default "#f4f5f0,#072b31"
+
+color-link comment "#003b49"
+
+color-link constant "#ff8f1c"
+color-link constant.specialChar "#9b704d"
+color-link constant.string "#78d64b"
+
+color-link identifier "#ff585d"
+color-link identifier.class "#fbdd40"
+
+color-link preproc "#fbdd40"
+
+color-link special "#2dccd3"
+
+color-link statement "#ff585d"
+
+color-link symbol.operator "#f4f5f0"
+color-link symbol.tag "#f4f5f0"
+
+color-link type "#fbdd40"
+
+color-link underlined "#ff585d"
+
+color-link error "bold #072b31,#ff585d"
+color-link todo "bold #fbdd40,#00313c"
+color-link hlsearch "#00313c,#fbdd40"
+color-link statusline "#00778b,#003c46"
+color-link tabbar "#003b49,#00313c"
+color-link indent-char "#003b49"
+color-link line-number "#003b49,#00313c"
+color-link current-line-number "#00778b,#00313c"
+
+color-link diff-added "#78d64b,#00313c"
+color-link diff-modified "#003b49,#00313c"
+color-link diff-deleted "#ff585d,#00313c"
+color-link gutter-error "#ff585d,#00313c"
+color-link gutter-warning "#4698cb,#00313c"
+
+color-link cursor-line "#00313c"
+color-link color-column "#00313c"
