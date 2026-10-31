@@ -5,7 +5,7 @@
 The themes are built into `themes/micro/colorschemes/`.
 
 ## tinty theme manager
-To use the color theme manager [tinty](https://github.com/tinted-theming/tinty) add the `colorscheme` key value to your micro's `settings.json` if not already existent:
+To use the color theme manager [tinty](https://github.com/tinted-theming/tinty) instead of manually applying a `colorscheme`, add the `colorscheme` key value to your Micro's `settings.json` if not already existent:
 ```json
 {
     "colorscheme": "base16-bosque",
@@ -13,7 +13,7 @@ To use the color theme manager [tinty](https://github.com/tinted-theming/tinty) 
 ```
 
 
-Then add this into your `$HOME/.config/tinted-theming/tinty/config.toml` ([sed](https://www.gnu.org/software/sed/) required):
+Then add this to your `$HOME/.config/tinted-theming/tinty/config.toml` ([sed](https://www.gnu.org/software/sed/) required):
 ```toml
 [[items]]
 path = "https://github.com/w3dg/base16-micro"
@@ -30,7 +30,7 @@ tinty sync
 ```
 
 
-Now whenever you change your tinty theme, the new theme is automatically copied over to micro's `colorschemes` directory and applied via the micro `settings.json`.
+Now whenever you change your tinty theme, the new theme is automatically copied over to Micro's `colorschemes` directory and applied via the Micro `settings.json`.
 
 
 ## Screenshots
@@ -62,7 +62,17 @@ At the root of this repo, run
 tinted-builder-rust build ./
 ```
 
-The themes should be built into `themes/micro/colorschemes/`. 
+The themes should be built into `themes/micro/colorschemes/`.
+
+
+## Manual theme apply
+For manual use without [tinty](https://github.com/tinted-theming/tinty), put the build colorscheme files in the `~/.config/micro/colorschemes/` directory.
+
+After this, you can manually set the scheme by using Micro's command-line:
+
+```
+set colorscheme <SCHEME_NAME>
+```
 
 
 Originally this is the work of [kytta/base16-micro](https://github.com/kytta/base16-micro/) under an ISC License.
