@@ -1,0 +1,44 @@
+# Base16 Berlin - micro color scheme
+# Scheme by xscriptor (https://github.com/xscriptor)
+
+color-link default "#cccccc,#000000"
+
+color-link comment "#333333"
+
+color-link constant "#bbbbbb"
+color-link constant.specialChar "#7a7a7a"
+color-link constant.string "#bbbbbb"
+
+color-link identifier "#999999"
+color-link identifier.class "#dddddd"
+
+color-link preproc "#dddddd"
+
+color-link special "#cccccc"
+
+color-link statement "#999999"
+
+color-link symbol.operator "#cccccc"
+color-link symbol.tag "#cccccc"
+
+color-link type "#dddddd"
+
+color-link underlined "#999999"
+
+color-link error "bold #000000,#999999"
+color-link todo "bold #dddddd,#0e0e0e"
+color-link hlsearch "#0e0e0e,#dddddd"
+color-link statusline "#707070,#181818"
+color-link tabbar "#333333,#0e0e0e"
+color-link indent-char "#333333"
+color-link line-number "#333333,#0e0e0e"
+color-link current-line-number "#707070,#0e0e0e"
+
+color-link diff-added "#bbbbbb,#0e0e0e"
+color-link diff-modified "#333333,#0e0e0e"
+color-link diff-deleted "#999999,#0e0e0e"
+color-link gutter-error "#999999,#0e0e0e"
+color-link gutter-warning "#888888,#0e0e0e"
+
+color-link cursor-line "#0e0e0e"
+color-link color-column "#0e0e0e"

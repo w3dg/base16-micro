@@ -1,0 +1,44 @@
+# Base16 Everforest Light (Hard) - micro color scheme
+# Scheme by Márcio Sobel (https://github.com/marciosobel)
+
+color-link default "#5c6a72,#fffbef"
+
+color-link comment "#939f91"
+
+color-link constant "#f57d26"
+color-link constant.specialChar "#829181"
+color-link constant.string "#8da101"
+
+color-link identifier "#f85552"
+color-link identifier.class "#dfa000"
+
+color-link preproc "#dfa000"
+
+color-link special "#35a77c"
+
+color-link statement "#f85552"
+
+color-link symbol.operator "#5c6a72"
+color-link symbol.tag "#5c6a72"
+
+color-link type "#dfa000"
+
+color-link underlined "#f85552"
+
+color-link error "bold #fffbef,#f85552"
+color-link todo "bold #dfa000,#f8f5e4"
+color-link hlsearch "#f8f5e4,#dfa000"
+color-link statusline "#829181,#edeada"
+color-link tabbar "#939f91,#f8f5e4"
+color-link indent-char "#939f91"
+color-link line-number "#939f91,#f8f5e4"
+color-link current-line-number "#829181,#f8f5e4"
+
+color-link diff-added "#8da101,#f8f5e4"
+color-link diff-modified "#939f91,#f8f5e4"
+color-link diff-deleted "#f85552,#f8f5e4"
+color-link gutter-error "#f85552,#f8f5e4"
+color-link gutter-warning "#3a94c5,#f8f5e4"
+
+color-link cursor-line "#f8f5e4"
+color-link color-column "#f8f5e4"

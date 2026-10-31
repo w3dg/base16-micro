@@ -1,0 +1,44 @@
+# Base16 Miami - micro color scheme
+# Scheme by xscriptor (https://github.com/xscriptor)
+
+color-link default "#f7f1ff,#000000"
+
+color-link comment "#69676c"
+
+color-link constant "#ff926c"
+color-link constant.specialChar "#a65f46"
+color-link constant.string "#7fffd4"
+
+color-link identifier "#ff4c8b"
+color-link identifier.class "#ffd84c"
+
+color-link preproc "#ffd84c"
+
+color-link special "#47cfff"
+
+color-link statement "#ff4c8b"
+
+color-link symbol.operator "#f7f1ff"
+color-link symbol.tag "#f7f1ff"
+
+color-link type "#ffd84c"
+
+color-link underlined "#ff4c8b"
+
+color-link error "bold #000000,#ff4c8b"
+color-link todo "bold #ffd84c,#111112"
+color-link hlsearch "#111112,#ffd84c"
+color-link statusline "#88858c,#1e1d1f"
+color-link tabbar "#69676c,#111112"
+color-link indent-char "#69676c"
+color-link line-number "#69676c,#111112"
+color-link current-line-number "#88858c,#111112"
+
+color-link diff-added "#7fffd4,#111112"
+color-link diff-modified "#69676c,#111112"
+color-link diff-deleted "#ff4c8b,#111112"
+color-link gutter-error "#ff4c8b,#111112"
+color-link gutter-warning "#00ffa8,#111112"
+
+color-link cursor-line "#111112"
+color-link color-column "#111112"

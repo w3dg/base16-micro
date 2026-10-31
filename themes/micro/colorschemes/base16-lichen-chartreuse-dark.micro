@@ -1,0 +1,44 @@
+# Base16 Lichen Chartreuse Dark - micro color scheme
+# Scheme by Aaron Colichia (https://aaron.colichia.org/)
+
+color-link default "#e0e5da,#151613"
+
+color-link comment "#899282"
+
+color-link constant "#d5ad73"
+color-link constant.specialChar "#d2a0b2"
+color-link constant.string "#83bda5"
+
+color-link identifier "#e28b82"
+color-link identifier.class "#b2d084"
+
+color-link preproc "#b2d084"
+
+color-link special "#9cc6c9"
+
+color-link statement "#e28b82"
+
+color-link symbol.operator "#e0e5da"
+color-link symbol.tag "#e0e5da"
+
+color-link type "#b2d084"
+
+color-link underlined "#e28b82"
+
+color-link error "bold #151613,#e28b82"
+color-link todo "bold #b2d084,#1c1e1a"
+color-link hlsearch "#1c1e1a,#b2d084"
+color-link statusline "#a0a598,#3e5123"
+color-link tabbar "#899282,#1c1e1a"
+color-link indent-char "#899282"
+color-link line-number "#899282,#1c1e1a"
+color-link current-line-number "#a0a598,#1c1e1a"
+
+color-link diff-added "#83bda5,#1c1e1a"
+color-link diff-modified "#899282,#1c1e1a"
+color-link diff-deleted "#e28b82,#1c1e1a"
+color-link gutter-error "#e28b82,#1c1e1a"
+color-link gutter-warning "#78adc4,#1c1e1a"
+
+color-link cursor-line "#1c1e1a"
+color-link color-column "#1c1e1a"

@@ -1,0 +1,44 @@
+# Base16 Cerulean Signal Dark - micro color scheme
+# Scheme by Aaron Colichia (https://aaron.colichia.org/)
+
+color-link default "#dce6f2,#101722"
+
+color-link comment "#8fa0b5"
+
+color-link constant "#f5a35c"
+color-link constant.specialChar "#d59b7d"
+color-link constant.string "#70e1b0"
+
+color-link identifier "#ff8a9a"
+color-link identifier.class "#e2c85f"
+
+color-link preproc "#e2c85f"
+
+color-link special "#58d9df"
+
+color-link statement "#ff8a9a"
+
+color-link symbol.operator "#dce6f2"
+color-link symbol.tag "#dce6f2"
+
+color-link type "#e2c85f"
+
+color-link underlined "#ff8a9a"
+
+color-link error "bold #101722,#ff8a9a"
+color-link todo "bold #e2c85f,#131c29"
+color-link hlsearch "#131c29,#e2c85f"
+color-link statusline "#aab8ca,#173a5a"
+color-link tabbar "#8fa0b5,#131c29"
+color-link indent-char "#8fa0b5"
+color-link line-number "#8fa0b5,#131c29"
+color-link current-line-number "#aab8ca,#131c29"
+
+color-link diff-added "#70e1b0,#131c29"
+color-link diff-modified "#8fa0b5,#131c29"
+color-link diff-deleted "#ff8a9a,#131c29"
+color-link gutter-error "#ff8a9a,#131c29"
+color-link gutter-warning "#7dd3ff,#131c29"
+
+color-link cursor-line "#131c29"
+color-link color-column "#131c29"

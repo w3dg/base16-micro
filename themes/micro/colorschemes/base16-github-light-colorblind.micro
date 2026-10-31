@@ -1,0 +1,44 @@
+# Base16 Github Light Colorblind - micro color scheme
+# Scheme by Tinted Theming (https://github.com/tinted-theming)
+
+color-link default "#454c54,#ffffff"
+
+color-link comment "#818b98"
+
+color-link constant "#953800"
+color-link constant.specialChar "#953800"
+color-link constant.string "#0550ae"
+
+color-link identifier "#bc4c00"
+color-link identifier.class "#9a6700"
+
+color-link preproc "#9a6700"
+
+color-link special "#1b7c83"
+
+color-link statement "#bc4c00"
+
+color-link symbol.operator "#454c54"
+color-link symbol.tag "#454c54"
+
+color-link type "#9a6700"
+
+color-link underlined "#bc4c00"
+
+color-link error "bold #ffffff,#bc4c00"
+color-link todo "bold #9a6700,#f6f8fa"
+color-link hlsearch "#f6f8fa,#9a6700"
+color-link statusline "#59636e,#d1d9e0"
+color-link tabbar "#818b98,#f6f8fa"
+color-link indent-char "#818b98"
+color-link line-number "#818b98,#f6f8fa"
+color-link current-line-number "#59636e,#f6f8fa"
+
+color-link diff-added "#0550ae,#f6f8fa"
+color-link diff-modified "#818b98,#f6f8fa"
+color-link diff-deleted "#bc4c00,#f6f8fa"
+color-link gutter-error "#bc4c00,#f6f8fa"
+color-link gutter-warning "#0969da,#f6f8fa"
+
+color-link cursor-line "#f6f8fa"
+color-link color-column "#f6f8fa"

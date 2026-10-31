@@ -1,0 +1,44 @@
+# Base16 Cacao - micro color scheme
+# Scheme by Teshre
+
+color-link default "#e8d6c4,#160f0c"
+
+color-link comment "#766052"
+
+color-link constant "#c77b4a"
+color-link constant.specialChar "#4e382a"
+color-link constant.string "#9ac97a"
+
+color-link identifier "#e0705c"
+color-link identifier.class "#e8a84a"
+
+color-link preproc "#e8a84a"
+
+color-link special "#74c8b0"
+
+color-link statement "#e0705c"
+
+color-link symbol.operator "#e8d6c4"
+color-link symbol.tag "#e8d6c4"
+
+color-link type "#e8a84a"
+
+color-link underlined "#e0705c"
+
+color-link error "bold #160f0c,#e0705c"
+color-link todo "bold #e8a84a,#241913"
+color-link hlsearch "#241913,#e8a84a"
+color-link statusline "#af9b8b,#3a281e"
+color-link tabbar "#766052,#241913"
+color-link indent-char "#766052"
+color-link line-number "#766052,#241913"
+color-link current-line-number "#af9b8b,#241913"
+
+color-link diff-added "#9ac97a,#241913"
+color-link diff-modified "#766052,#241913"
+color-link diff-deleted "#e0705c,#241913"
+color-link gutter-error "#e0705c,#241913"
+color-link gutter-warning "#a89ad0,#241913"
+
+color-link cursor-line "#241913"
+color-link color-column "#241913"

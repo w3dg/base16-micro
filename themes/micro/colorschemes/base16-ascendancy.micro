@@ -1,0 +1,44 @@
+# Base16 Ascendancy - micro color scheme
+# Scheme by EmergentMind (https://github.com/emergentmind/ascendancy-scheme)
+
+color-link default "#d5c7a1,#282828"
+
+color-link comment "#928374"
+
+color-link constant "#fe8019"
+color-link constant.specialChar "#b59b4d"
+color-link constant.string "#b8bb26"
+
+color-link identifier "#d05000"
+color-link identifier.class "#ffcc1b"
+
+color-link preproc "#ffcc1b"
+
+color-link special "#8f3f71"
+
+color-link statement "#d05000"
+
+color-link symbol.operator "#d5c7a1"
+color-link symbol.tag "#d5c7a1"
+
+color-link type "#ffcc1b"
+
+color-link underlined "#d05000"
+
+color-link error "bold #282828,#d05000"
+color-link todo "bold #ffcc1b,#212f3d"
+color-link hlsearch "#212f3d,#ffcc1b"
+color-link statusline "#bdae93,#504945"
+color-link tabbar "#928374,#212f3d"
+color-link indent-char "#928374"
+color-link line-number "#928374,#212f3d"
+color-link current-line-number "#bdae93,#212f3d"
+
+color-link diff-added "#b8bb26,#212f3d"
+color-link diff-modified "#928374,#212f3d"
+color-link diff-deleted "#d05000,#212f3d"
+color-link gutter-error "#d05000,#212f3d"
+color-link gutter-warning "#458588,#212f3d"
+
+color-link cursor-line "#212f3d"
+color-link color-column "#212f3d"

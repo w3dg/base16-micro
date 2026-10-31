@@ -1,13 +1,13 @@
 # Base16 Ayu Dark - micro color scheme
-# Scheme by Khue Nguyen &lt;Z5483Y@gmail.com&gt;
+# Scheme by Tinted Theming (https://github.com/tinted-theming), Ayu Theme (https://github.com/ayu-theme)
 
-color-link default "#e6e1cf,#0f1419"
+color-link default "#e6e1cf,#0b0e14"
 
 color-link comment "#3e4b59"
 
 color-link constant "#ff8f40"
-color-link constant.specialChar "#e6b673"
-color-link constant.string "#b8cc52"
+color-link constant.specialChar "#e6b450"
+color-link constant.string "#aad94c"
 
 color-link identifier "#f07178"
 color-link identifier.class "#ffb454"
@@ -25,16 +25,16 @@ color-link type "#ffb454"
 
 color-link underlined "#f07178"
 
-color-link error "bold #0f1419,#f07178"
+color-link error "bold #0b0e14,#f07178"
 color-link todo "bold #ffb454,#131721"
 color-link hlsearch "#131721,#ffb454"
-color-link statusline "#bfbdb6,#272d38"
+color-link statusline "#bfbdb6,#202229"
 color-link tabbar "#3e4b59,#131721"
 color-link indent-char "#3e4b59"
 color-link line-number "#3e4b59,#131721"
 color-link current-line-number "#bfbdb6,#131721"
 
-color-link diff-added "#b8cc52,#131721"
+color-link diff-added "#aad94c,#131721"
 color-link diff-modified "#3e4b59,#131721"
 color-link diff-deleted "#f07178,#131721"
 color-link gutter-error "#f07178,#131721"

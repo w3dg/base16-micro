@@ -1,0 +1,44 @@
+# Base16 Kissa Latte - micro color scheme
+# Scheme by rwendell (https://github.com/rwendell/kissa)
+
+color-link default "#1f1c16,#f5f4f0"
+
+color-link comment "#91887d"
+
+color-link constant "#8f5d22"
+color-link constant.specialChar "#943a68"
+color-link constant.string "#387050"
+
+color-link identifier "#9e3e3e"
+color-link identifier.class "#7d6820"
+
+color-link preproc "#7d6820"
+
+color-link special "#287070"
+
+color-link statement "#9e3e3e"
+
+color-link symbol.operator "#1f1c16"
+color-link symbol.tag "#1f1c16"
+
+color-link type "#7d6820"
+
+color-link underlined "#9e3e3e"
+
+color-link error "bold #f5f4f0,#9e3e3e"
+color-link todo "bold #7d6820,#e8e7e3"
+color-link hlsearch "#e8e7e3,#7d6820"
+color-link statusline "#746c62,#d5d2cb"
+color-link tabbar "#91887d,#e8e7e3"
+color-link indent-char "#91887d"
+color-link line-number "#91887d,#e8e7e3"
+color-link current-line-number "#746c62,#e8e7e3"
+
+color-link diff-added "#387050,#e8e7e3"
+color-link diff-modified "#91887d,#e8e7e3"
+color-link diff-deleted "#9e3e3e,#e8e7e3"
+color-link gutter-error "#9e3e3e,#e8e7e3"
+color-link gutter-warning "#3468a8,#e8e7e3"
+
+color-link cursor-line "#e8e7e3"
+color-link color-column "#e8e7e3"

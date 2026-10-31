@@ -1,0 +1,44 @@
+# Base16 Tokio - micro color scheme
+# Scheme by xscriptor (https://github.com/xscriptor)
+
+color-link default "#f7f1ff,#1c1c1d"
+
+color-link comment "#78757c"
+
+color-link constant "#fca37a"
+color-link constant.specialChar "#ae7459"
+color-link constant.string "#7bd88f"
+
+color-link identifier "#fc618d"
+color-link identifier.class "#fce566"
+
+color-link preproc "#fce566"
+
+color-link special "#5ad4e6"
+
+color-link statement "#fc618d"
+
+color-link symbol.operator "#f7f1ff"
+color-link symbol.tag "#f7f1ff"
+
+color-link type "#fce566"
+
+color-link underlined "#fc618d"
+
+color-link error "bold #1c1c1d,#fc618d"
+color-link todo "bold #fce566,#2b2b2d"
+color-link hlsearch "#2b2b2d,#fce566"
+color-link statusline "#949199,#363638"
+color-link tabbar "#78757c,#2b2b2d"
+color-link indent-char "#78757c"
+color-link line-number "#78757c,#2b2b2d"
+color-link current-line-number "#949199,#2b2b2d"
+
+color-link diff-added "#7bd88f,#2b2b2d"
+color-link diff-modified "#78757c,#2b2b2d"
+color-link diff-deleted "#fc618d,#2b2b2d"
+color-link gutter-error "#fc618d,#2b2b2d"
+color-link gutter-warning "#fd9353,#2b2b2d"
+
+color-link cursor-line "#2b2b2d"
+color-link color-column "#2b2b2d"

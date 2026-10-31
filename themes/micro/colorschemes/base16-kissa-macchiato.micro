@@ -1,0 +1,44 @@
+# Base16 Kissa Macchiato - micro color scheme
+# Scheme by rwendell (https://github.com/rwendell/kissa)
+
+color-link default "#faf0e6,#1f1c16"
+
+color-link comment "#b8a48c"
+
+color-link constant "#da9050"
+color-link constant.specialChar "#cc88aa"
+color-link constant.string "#8cb870"
+
+color-link identifier "#e87777"
+color-link identifier.class "#eac67a"
+
+color-link preproc "#eac67a"
+
+color-link special "#6ab8b0"
+
+color-link statement "#e87777"
+
+color-link symbol.operator "#faf0e6"
+color-link symbol.tag "#faf0e6"
+
+color-link type "#eac67a"
+
+color-link underlined "#e87777"
+
+color-link error "bold #1f1c16,#e87777"
+color-link todo "bold #eac67a,#35322d"
+color-link hlsearch "#35322d,#eac67a"
+color-link statusline "#d4c4a8,#47443f"
+color-link tabbar "#b8a48c,#35322d"
+color-link indent-char "#b8a48c"
+color-link line-number "#b8a48c,#35322d"
+color-link current-line-number "#d4c4a8,#35322d"
+
+color-link diff-added "#8cb870,#35322d"
+color-link diff-modified "#b8a48c,#35322d"
+color-link diff-deleted "#e87777,#35322d"
+color-link gutter-error "#e87777,#35322d"
+color-link gutter-warning "#7fa8d4,#35322d"
+
+color-link cursor-line "#35322d"
+color-link color-column "#35322d"

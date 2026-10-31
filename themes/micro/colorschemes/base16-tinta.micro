@@ -1,0 +1,44 @@
+# Base16 Tinta - micro color scheme
+# Scheme by Teshre
+
+color-link default "#d8d6d0,#101012"
+
+color-link comment "#62626a"
+
+color-link constant "#e8843a"
+color-link constant.specialChar "#4a4a50"
+color-link constant.string "#9aa890"
+
+color-link identifier "#d0726a"
+color-link identifier.class "#c8b86a"
+
+color-link preproc "#c8b86a"
+
+color-link special "#80b8b4"
+
+color-link statement "#d0726a"
+
+color-link symbol.operator "#d8d6d0"
+color-link symbol.tag "#d8d6d0"
+
+color-link type "#c8b86a"
+
+color-link underlined "#d0726a"
+
+color-link error "bold #101012,#d0726a"
+color-link todo "bold #c8b86a,#202023"
+color-link hlsearch "#202023,#c8b86a"
+color-link statusline "#9d9c9d,#2c2c30"
+color-link tabbar "#62626a,#202023"
+color-link indent-char "#62626a"
+color-link line-number "#62626a,#202023"
+color-link current-line-number "#9d9c9d,#202023"
+
+color-link diff-added "#9aa890,#202023"
+color-link diff-modified "#62626a,#202023"
+color-link diff-deleted "#d0726a,#202023"
+color-link gutter-error "#d0726a,#202023"
+color-link gutter-warning "#8a9ab0,#202023"
+
+color-link cursor-line "#202023"
+color-link color-column "#202023"

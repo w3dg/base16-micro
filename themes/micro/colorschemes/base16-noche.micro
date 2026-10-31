@@ -1,0 +1,44 @@
+# Base16 Noche - micro color scheme
+# Scheme by Teshre
+
+color-link default "#cbd4ec,#0c0e16"
+
+color-link comment "#5a6178"
+
+color-link constant "#82a6e0"
+color-link constant.specialChar "#3a4260"
+color-link constant.string "#7cc596"
+
+color-link identifier "#e2727e"
+color-link identifier.class "#d8c062"
+
+color-link preproc "#d8c062"
+
+color-link special "#6dd8d0"
+
+color-link statement "#e2727e"
+
+color-link symbol.operator "#cbd4ec"
+color-link symbol.tag "#cbd4ec"
+
+color-link type "#d8c062"
+
+color-link underlined "#e2727e"
+
+color-link error "bold #0c0e16,#e2727e"
+color-link todo "bold #d8c062,#181c2c"
+color-link hlsearch "#181c2c,#d8c062"
+color-link statusline "#939bb2,#232a40"
+color-link tabbar "#5a6178,#181c2c"
+color-link indent-char "#5a6178"
+color-link line-number "#5a6178,#181c2c"
+color-link current-line-number "#939bb2,#181c2c"
+
+color-link diff-added "#7cc596,#181c2c"
+color-link diff-modified "#5a6178,#181c2c"
+color-link diff-deleted "#e2727e,#181c2c"
+color-link gutter-error "#e2727e,#181c2c"
+color-link gutter-warning "#7aa0e8,#181c2c"
+
+color-link cursor-line "#181c2c"
+color-link color-column "#181c2c"

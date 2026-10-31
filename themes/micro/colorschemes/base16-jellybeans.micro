@@ -1,0 +1,44 @@
+# Base16 Jellybeans - micro color scheme
+# Scheme by FredHappyface (https://github.com/fredHappyface), converted to Base16 by https://github.com/nonetrix
+
+color-link default "#d5d5d5,#121212"
+
+color-link comment "#c5c5c5"
+
+color-link constant "#ffba7b"
+color-link constant.specialChar "#713939"
+color-link constant.string "#bddeab"
+
+color-link identifier "#ffa1a1"
+color-link identifier.class "#ffdca0"
+
+color-link preproc "#ffdca0"
+
+color-link special "#1ab2a8"
+
+color-link statement "#ffa1a1"
+
+color-link symbol.operator "#d5d5d5"
+color-link symbol.tag "#d5d5d5"
+
+color-link type "#ffdca0"
+
+color-link underlined "#ffa1a1"
+
+color-link error "bold #121212,#ffa1a1"
+color-link todo "bold #ffdca0,#929292"
+color-link hlsearch "#929292,#ffdca0"
+color-link statusline "#cdcdcd,#bdbdbd"
+color-link tabbar "#c5c5c5,#929292"
+color-link indent-char "#c5c5c5"
+color-link line-number "#c5c5c5,#929292"
+color-link current-line-number "#cdcdcd,#929292"
+
+color-link diff-added "#bddeab,#929292"
+color-link diff-modified "#c5c5c5,#929292"
+color-link diff-deleted "#ffa1a1,#929292"
+color-link gutter-error "#ffa1a1,#929292"
+color-link gutter-warning "#b1d8f6,#929292"
+
+color-link cursor-line "#929292"
+color-link color-column "#929292"

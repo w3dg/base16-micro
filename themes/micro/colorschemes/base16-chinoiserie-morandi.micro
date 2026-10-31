@@ -1,0 +1,44 @@
+# Base16 Chinoiserie Morandi - micro color scheme
+# Scheme by Di Wang (https://cs.cmu.edu/~diw3)
+
+color-link default "#c4cbcf,#1d1d1d"
+
+color-link comment "#918072"
+
+color-link constant "#ff937f"
+color-link constant.specialChar "#d9cdb4"
+color-link constant.string "#8ca07b"
+
+color-link identifier "#c06061"
+color-link identifier.class "#e5bc84"
+
+color-link preproc "#e5bc84"
+
+color-link special "#5e8c9b"
+
+color-link statement "#c06061"
+
+color-link symbol.operator "#c4cbcf"
+color-link symbol.tag "#c4cbcf"
+
+color-link type "#e5bc84"
+
+color-link underlined "#c06061"
+
+color-link error "bold #1d1d1d,#c06061"
+color-link todo "bold #e5bc84,#282828"
+color-link hlsearch "#282828,#e5bc84"
+color-link statusline "#bdaead,#373737"
+color-link tabbar "#918072,#282828"
+color-link indent-char "#918072"
+color-link line-number "#918072,#282828"
+color-link current-line-number "#bdaead,#282828"
+
+color-link diff-added "#8ca07b,#282828"
+color-link diff-modified "#918072,#282828"
+color-link diff-deleted "#c06061,#282828"
+color-link gutter-error "#c06061,#282828"
+color-link gutter-warning "#839ec9,#282828"
+
+color-link cursor-line "#282828"
+color-link color-column "#282828"

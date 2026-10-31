@@ -1,0 +1,44 @@
+# Base16 Chinoiserie - micro color scheme
+# Scheme by Di Wang (https://cs.cmu.edu/~diw3)
+
+color-link default "#4a4035,#ffffff"
+
+color-link comment "#80766e"
+
+color-link constant "#fb8b05"
+color-link constant.specialChar "#945833"
+color-link constant.string "#428675"
+
+color-link identifier "#c04851"
+color-link identifier.class "#d6a01d"
+
+color-link preproc "#d6a01d"
+
+color-link special "#2b73af"
+
+color-link statement "#c04851"
+
+color-link symbol.operator "#4a4035"
+color-link symbol.tag "#4a4035"
+
+color-link type "#d6a01d"
+
+color-link underlined "#c04851"
+
+color-link error "bold #ffffff,#c04851"
+color-link todo "bold #d6a01d,#e0e0e0"
+color-link hlsearch "#e0e0e0,#d6a01d"
+color-link statusline "#918072,#d6d6d6"
+color-link tabbar "#80766e,#e0e0e0"
+color-link indent-char "#80766e"
+color-link line-number "#80766e,#e0e0e0"
+color-link current-line-number "#918072,#e0e0e0"
+
+color-link diff-added "#428675,#e0e0e0"
+color-link diff-modified "#80766e,#e0e0e0"
+color-link diff-deleted "#c04851,#e0e0e0"
+color-link gutter-error "#c04851,#e0e0e0"
+color-link gutter-warning "#815c94,#e0e0e0"
+
+color-link cursor-line "#e0e0e0"
+color-link color-column "#e0e0e0"

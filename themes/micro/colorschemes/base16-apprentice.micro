@@ -1,44 +1,44 @@
 # Base16 Apprentice - micro color scheme
-# Scheme by romainl
+# Scheme by Romain Lafourcade (https://github.com/romainl)
 
-color-link default "#5f5f87,#262626"
+color-link default "#bcbcbc,#262626"
 
-color-link comment "#87875f"
+color-link comment "#444444"
 
 color-link constant "#ff8700"
-color-link constant.specialChar "#bcbcbc"
-color-link constant.string "#ffffaf"
+color-link constant.specialChar "#af5f5f"
+color-link constant.string "#5f875f"
 
-color-link identifier "#444444"
-color-link identifier.class "#87af87"
+color-link identifier "#af5f5f"
+color-link identifier.class "#87875f"
 
-color-link preproc "#87af87"
+color-link preproc "#87875f"
 
-color-link special "#87afd7"
+color-link special "#5f8787"
 
-color-link statement "#444444"
+color-link statement "#af5f5f"
 
-color-link symbol.operator "#5f5f87"
-color-link symbol.tag "#5f5f87"
+color-link symbol.operator "#bcbcbc"
+color-link symbol.tag "#bcbcbc"
 
-color-link type "#87af87"
+color-link type "#87875f"
 
-color-link underlined "#444444"
+color-link underlined "#af5f5f"
 
-color-link error "bold #262626,#444444"
-color-link todo "bold #87af87,#af5f5f"
-color-link hlsearch "#af5f5f,#87af87"
-color-link statusline "#5f87af,#5f875f"
-color-link tabbar "#87875f,#af5f5f"
-color-link indent-char "#87875f"
-color-link line-number "#87875f,#af5f5f"
-color-link current-line-number "#5f87af,#af5f5f"
+color-link error "bold #262626,#af5f5f"
+color-link todo "bold #87875f,#303030"
+color-link hlsearch "#303030,#87875f"
+color-link statusline "#6c6c6c,#3a3a3a"
+color-link tabbar "#444444,#303030"
+color-link indent-char "#444444"
+color-link line-number "#444444,#303030"
+color-link current-line-number "#6c6c6c,#303030"
 
-color-link diff-added "#ffffaf,#af5f5f"
-color-link diff-modified "#87875f,#af5f5f"
-color-link diff-deleted "#444444,#af5f5f"
-color-link gutter-error "#444444,#af5f5f"
-color-link gutter-warning "#8787af,#af5f5f"
+color-link diff-added "#5f875f,#303030"
+color-link diff-modified "#444444,#303030"
+color-link diff-deleted "#af5f5f,#303030"
+color-link gutter-error "#af5f5f,#303030"
+color-link gutter-warning "#5f87af,#303030"
 
-color-link cursor-line "#af5f5f"
-color-link color-column "#af5f5f"
+color-link cursor-line "#303030"
+color-link color-column "#303030"

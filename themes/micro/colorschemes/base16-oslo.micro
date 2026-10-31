@@ -1,0 +1,44 @@
+# Base16 Oslo - micro color scheme
+# Scheme by xscriptor (https://github.com/xscriptor)
+
+color-link default "#abb2bf,#3f4451"
+
+color-link comment "#6c727f"
+
+color-link constant "#d8725a"
+color-link constant.specialChar "#a26257"
+color-link constant.string "#8cc265"
+
+color-link identifier "#e05561"
+color-link identifier.class "#d18f52"
+
+color-link preproc "#d18f52"
+
+color-link special "#42b3c2"
+
+color-link statement "#e05561"
+
+color-link symbol.operator "#abb2bf"
+color-link symbol.tag "#abb2bf"
+
+color-link type "#d18f52"
+
+color-link underlined "#e05561"
+
+color-link error "bold #3f4451,#e05561"
+color-link todo "bold #d18f52,#474c59"
+color-link hlsearch "#474c59,#d18f52"
+color-link statusline "#7a808e,#4c515e"
+color-link tabbar "#6c727f,#474c59"
+color-link indent-char "#6c727f"
+color-link line-number "#6c727f,#474c59"
+color-link current-line-number "#7a808e,#474c59"
+
+color-link diff-added "#8cc265,#474c59"
+color-link diff-modified "#6c727f,#474c59"
+color-link diff-deleted "#e05561,#474c59"
+color-link gutter-error "#e05561,#474c59"
+color-link gutter-warning "#4aa5f0,#474c59"
+
+color-link cursor-line "#474c59"
+color-link color-column "#474c59"

@@ -1,0 +1,44 @@
+# Base16 Papel - micro color scheme
+# Scheme by Teshre
+
+color-link default "#3a2e20,#f5efe2"
+
+color-link comment "#9a8c76"
+
+color-link constant "#c25c1f"
+color-link constant.specialChar "#6e6353"
+color-link constant.string "#5e7a28"
+
+color-link identifier "#c0392b"
+color-link identifier.class "#a8761a"
+
+color-link preproc "#a8761a"
+
+color-link special "#2a8a7a"
+
+color-link statement "#c0392b"
+
+color-link symbol.operator "#3a2e20"
+color-link symbol.tag "#3a2e20"
+
+color-link type "#a8761a"
+
+color-link underlined "#c0392b"
+
+color-link error "bold #f5efe2,#c0392b"
+color-link todo "bold #a8761a,#8e8576"
+color-link hlsearch "#8e8576,#a8761a"
+color-link statusline "#6a5d4b,#e0d0ac"
+color-link tabbar "#9a8c76,#8e8576"
+color-link indent-char "#9a8c76"
+color-link line-number "#9a8c76,#8e8576"
+color-link current-line-number "#6a5d4b,#8e8576"
+
+color-link diff-added "#5e7a28,#8e8576"
+color-link diff-modified "#9a8c76,#8e8576"
+color-link diff-deleted "#c0392b,#8e8576"
+color-link gutter-error "#c0392b,#8e8576"
+color-link gutter-warning "#2c6ca0,#8e8576"
+
+color-link cursor-line "#8e8576"
+color-link color-column "#8e8576"

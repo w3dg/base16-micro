@@ -1,0 +1,44 @@
+# Base16 Arroz con Dulce - micro color scheme
+# Scheme by Richard Martinez
+
+color-link default "#4a2c20,#fff8e7"
+
+color-link comment "#c8a77a"
+
+color-link constant "#a3470a"
+color-link constant.specialChar "#653221"
+color-link constant.string "#a2380c"
+
+color-link identifier "#a11d48"
+color-link identifier.class "#855500"
+
+color-link preproc "#855500"
+
+color-link special "#98263e"
+
+color-link statement "#a11d48"
+
+color-link symbol.operator "#4a2c20"
+color-link symbol.tag "#4a2c20"
+
+color-link type "#855500"
+
+color-link underlined "#a11d48"
+
+color-link error "bold #fff8e7,#a11d48"
+color-link todo "bold #855500,#f7ebd3"
+color-link hlsearch "#f7ebd3,#855500"
+color-link statusline "#765b45,#ead6b8"
+color-link tabbar "#c8a77a,#f7ebd3"
+color-link indent-char "#c8a77a"
+color-link line-number "#c8a77a,#f7ebd3"
+color-link current-line-number "#765b45,#f7ebd3"
+
+color-link diff-added "#a2380c,#f7ebd3"
+color-link diff-modified "#c8a77a,#f7ebd3"
+color-link diff-deleted "#a11d48,#f7ebd3"
+color-link gutter-error "#a11d48,#f7ebd3"
+color-link gutter-warning "#5940a0,#f7ebd3"
+
+color-link cursor-line "#f7ebd3"
+color-link color-column "#f7ebd3"

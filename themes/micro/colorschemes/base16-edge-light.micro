@@ -1,44 +1,44 @@
 # Base16 Edge Light - micro color scheme
-# Scheme by cjayross (https://github.com/cjayross)
+# Scheme by cjayross (https://github.com/cjayross), Tinted Theming (https://github.com/tinted-theming)
 
-color-link default "#5e646f,#fafafa"
+color-link default "#474752,#fafafa"
 
-color-link comment "#5e646f"
+color-link comment "#9197a1"
 
-color-link constant "#db7070"
+color-link constant "#eba31a"
 color-link constant.specialChar "#509c93"
 color-link constant.string "#7c9f4b"
 
 color-link identifier "#db7070"
-color-link identifier.class "#d69822"
+color-link identifier.class "#ebcc1a"
 
-color-link preproc "#d69822"
+color-link preproc "#ebcc1a"
 
 color-link special "#509c93"
 
 color-link statement "#db7070"
 
-color-link symbol.operator "#5e646f"
-color-link symbol.tag "#5e646f"
+color-link symbol.operator "#474752"
+color-link symbol.tag "#474752"
 
-color-link type "#d69822"
+color-link type "#ebcc1a"
 
 color-link underlined "#db7070"
 
 color-link error "bold #fafafa,#db7070"
-color-link todo "bold #d69822,#7c9f4b"
-color-link hlsearch "#7c9f4b,#d69822"
-color-link statusline "#6587bf,#d69822"
-color-link tabbar "#5e646f,#7c9f4b"
-color-link indent-char "#5e646f"
-color-link line-number "#5e646f,#7c9f4b"
-color-link current-line-number "#6587bf,#7c9f4b"
+color-link todo "bold #ebcc1a,#e3e5e8"
+color-link hlsearch "#e3e5e8,#ebcc1a"
+color-link statusline "#5e646f,#acb1b9"
+color-link tabbar "#9197a1,#e3e5e8"
+color-link indent-char "#9197a1"
+color-link line-number "#9197a1,#e3e5e8"
+color-link current-line-number "#5e646f,#e3e5e8"
 
-color-link diff-added "#7c9f4b,#7c9f4b"
-color-link diff-modified "#5e646f,#7c9f4b"
-color-link diff-deleted "#db7070,#7c9f4b"
-color-link gutter-error "#db7070,#7c9f4b"
-color-link gutter-warning "#6587bf,#7c9f4b"
+color-link diff-added "#7c9f4b,#e3e5e8"
+color-link diff-modified "#9197a1,#e3e5e8"
+color-link diff-deleted "#db7070,#e3e5e8"
+color-link gutter-error "#db7070,#e3e5e8"
+color-link gutter-warning "#6587bf,#e3e5e8"
 
-color-link cursor-line "#7c9f4b"
-color-link color-column "#7c9f4b"
+color-link cursor-line "#e3e5e8"
+color-link color-column "#e3e5e8"

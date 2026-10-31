@@ -1,0 +1,44 @@
+# Base16 Chinoiserie Night - micro color scheme
+# Scheme by Di Wang (https://cs.cmu.edu/~diw3)
+
+color-link default "#c4cbcf,#1d1d1d"
+
+color-link comment "#918072"
+
+color-link constant "#f4a83a"
+color-link constant.specialChar "#b89485"
+color-link constant.string "#b2cf87"
+
+color-link identifier "#f07c82"
+color-link identifier.class "#f4ce69"
+
+color-link preproc "#f4ce69"
+
+color-link special "#b0d5df"
+
+color-link statement "#f07c82"
+
+color-link symbol.operator "#c4cbcf"
+color-link symbol.tag "#c4cbcf"
+
+color-link type "#f4ce69"
+
+color-link underlined "#f07c82"
+
+color-link error "bold #1d1d1d,#f07c82"
+color-link todo "bold #f4ce69,#282828"
+color-link hlsearch "#282828,#f4ce69"
+color-link statusline "#bdaead,#373737"
+color-link tabbar "#918072,#282828"
+color-link indent-char "#918072"
+color-link line-number "#918072,#282828"
+color-link current-line-number "#bdaead,#282828"
+
+color-link diff-added "#b2cf87,#282828"
+color-link diff-modified "#918072,#282828"
+color-link diff-deleted "#f07c82,#282828"
+color-link gutter-error "#f07c82,#282828"
+color-link gutter-warning "#8fb2c9,#282828"
+
+color-link cursor-line "#282828"
+color-link color-column "#282828"

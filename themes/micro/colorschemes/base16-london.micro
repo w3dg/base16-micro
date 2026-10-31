@@ -1,0 +1,44 @@
+# Base16 London - micro color scheme
+# Scheme by xscriptor (https://github.com/xscriptor)
+
+color-link default "#333333,#ffffff"
+
+color-link comment "#333333"
+
+color-link constant "#444444"
+color-link constant.specialChar "#303030"
+color-link constant.string "#444444"
+
+color-link identifier "#333333"
+color-link identifier.class "#555555"
+
+color-link preproc "#555555"
+
+color-link special "#888888"
+
+color-link statement "#333333"
+
+color-link symbol.operator "#333333"
+color-link symbol.tag "#333333"
+
+color-link type "#555555"
+
+color-link underlined "#333333"
+
+color-link error "bold #ffffff,#333333"
+color-link todo "bold #555555,#f1f1f1"
+color-link hlsearch "#f1f1f1,#555555"
+color-link statusline "#7a7a7a,#e7e7e7"
+color-link tabbar "#333333,#f1f1f1"
+color-link indent-char "#333333"
+color-link line-number "#333333,#f1f1f1"
+color-link current-line-number "#7a7a7a,#f1f1f1"
+
+color-link diff-added "#444444,#f1f1f1"
+color-link diff-modified "#333333,#f1f1f1"
+color-link diff-deleted "#333333,#f1f1f1"
+color-link gutter-error "#333333,#f1f1f1"
+color-link gutter-warning "#666666,#f1f1f1"
+
+color-link cursor-line "#f1f1f1"
+color-link color-column "#f1f1f1"

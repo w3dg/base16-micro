@@ -1,0 +1,44 @@
+# Base16 Yesterday - micro color scheme
+# Scheme by FroZnShiva (https://github.com/FroZnShiva)
+
+color-link default "#d6d6d6,#1d1f21"
+
+color-link comment "#969896"
+
+color-link constant "#f5871f"
+color-link constant.specialChar "#7f2a1d"
+color-link constant.string "#718c00"
+
+color-link identifier "#c82829"
+color-link identifier.class "#eab700"
+
+color-link preproc "#eab700"
+
+color-link special "#3e999f"
+
+color-link statement "#c82829"
+
+color-link symbol.operator "#d6d6d6"
+color-link symbol.tag "#d6d6d6"
+
+color-link type "#eab700"
+
+color-link underlined "#c82829"
+
+color-link error "bold #1d1f21,#c82829"
+color-link todo "bold #eab700,#282a2e"
+color-link hlsearch "#282a2e,#eab700"
+color-link statusline "#8e908c,#4d4d4c"
+color-link tabbar "#969896,#282a2e"
+color-link indent-char "#969896"
+color-link line-number "#969896,#282a2e"
+color-link current-line-number "#8e908c,#282a2e"
+
+color-link diff-added "#718c00,#282a2e"
+color-link diff-modified "#969896,#282a2e"
+color-link diff-deleted "#c82829,#282a2e"
+color-link gutter-error "#c82829,#282a2e"
+color-link gutter-warning "#4271ae,#282a2e"
+
+color-link cursor-line "#282a2e"
+color-link color-column "#282a2e"

@@ -1,0 +1,44 @@
+# Base16 Serendipity Midnight - micro color scheme
+# Scheme by Micheal Andreuzza (https://michaelandreuzza.com/)
+
+color-link default "#dee0ef,#151726"
+
+color-link comment "#6b6d7c"
+
+color-link constant "#ee8679"
+color-link constant.specialChar "#5ba2d0"
+color-link constant.string "#5ba2d0"
+
+color-link identifier "#ee8679"
+color-link identifier.class "#a78bfa"
+
+color-link preproc "#a78bfa"
+
+color-link special "#f8d2c9"
+
+color-link statement "#ee8679"
+
+color-link symbol.operator "#dee0ef"
+color-link symbol.tag "#dee0ef"
+
+color-link type "#a78bfa"
+
+color-link underlined "#ee8679"
+
+color-link error "bold #151726,#ee8679"
+color-link todo "bold #a78bfa,#1c1e2d"
+color-link hlsearch "#1c1e2d,#a78bfa"
+color-link statusline "#8d8f9e,#1c1e2d"
+color-link tabbar "#6b6d7c,#1c1e2d"
+color-link indent-char "#6b6d7c"
+color-link line-number "#6b6d7c,#1c1e2d"
+color-link current-line-number "#8d8f9e,#1c1e2d"
+
+color-link diff-added "#5ba2d0,#1c1e2d"
+color-link diff-modified "#6b6d7c,#1c1e2d"
+color-link diff-deleted "#ee8679,#1c1e2d"
+color-link gutter-error "#ee8679,#1c1e2d"
+color-link gutter-warning "#94b8ff,#1c1e2d"
+
+color-link cursor-line "#1c1e2d"
+color-link color-column "#1c1e2d"

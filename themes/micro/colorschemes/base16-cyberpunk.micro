@@ -1,0 +1,44 @@
+# Base16 Cyberpunk - micro color scheme
+# Scheme by benjujo
+
+color-link default "#dcdccc,#000000"
+
+color-link comment "#4f4f4f"
+
+color-link constant "#ffa500"
+color-link constant.specialChar "#ff8c00"
+color-link constant.string "#61ce3c"
+
+color-link identifier "#ff0000"
+color-link identifier.class "#ffff00"
+
+color-link preproc "#ffff00"
+
+color-link special "#93e0e3"
+
+color-link statement "#ff0000"
+
+color-link symbol.operator "#dcdccc"
+color-link symbol.tag "#dcdccc"
+
+color-link type "#ffff00"
+
+color-link underlined "#ff0000"
+
+color-link error "bold #000000,#ff0000"
+color-link todo "bold #ffff00,#2b2b2b"
+color-link hlsearch "#2b2b2b,#ffff00"
+color-link statusline "#8b8989,#383838"
+color-link tabbar "#4f4f4f,#2b2b2b"
+color-link indent-char "#4f4f4f"
+color-link line-number "#4f4f4f,#2b2b2b"
+color-link current-line-number "#8b8989,#2b2b2b"
+
+color-link diff-added "#61ce3c,#2b2b2b"
+color-link diff-modified "#4f4f4f,#2b2b2b"
+color-link diff-deleted "#ff0000,#2b2b2b"
+color-link gutter-error "#ff0000,#2b2b2b"
+color-link gutter-warning "#4c83ff,#2b2b2b"
+
+color-link cursor-line "#2b2b2b"
+color-link color-column "#2b2b2b"

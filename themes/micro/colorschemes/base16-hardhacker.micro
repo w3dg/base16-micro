@@ -1,0 +1,44 @@
+# Base16 Hardhacker - micro color scheme
+# Scheme by fe2-Nyxar, based on the https://github.com/hardhackerlabs
+
+color-link default "#e4dee9,#211e2a"
+
+color-link comment "#6e6780"
+
+color-link constant "#f4b870"
+color-link constant.specialChar "#bd93f9"
+color-link constant.string "#b1f2a7"
+
+color-link identifier "#e965a5"
+color-link identifier.class "#ebde76"
+
+color-link preproc "#ebde76"
+
+color-link special "#b3f4f3"
+
+color-link statement "#e965a5"
+
+color-link symbol.operator "#e4dee9"
+color-link symbol.tag "#e4dee9"
+
+color-link type "#ebde76"
+
+color-link underlined "#e965a5"
+
+color-link error "bold #211e2a,#e965a5"
+color-link todo "bold #ebde76,#2c2737"
+color-link hlsearch "#2c2737,#ebde76"
+color-link statusline "#8a829e,#3f3951"
+color-link tabbar "#6e6780,#2c2737"
+color-link indent-char "#6e6780"
+color-link line-number "#6e6780,#2c2737"
+color-link current-line-number "#8a829e,#2c2737"
+
+color-link diff-added "#b1f2a7,#2c2737"
+color-link diff-modified "#6e6780,#2c2737"
+color-link diff-deleted "#e965a5,#2c2737"
+color-link gutter-error "#e965a5,#2c2737"
+color-link gutter-warning "#95a6f4,#2c2737"
+
+color-link cursor-line "#2c2737"
+color-link color-column "#2c2737"

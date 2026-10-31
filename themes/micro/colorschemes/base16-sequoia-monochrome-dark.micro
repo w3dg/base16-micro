@@ -1,0 +1,44 @@
+# Base16 Sequoia Monochrome Dark - micro color scheme
+# Scheme by Micheal Andreuzza (https://michaelandreuzza.com/)
+
+color-link default "#868690,#0f1014"
+
+color-link comment "#43444d"
+
+color-link constant "#999eb2"
+color-link constant.specialChar "#626983"
+color-link constant.string "#626983"
+
+color-link identifier "#999eb2"
+color-link identifier.class "#d3d5de"
+
+color-link preproc "#d3d5de"
+
+color-link special "#b6bac8"
+
+color-link statement "#999eb2"
+
+color-link symbol.operator "#868690"
+color-link symbol.tag "#868690"
+
+color-link type "#d3d5de"
+
+color-link underlined "#999eb2"
+
+color-link error "bold #0f1014,#999eb2"
+color-link todo "bold #d3d5de,#111216"
+color-link hlsearch "#111216,#d3d5de"
+color-link statusline "#575861,#111216"
+color-link tabbar "#43444d,#111216"
+color-link indent-char "#43444d"
+color-link line-number "#43444d,#111216"
+color-link current-line-number "#575861,#111216"
+
+color-link diff-added "#626983,#111216"
+color-link diff-modified "#43444d,#111216"
+color-link diff-deleted "#999eb2,#111216"
+color-link gutter-error "#999eb2,#111216"
+color-link gutter-warning "#7c829d,#111216"
+
+color-link cursor-line "#111216"
+color-link color-column "#111216"

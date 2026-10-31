@@ -1,0 +1,44 @@
+# Base16 Swamp Dark - micro color scheme
+# Scheme by Masroof Maindak (https://github.com/masroof-maindak)
+
+color-link default "#d2c3a4,#242015"
+
+color-link comment "#5f4e41"
+
+color-link constant "#ebe0bb"
+color-link constant.specialChar "#61a0a8"
+color-link constant.string "#7a7653"
+
+color-link identifier "#db930d"
+color-link identifier.class "#a82d56"
+
+color-link preproc "#a82d56"
+
+color-link special "#db930d"
+
+color-link statement "#db930d"
+
+color-link symbol.operator "#d2c3a4"
+color-link symbol.tag "#d2c3a4"
+
+color-link type "#a82d56"
+
+color-link underlined "#db930d"
+
+color-link error "bold #242015,#db930d"
+color-link todo "bold #a82d56,#3a3124"
+color-link hlsearch "#3a3124,#a82d56"
+color-link statusline "#b8a58c,#4d3f32"
+color-link tabbar "#5f4e41,#3a3124"
+color-link indent-char "#5f4e41"
+color-link line-number "#5f4e41,#3a3124"
+color-link current-line-number "#b8a58c,#3a3124"
+
+color-link diff-added "#7a7653,#3a3124"
+color-link diff-modified "#5f4e41,#3a3124"
+color-link diff-deleted "#db930d,#3a3124"
+color-link gutter-error "#db930d,#3a3124"
+color-link gutter-warning "#c1666b,#3a3124"
+
+color-link cursor-line "#3a3124"
+color-link color-column "#3a3124"

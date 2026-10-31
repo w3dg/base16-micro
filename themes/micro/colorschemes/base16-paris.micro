@@ -1,0 +1,44 @@
+# Base16 Paris - micro color scheme
+# Scheme by xscriptor (https://github.com/xscriptor)
+
+color-link default "#f7f1ff,#1a0a30"
+
+color-link comment "#c4bdff"
+
+color-link constant "#fca37a"
+color-link constant.specialChar "#ad6d60"
+color-link constant.string "#7bd88f"
+
+color-link identifier "#fc618d"
+color-link identifier.class "#fce566"
+
+color-link preproc "#fce566"
+
+color-link special "#a3f3ff"
+
+color-link statement "#fc618d"
+
+color-link symbol.operator "#f7f1ff"
+color-link symbol.tag "#f7f1ff"
+
+color-link type "#fce566"
+
+color-link underlined "#fc618d"
+
+color-link error "bold #1a0a30,#fc618d"
+color-link todo "bold #fce566,#291a3e"
+color-link hlsearch "#291a3e,#fce566"
+color-link statusline "#9489a2,#352649"
+color-link tabbar "#c4bdff,#291a3e"
+color-link indent-char "#c4bdff"
+color-link line-number "#c4bdff,#291a3e"
+color-link current-line-number "#9489a2,#291a3e"
+
+color-link diff-added "#7bd88f,#291a3e"
+color-link diff-modified "#c4bdff,#291a3e"
+color-link diff-deleted "#fc618d,#291a3e"
+color-link gutter-error "#fc618d,#291a3e"
+color-link gutter-warning "#a3f3ff,#291a3e"
+
+color-link cursor-line "#291a3e"
+color-link color-column "#291a3e"

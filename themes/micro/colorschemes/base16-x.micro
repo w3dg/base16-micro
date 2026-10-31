@@ -1,0 +1,44 @@
+# Base16 X - micro color scheme
+# Scheme by xscriptor (https://github.com/xscriptor)
+
+color-link default "#f7f1ff,#050505"
+
+color-link comment "#6b686e"
+
+color-link constant "#fca37a"
+color-link constant.specialChar "#a66c51"
+color-link constant.string "#7bd88f"
+
+color-link identifier "#fc618d"
+color-link identifier.class "#fce566"
+
+color-link preproc "#fce566"
+
+color-link special "#5ad4e6"
+
+color-link statement "#fc618d"
+
+color-link symbol.operator "#f7f1ff"
+color-link symbol.tag "#f7f1ff"
+
+color-link type "#fce566"
+
+color-link underlined "#fc618d"
+
+color-link error "bold #050505,#fc618d"
+color-link todo "bold #fce566,#161616"
+color-link hlsearch "#161616,#fce566"
+color-link statusline "#8a878e,#222123"
+color-link tabbar "#6b686e,#161616"
+color-link indent-char "#6b686e"
+color-link line-number "#6b686e,#161616"
+color-link current-line-number "#8a878e,#161616"
+
+color-link diff-added "#7bd88f,#161616"
+color-link diff-modified "#6b686e,#161616"
+color-link diff-deleted "#fc618d,#161616"
+color-link gutter-error "#fc618d,#161616"
+color-link gutter-warning "#fd9353,#161616"
+
+color-link cursor-line "#161616"
+color-link color-column "#161616"

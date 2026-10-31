@@ -10,9 +10,9 @@ color-link constant.specialChar "#bbd2e8"
 color-link constant.string "#c3e88d"
 
 color-link identifier "#4ce587"
-color-link identifier.class "#82aaff"
+color-link identifier.class "#f6cd5c"
 
-color-link preproc "#82aaff"
+color-link preproc "#f6cd5c"
 
 color-link special "#5fd1ff"
 
@@ -21,13 +21,13 @@ color-link statement "#4ce587"
 color-link symbol.operator "#c8e1f8"
 color-link symbol.tag "#c8e1f8"
 
-color-link type "#82aaff"
+color-link type "#f6cd5c"
 
 color-link underlined "#4ce587"
 
 color-link error "bold #182430,#4ce587"
-color-link todo "bold #82aaff,#243c54"
-color-link hlsearch "#243c54,#82aaff"
+color-link todo "bold #f6cd5c,#243c54"
+color-link hlsearch "#243c54,#f6cd5c"
 color-link statusline "#74afe7,#46290a"
 color-link tabbar "#616d78,#243c54"
 color-link indent-char "#616d78"

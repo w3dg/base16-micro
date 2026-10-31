@@ -1,0 +1,44 @@
+# Base16 Github Dark High Contrast - micro color scheme
+# Scheme by Tinted Theming (https://github.com/tinted-theming)
+
+color-link default "#d1d7e0,#0d1117"
+
+color-link comment "#656c76"
+
+color-link constant "#ffb757"
+color-link constant.specialChar "#ffb1af"
+color-link constant.string "#28d751"
+
+color-link identifier "#ff9492"
+color-link identifier.class "#f0b72f"
+
+color-link preproc "#f0b72f"
+
+color-link special "#39c5cf"
+
+color-link statement "#ff9492"
+
+color-link symbol.operator "#d1d7e0"
+color-link symbol.tag "#d1d7e0"
+
+color-link type "#f0b72f"
+
+color-link underlined "#ff9492"
+
+color-link error "bold #0d1117,#ff9492"
+color-link todo "bold #f0b72f,#151b23"
+color-link hlsearch "#151b23,#f0b72f"
+color-link statusline "#9198a1,#2f3742"
+color-link tabbar "#656c76,#151b23"
+color-link indent-char "#656c76"
+color-link line-number "#656c76,#151b23"
+color-link current-line-number "#9198a1,#151b23"
+
+color-link diff-added "#28d751,#151b23"
+color-link diff-modified "#656c76,#151b23"
+color-link diff-deleted "#ff9492,#151b23"
+color-link gutter-error "#ff9492,#151b23"
+color-link gutter-warning "#71b7ff,#151b23"
+
+color-link cursor-line "#151b23"
+color-link color-column "#151b23"

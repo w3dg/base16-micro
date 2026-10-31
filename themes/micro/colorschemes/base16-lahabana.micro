@@ -1,0 +1,44 @@
+# Base16 Lahabana - micro color scheme
+# Scheme by xscriptor (https://github.com/xscriptor)
+
+color-link default "#f7f1ff,#19191a"
+
+color-link comment "#76747a"
+
+color-link constant "#f0b095"
+color-link constant.specialChar "#a57b6a"
+color-link constant.string "#7bd88f"
+
+color-link identifier "#fc618d"
+color-link identifier.class "#e5ff9d"
+
+color-link preproc "#e5ff9d"
+
+color-link special "#5ad4e6"
+
+color-link statement "#fc618d"
+
+color-link symbol.operator "#f7f1ff"
+color-link symbol.tag "#f7f1ff"
+
+color-link type "#e5ff9d"
+
+color-link underlined "#fc618d"
+
+color-link error "bold #19191a,#fc618d"
+color-link todo "bold #e5ff9d,#29282a"
+color-link hlsearch "#29282a,#e5ff9d"
+color-link statusline "#939098,#343335"
+color-link tabbar "#76747a,#29282a"
+color-link indent-char "#76747a"
+color-link line-number "#76747a,#29282a"
+color-link current-line-number "#939098,#29282a"
+
+color-link diff-added "#7bd88f,#29282a"
+color-link diff-modified "#76747a,#29282a"
+color-link diff-deleted "#fc618d,#29282a"
+color-link gutter-error "#fc618d,#29282a"
+color-link gutter-warning "#fd9353,#29282a"
+
+color-link cursor-line "#29282a"
+color-link color-column "#29282a"

@@ -1,0 +1,44 @@
+# Base16 Eldritch - micro color scheme
+# Scheme by https://github.com/eldritch-theme
+
+color-link default "#ebfafa,#212337"
+
+color-link comment "#7081d0"
+
+color-link constant "#f7c67f"
+color-link constant.specialChar "#f265b5"
+color-link constant.string "#37f499"
+
+color-link identifier "#f16c75"
+color-link identifier.class "#f1fc79"
+
+color-link preproc "#f1fc79"
+
+color-link special "#04d1f9"
+
+color-link statement "#f16c75"
+
+color-link symbol.operator "#ebfafa"
+color-link symbol.tag "#ebfafa"
+
+color-link type "#f1fc79"
+
+color-link underlined "#f16c75"
+
+color-link error "bold #212337,#f16c75"
+color-link todo "bold #f1fc79,#323449"
+color-link hlsearch "#323449,#f1fc79"
+color-link statusline "#a1abe0,#3b4261"
+color-link tabbar "#7081d0,#323449"
+color-link indent-char "#7081d0"
+color-link line-number "#7081d0,#323449"
+color-link current-line-number "#a1abe0,#323449"
+
+color-link diff-added "#37f499,#323449"
+color-link diff-modified "#7081d0,#323449"
+color-link diff-deleted "#f16c75,#323449"
+color-link gutter-error "#f16c75,#323449"
+color-link gutter-warning "#39ddfd,#323449"
+
+color-link cursor-line "#323449"
+color-link color-column "#323449"

@@ -1,0 +1,44 @@
+# Base16 Flexoki Light - micro color scheme
+# Scheme by Steph Ango (https://github.com/kepano/flexoki)
+
+color-link default "#403e3c,#fffcf0"
+
+color-link comment "#cecdc3"
+
+color-link constant "#bc5215"
+color-link constant.specialChar "#a02f6f"
+color-link constant.string "#66800b"
+
+color-link identifier "#af3029"
+color-link identifier.class "#ad8301"
+
+color-link preproc "#ad8301"
+
+color-link special "#24837b"
+
+color-link statement "#af3029"
+
+color-link symbol.operator "#403e3c"
+color-link symbol.tag "#403e3c"
+
+color-link type "#ad8301"
+
+color-link underlined "#af3029"
+
+color-link error "bold #fffcf0,#af3029"
+color-link todo "bold #ad8301,#f2f0e5"
+color-link hlsearch "#f2f0e5,#ad8301"
+color-link statusline "#9f9d96,#e6e4d9"
+color-link tabbar "#cecdc3,#f2f0e5"
+color-link indent-char "#cecdc3"
+color-link line-number "#cecdc3,#f2f0e5"
+color-link current-line-number "#9f9d96,#f2f0e5"
+
+color-link diff-added "#66800b,#f2f0e5"
+color-link diff-modified "#cecdc3,#f2f0e5"
+color-link diff-deleted "#af3029,#f2f0e5"
+color-link gutter-error "#af3029,#f2f0e5"
+color-link gutter-warning "#205ea6,#f2f0e5"
+
+color-link cursor-line "#f2f0e5"
+color-link color-column "#f2f0e5"

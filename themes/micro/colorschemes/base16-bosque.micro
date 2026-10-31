@@ -1,0 +1,44 @@
+# Base16 Bosque - micro color scheme
+# Scheme by Teshre
+
+color-link default "#cfe5d2,#0e1410"
+
+color-link comment "#5c6e5e"
+
+color-link constant "#7dc97a"
+color-link constant.specialChar "#35503e"
+color-link constant.string "#6fc56e"
+
+color-link identifier "#e2706a"
+color-link identifier.class "#c8b84a"
+
+color-link preproc "#c8b84a"
+
+color-link special "#5fd0b8"
+
+color-link statement "#e2706a"
+
+color-link symbol.operator "#cfe5d2"
+color-link symbol.tag "#cfe5d2"
+
+color-link type "#c8b84a"
+
+color-link underlined "#e2706a"
+
+color-link error "bold #0e1410,#e2706a"
+color-link todo "bold #c8b84a,#16211a"
+color-link hlsearch "#16211a,#c8b84a"
+color-link statusline "#96aa98,#1e3023"
+color-link tabbar "#5c6e5e,#16211a"
+color-link indent-char "#5c6e5e"
+color-link line-number "#5c6e5e,#16211a"
+color-link current-line-number "#96aa98,#16211a"
+
+color-link diff-added "#6fc56e,#16211a"
+color-link diff-modified "#5c6e5e,#16211a"
+color-link diff-deleted "#e2706a,#16211a"
+color-link gutter-error "#e2706a,#16211a"
+color-link gutter-warning "#6dae9e,#16211a"
+
+color-link cursor-line "#16211a"
+color-link color-column "#16211a"

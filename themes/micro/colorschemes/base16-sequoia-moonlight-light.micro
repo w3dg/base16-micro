@@ -1,0 +1,44 @@
+# Base16 Sequoia Moonlight Light - micro color scheme
+# Scheme by Micheal Andreuzza (https://michaelandreuzza.com/)
+
+color-link default "#282930,#edeef2"
+
+color-link comment "#565760"
+
+color-link constant "#c94da8"
+color-link constant.specialChar "#4a85d4"
+color-link constant.string "#4a85d4"
+
+color-link identifier "#c94da8"
+color-link identifier.class "#6a6a78"
+
+color-link preproc "#6a6a78"
+
+color-link special "#d9884a"
+
+color-link statement "#c94da8"
+
+color-link symbol.operator "#282930"
+color-link symbol.tag "#282930"
+
+color-link type "#6a6a78"
+
+color-link underlined "#c94da8"
+
+color-link error "bold #edeef2,#c94da8"
+color-link todo "bold #6a6a78,#e2e3e8"
+color-link hlsearch "#e2e3e8,#6a6a78"
+color-link statusline "#42434e,#e2e3e8"
+color-link tabbar "#565760,#e2e3e8"
+color-link indent-char "#565760"
+color-link line-number "#565760,#e2e3e8"
+color-link current-line-number "#42434e,#e2e3e8"
+
+color-link diff-added "#4a85d4,#e2e3e8"
+color-link diff-modified "#565760,#e2e3e8"
+color-link diff-deleted "#c94da8,#e2e3e8"
+color-link gutter-error "#c94da8,#e2e3e8"
+color-link gutter-warning "#9a5fd9,#e2e3e8"
+
+color-link cursor-line "#e2e3e8"
+color-link color-column "#e2e3e8"

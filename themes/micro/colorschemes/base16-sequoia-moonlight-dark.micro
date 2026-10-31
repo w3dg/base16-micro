@@ -1,0 +1,44 @@
+# Base16 Sequoia Moonlight Dark - micro color scheme
+# Scheme by Micheal Andreuzza (https://michaelandreuzza.com/)
+
+color-link default "#868690,#0f1014"
+
+color-link comment "#43444d"
+
+color-link constant "#f58ee0"
+color-link constant.specialChar "#8eb6f5"
+color-link constant.string "#8eb6f5"
+
+color-link identifier "#f58ee0"
+color-link identifier.class "#9898a6"
+
+color-link preproc "#9898a6"
+
+color-link special "#ffbb88"
+
+color-link statement "#f58ee0"
+
+color-link symbol.operator "#868690"
+color-link symbol.tag "#868690"
+
+color-link type "#9898a6"
+
+color-link underlined "#f58ee0"
+
+color-link error "bold #0f1014,#f58ee0"
+color-link todo "bold #9898a6,#111216"
+color-link hlsearch "#111216,#9898a6"
+color-link statusline "#575861,#111216"
+color-link tabbar "#43444d,#111216"
+color-link indent-char "#43444d"
+color-link line-number "#43444d,#111216"
+color-link current-line-number "#575861,#111216"
+
+color-link diff-added "#8eb6f5,#111216"
+color-link diff-modified "#43444d,#111216"
+color-link diff-deleted "#f58ee0,#111216"
+color-link gutter-error "#f58ee0,#111216"
+color-link gutter-warning "#c58fff,#111216"
+
+color-link cursor-line "#111216"
+color-link color-column "#111216"

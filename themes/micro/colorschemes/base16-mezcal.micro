@@ -1,0 +1,44 @@
+# Base16 Mezcal - micro color scheme
+# Scheme by Teshre
+
+color-link default "#e0d8c8,#13110e"
+
+color-link comment "#6e6450"
+
+color-link constant "#d9a441"
+color-link constant.specialChar "#4e462c"
+color-link constant.string "#a8b84a"
+
+color-link identifier "#da6e54"
+color-link identifier.class "#d9a441"
+
+color-link preproc "#d9a441"
+
+color-link special "#6fc8ae"
+
+color-link statement "#da6e54"
+
+color-link symbol.operator "#e0d8c8"
+color-link symbol.tag "#e0d8c8"
+
+color-link type "#d9a441"
+
+color-link underlined "#da6e54"
+
+color-link error "bold #13110e,#da6e54"
+color-link todo "bold #d9a441,#221f14"
+color-link hlsearch "#221f14,#d9a441"
+color-link statusline "#a79e8c,#36301e"
+color-link tabbar "#6e6450,#221f14"
+color-link indent-char "#6e6450"
+color-link line-number "#6e6450,#221f14"
+color-link current-line-number "#a79e8c,#221f14"
+
+color-link diff-added "#a8b84a,#221f14"
+color-link diff-modified "#6e6450,#221f14"
+color-link diff-deleted "#da6e54,#221f14"
+color-link gutter-error "#da6e54,#221f14"
+color-link gutter-warning "#8aa6c0,#221f14"
+
+color-link cursor-line "#221f14"
+color-link color-column "#221f14"

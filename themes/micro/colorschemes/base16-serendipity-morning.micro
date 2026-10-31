@@ -1,0 +1,44 @@
+# Base16 Serendipity Morning - micro color scheme
+# Scheme by Micheal Andreuzza (https://michaelandreuzza.com/)
+
+color-link default "#3f4363,#f6f7fb"
+
+color-link comment "#6d7296"
+
+color-link constant "#c25a4d"
+color-link constant.specialChar "#2f7aab"
+color-link constant.string "#2f7aab"
+
+color-link identifier "#c25a4d"
+color-link identifier.class "#785fd0"
+
+color-link preproc "#785fd0"
+
+color-link special "#e58678"
+
+color-link statement "#c25a4d"
+
+color-link symbol.operator "#3f4363"
+color-link symbol.tag "#3f4363"
+
+color-link type "#785fd0"
+
+color-link underlined "#c25a4d"
+
+color-link error "bold #f6f7fb,#c25a4d"
+color-link todo "bold #785fd0,#eaebee"
+color-link hlsearch "#eaebee,#785fd0"
+color-link statusline "#505575,#eaebee"
+color-link tabbar "#6d7296,#eaebee"
+color-link indent-char "#6d7296"
+color-link line-number "#6d7296,#eaebee"
+color-link current-line-number "#505575,#eaebee"
+
+color-link diff-added "#2f7aab,#eaebee"
+color-link diff-modified "#6d7296,#eaebee"
+color-link diff-deleted "#c25a4d,#eaebee"
+color-link gutter-error "#c25a4d,#eaebee"
+color-link gutter-warning "#6288d8,#eaebee"
+
+color-link cursor-line "#eaebee"
+color-link color-column "#eaebee"

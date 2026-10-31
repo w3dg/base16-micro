@@ -1,0 +1,44 @@
+# Base16 Neovim Light - micro color scheme
+# Scheme by https://github.com/neovim/neovim/blob/master/src/nvim/highlight_group.c
+
+color-link default "#14161b,#e0e2ea"
+
+color-link comment "#4f5258"
+
+color-link constant "#8b4513"
+color-link constant.specialChar "#a52a2a"
+color-link constant.string "#005523"
+
+color-link identifier "#590008"
+color-link identifier.class "#6b5300"
+
+color-link preproc "#6b5300"
+
+color-link special "#007373"
+
+color-link statement "#590008"
+
+color-link symbol.operator "#14161b"
+color-link symbol.tag "#14161b"
+
+color-link type "#6b5300"
+
+color-link underlined "#590008"
+
+color-link error "bold #e0e2ea,#590008"
+color-link todo "bold #6b5300,#eef1f8"
+color-link hlsearch "#eef1f8,#6b5300"
+color-link statusline "#2c2e33,#9b9ea4"
+color-link tabbar "#4f5258,#eef1f8"
+color-link indent-char "#4f5258"
+color-link line-number "#4f5258,#eef1f8"
+color-link current-line-number "#2c2e33,#eef1f8"
+
+color-link diff-added "#005523,#eef1f8"
+color-link diff-modified "#4f5258,#eef1f8"
+color-link diff-deleted "#590008,#eef1f8"
+color-link gutter-error "#590008,#eef1f8"
+color-link gutter-warning "#004c73,#eef1f8"
+
+color-link cursor-line "#eef1f8"
+color-link color-column "#eef1f8"

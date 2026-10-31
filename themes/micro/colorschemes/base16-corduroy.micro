@@ -1,0 +1,44 @@
+# Base16 Corduroy - micro color scheme
+# Scheme by taysatte (https://github.com/taysatte)
+
+color-link default "#cdc8d0,#1d1920"
+
+color-link comment "#6f6373"
+
+color-link constant "#e99d90"
+color-link constant.specialChar "#887b8c"
+color-link constant.string "#4b8686"
+
+color-link identifier "#e06278"
+color-link identifier.class "#edb392"
+
+color-link preproc "#edb392"
+
+color-link special "#e99d90"
+
+color-link statement "#e06278"
+
+color-link symbol.operator "#cdc8d0"
+color-link symbol.tag "#cdc8d0"
+
+color-link type "#edb392"
+
+color-link underlined "#e06278"
+
+color-link error "bold #1d1920,#e06278"
+color-link todo "bold #edb392,#261e2a"
+color-link hlsearch "#261e2a,#edb392"
+color-link statusline "#887b8c,#2e2533"
+color-link tabbar "#6f6373,#261e2a"
+color-link indent-char "#6f6373"
+color-link line-number "#6f6373,#261e2a"
+color-link current-line-number "#887b8c,#261e2a"
+
+color-link diff-added "#4b8686,#261e2a"
+color-link diff-modified "#6f6373,#261e2a"
+color-link diff-deleted "#e06278,#261e2a"
+color-link gutter-error "#e06278,#261e2a"
+color-link gutter-warning "#d27f91,#261e2a"
+
+color-link cursor-line "#261e2a"
+color-link color-column "#261e2a"

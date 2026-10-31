@@ -1,0 +1,44 @@
+# Base16 Ocote - micro color scheme
+# Scheme by Teshre
+
+color-link default "#e7dcc6,#14100c"
+
+color-link comment "#6b6253"
+
+color-link constant "#e8843a"
+color-link constant.specialChar "#4a3e2c"
+color-link constant.string "#7dc97a"
+
+color-link identifier "#e8635a"
+color-link identifier.class "#e8b43a"
+
+color-link preproc "#e8b43a"
+
+color-link special "#6dd8c8"
+
+color-link statement "#e8635a"
+
+color-link symbol.operator "#e7dcc6"
+color-link symbol.tag "#e7dcc6"
+
+color-link type "#e8b43a"
+
+color-link underlined "#e8635a"
+
+color-link error "bold #14100c,#e8635a"
+color-link todo "bold #e8b43a,#211b13"
+color-link hlsearch "#211b13,#e8b43a"
+color-link statusline "#a99f8d,#3a2e1c"
+color-link tabbar "#6b6253,#211b13"
+color-link indent-char "#6b6253"
+color-link line-number "#6b6253,#211b13"
+color-link current-line-number "#a99f8d,#211b13"
+
+color-link diff-added "#7dc97a,#211b13"
+color-link diff-modified "#6b6253,#211b13"
+color-link diff-deleted "#e8635a,#211b13"
+color-link gutter-error "#e8635a,#211b13"
+color-link gutter-warning "#82a6e0,#211b13"
+
+color-link cursor-line "#211b13"
+color-link color-column "#211b13"

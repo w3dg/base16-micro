@@ -1,0 +1,44 @@
+# Base16 Brasa - micro color scheme
+# Scheme by Teshre
+
+color-link default "#f0d8c0,#1a0f0a"
+
+color-link comment "#7a6150"
+
+color-link constant "#ff7a4d"
+color-link constant.specialChar "#5a3a28"
+color-link constant.string "#b8c24a"
+
+color-link identifier "#f2685a"
+color-link identifier.class "#f0b23a"
+
+color-link preproc "#f0b23a"
+
+color-link special "#6bc8b8"
+
+color-link statement "#f2685a"
+
+color-link symbol.operator "#f0d8c0"
+color-link symbol.tag "#f0d8c0"
+
+color-link type "#f0b23a"
+
+color-link underlined "#f2685a"
+
+color-link error "bold #1a0f0a,#f2685a"
+color-link todo "bold #f0b23a,#2b1c14"
+color-link hlsearch "#2b1c14,#f0b23a"
+color-link statusline "#b59d88,#45261a"
+color-link tabbar "#7a6150,#2b1c14"
+color-link indent-char "#7a6150"
+color-link line-number "#7a6150,#2b1c14"
+color-link current-line-number "#b59d88,#2b1c14"
+
+color-link diff-added "#b8c24a,#2b1c14"
+color-link diff-modified "#7a6150,#2b1c14"
+color-link diff-deleted "#f2685a,#2b1c14"
+color-link gutter-error "#f2685a,#2b1c14"
+color-link gutter-warning "#9aa6e0,#2b1c14"
+
+color-link cursor-line "#2b1c14"
+color-link color-column "#2b1c14"

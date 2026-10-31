@@ -1,0 +1,44 @@
+# Base16 Lichen Chartreuse Light - micro color scheme
+# Scheme by Aaron Colichia (https://aaron.colichia.org/)
+
+color-link default "#2d302b,#f5f7f2"
+
+color-link comment "#687161"
+
+color-link constant "#8b5d27"
+color-link constant.specialChar "#8a4f67"
+color-link constant.string "#2f7462"
+
+color-link identifier "#a34740"
+color-link identifier.class "#506b29"
+
+color-link preproc "#506b29"
+
+color-link special "#356569"
+
+color-link statement "#a34740"
+
+color-link symbol.operator "#2d302b"
+color-link symbol.tag "#2d302b"
+
+color-link type "#506b29"
+
+color-link underlined "#a34740"
+
+color-link error "bold #f5f7f2,#a34740"
+color-link todo "bold #506b29,#ecefe7"
+color-link hlsearch "#ecefe7,#506b29"
+color-link statusline "#4e5149,#cfe4ae"
+color-link tabbar "#687161,#ecefe7"
+color-link indent-char "#687161"
+color-link line-number "#687161,#ecefe7"
+color-link current-line-number "#4e5149,#ecefe7"
+
+color-link diff-added "#2f7462,#ecefe7"
+color-link diff-modified "#687161,#ecefe7"
+color-link diff-deleted "#a34740,#ecefe7"
+color-link gutter-error "#a34740,#ecefe7"
+color-link gutter-warning "#356e8a,#ecefe7"
+
+color-link cursor-line "#ecefe7"
+color-link color-column "#ecefe7"

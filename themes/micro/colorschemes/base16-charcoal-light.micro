@@ -1,44 +1,44 @@
 # Base16 Charcoal Light - micro color scheme
 # Scheme by Mubin Muhammad (https://github.com/mubin6th)
 
-color-link default "#35291d,#d6b891"
+color-link default "#382e1b,#cabda0"
 
-color-link comment "#887254"
+color-link comment "#645538"
 
-color-link constant "#120f09"
-color-link constant.specialChar "#66553f"
-color-link constant.string "#120f09"
+color-link constant "#110e06"
+color-link constant.specialChar "#4b3e26"
+color-link constant.string "#110e06"
 
-color-link identifier "#413325"
-color-link identifier.class "#292016"
+color-link identifier "#382e1b"
+color-link identifier.class "#110e06"
 
-color-link preproc "#292016"
+color-link preproc "#110e06"
 
-color-link special "#413325"
+color-link special "#110e06"
 
-color-link statement "#413325"
+color-link statement "#382e1b"
 
-color-link symbol.operator "#35291d"
-color-link symbol.tag "#35291d"
+color-link symbol.operator "#382e1b"
+color-link symbol.tag "#382e1b"
 
-color-link type "#292016"
+color-link type "#110e06"
 
-color-link underlined "#413325"
+color-link underlined "#382e1b"
 
-color-link error "bold #d6b891,#413325"
-color-link todo "bold #292016,#c0a179"
-color-link hlsearch "#c0a179,#292016"
-color-link statusline "#1e1812,#a28662"
-color-link tabbar "#887254,#c0a179"
-color-link indent-char "#887254"
-color-link line-number "#887254,#c0a179"
-color-link current-line-number "#1e1812,#c0a179"
+color-link error "bold #cabda0,#382e1b"
+color-link todo "bold #110e06,#bcad8c"
+color-link hlsearch "#bcad8c,#110e06"
+color-link statusline "#110e06,#af9f7d"
+color-link tabbar "#645538,#bcad8c"
+color-link indent-char "#645538"
+color-link line-number "#645538,#bcad8c"
+color-link current-line-number "#110e06,#bcad8c"
 
-color-link diff-added "#120f09,#c0a179"
-color-link diff-modified "#887254,#c0a179"
-color-link diff-deleted "#413325,#c0a179"
-color-link gutter-error "#413325,#c0a179"
-color-link gutter-warning "#120f09,#c0a179"
+color-link diff-added "#110e06,#bcad8c"
+color-link diff-modified "#645538,#bcad8c"
+color-link diff-deleted "#382e1b,#bcad8c"
+color-link gutter-error "#382e1b,#bcad8c"
+color-link gutter-warning "#251e0f,#bcad8c"
 
-color-link cursor-line "#c0a179"
-color-link color-column "#c0a179"
+color-link cursor-line "#bcad8c"
+color-link color-column "#bcad8c"

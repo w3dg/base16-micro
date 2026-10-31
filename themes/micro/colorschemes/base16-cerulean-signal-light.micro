@@ -1,0 +1,44 @@
+# Base16 Cerulean Signal Light - micro color scheme
+# Scheme by Aaron Colichia (https://aaron.colichia.org/)
+
+color-link default "#232b38,#f7f9fc"
+
+color-link comment "#637287"
+
+color-link constant "#9a4f00"
+color-link constant.specialChar "#7a4e3c"
+color-link constant.string "#17795e"
+
+color-link identifier "#b4233d"
+color-link identifier.class "#6f6300"
+
+color-link preproc "#6f6300"
+
+color-link special "#00727e"
+
+color-link statement "#b4233d"
+
+color-link symbol.operator "#232b38"
+color-link symbol.tag "#232b38"
+
+color-link type "#6f6300"
+
+color-link underlined "#b4233d"
+
+color-link error "bold #f7f9fc,#b4233d"
+color-link todo "bold #6f6300,#eef4fb"
+color-link hlsearch "#eef4fb,#6f6300"
+color-link statusline "#566579,#dde7f1"
+color-link tabbar "#637287,#eef4fb"
+color-link indent-char "#637287"
+color-link line-number "#637287,#eef4fb"
+color-link current-line-number "#566579,#eef4fb"
+
+color-link diff-added "#17795e,#eef4fb"
+color-link diff-modified "#637287,#eef4fb"
+color-link diff-deleted "#b4233d,#eef4fb"
+color-link gutter-error "#b4233d,#eef4fb"
+color-link gutter-warning "#006fa8,#eef4fb"
+
+color-link cursor-line "#eef4fb"
+color-link color-column "#eef4fb"

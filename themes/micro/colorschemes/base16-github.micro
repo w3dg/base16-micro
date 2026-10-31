@@ -1,44 +1,44 @@
 # Base16 Github - micro color scheme
 # Scheme by Tinted Theming (https://github.com/tinted-theming)
 
-color-link default "#424a53,#eaeef2"
+color-link default "#454c54,#ffffff"
 
-color-link comment "#8c959f"
+color-link comment "#818b98"
 
-color-link constant "#e16f24"
-color-link constant.specialChar "#4d2d00"
-color-link constant.string "#2da44e"
+color-link constant "#953800"
+color-link constant.specialChar "#a40e26"
+color-link constant.string "#116329"
 
-color-link identifier "#fa4549"
-color-link identifier.class "#bf8700"
+color-link identifier "#cf222e"
+color-link identifier.class "#9a6700"
 
-color-link preproc "#bf8700"
+color-link preproc "#9a6700"
 
-color-link special "#339d9b"
+color-link special "#1b7c83"
 
-color-link statement "#fa4549"
+color-link statement "#cf222e"
 
-color-link symbol.operator "#424a53"
-color-link symbol.tag "#424a53"
+color-link symbol.operator "#454c54"
+color-link symbol.tag "#454c54"
 
-color-link type "#bf8700"
+color-link type "#9a6700"
 
-color-link underlined "#fa4549"
+color-link underlined "#cf222e"
 
-color-link error "bold #eaeef2,#fa4549"
-color-link todo "bold #bf8700,#d0d7de"
-color-link hlsearch "#d0d7de,#bf8700"
-color-link statusline "#6e7781,#afb8c1"
-color-link tabbar "#8c959f,#d0d7de"
-color-link indent-char "#8c959f"
-color-link line-number "#8c959f,#d0d7de"
-color-link current-line-number "#6e7781,#d0d7de"
+color-link error "bold #ffffff,#cf222e"
+color-link todo "bold #9a6700,#f6f8fa"
+color-link hlsearch "#f6f8fa,#9a6700"
+color-link statusline "#59636e,#d1d9e0"
+color-link tabbar "#818b98,#f6f8fa"
+color-link indent-char "#818b98"
+color-link line-number "#818b98,#f6f8fa"
+color-link current-line-number "#59636e,#f6f8fa"
 
-color-link diff-added "#2da44e,#d0d7de"
-color-link diff-modified "#8c959f,#d0d7de"
-color-link diff-deleted "#fa4549,#d0d7de"
-color-link gutter-error "#fa4549,#d0d7de"
-color-link gutter-warning "#218bff,#d0d7de"
+color-link diff-added "#116329,#f6f8fa"
+color-link diff-modified "#818b98,#f6f8fa"
+color-link diff-deleted "#cf222e,#f6f8fa"
+color-link gutter-error "#cf222e,#f6f8fa"
+color-link gutter-warning "#0969da,#f6f8fa"
 
-color-link cursor-line "#d0d7de"
-color-link color-column "#d0d7de"
+color-link cursor-line "#f6f8fa"
+color-link color-column "#f6f8fa"

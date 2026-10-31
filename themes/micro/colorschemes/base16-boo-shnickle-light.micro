@@ -1,0 +1,44 @@
+# Base16 boo-shnickle-light - micro color scheme
+# Scheme by boo-shnickle (@boo_shnickle)
+
+color-link default "#5b5b49,#ffffcc"
+
+color-link comment "#9c9c7d"
+
+color-link constant "#ffdc99"
+color-link constant.specialChar "#e5d6a6"
+color-link constant.string "#e7ff99"
+
+color-link identifier "#ffbfa5"
+color-link identifier.class "#fff299"
+
+color-link preproc "#fff299"
+
+color-link special "#bfffc5"
+
+color-link statement "#ffbfa5"
+
+color-link symbol.operator "#5b5b49"
+color-link symbol.tag "#5b5b49"
+
+color-link type "#fff299"
+
+color-link underlined "#ffbfa5"
+
+color-link error "bold #ffffcc,#ffbfa5"
+color-link todo "bold #fff299,#dedeb2"
+color-link hlsearch "#dedeb2,#fff299"
+color-link statusline "#7c7c63,#bdbd97"
+color-link tabbar "#9c9c7d,#dedeb2"
+color-link indent-char "#9c9c7d"
+color-link line-number "#9c9c7d,#dedeb2"
+color-link current-line-number "#7c7c63,#dedeb2"
+
+color-link diff-added "#e7ff99,#dedeb2"
+color-link diff-modified "#9c9c7d,#dedeb2"
+color-link diff-deleted "#ffbfa5,#dedeb2"
+color-link gutter-error "#ffbfa5,#dedeb2"
+color-link gutter-warning "#bfbfd9,#dedeb2"
+
+color-link cursor-line "#dedeb2"
+color-link color-column "#dedeb2"

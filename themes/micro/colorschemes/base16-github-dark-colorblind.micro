@@ -1,0 +1,44 @@
+# Base16 Github Dark Colorblind - micro color scheme
+# Scheme by Tinted Theming (https://github.com/tinted-theming)
+
+color-link default "#d1d7e0,#0d1117"
+
+color-link comment "#656c76"
+
+color-link constant "#ffa657"
+color-link constant.specialChar "#ffa657"
+color-link constant.string "#58a6ff"
+
+color-link identifier "#f0883e"
+color-link identifier.class "#d29922"
+
+color-link preproc "#d29922"
+
+color-link special "#39c5cf"
+
+color-link statement "#f0883e"
+
+color-link symbol.operator "#d1d7e0"
+color-link symbol.tag "#d1d7e0"
+
+color-link type "#d29922"
+
+color-link underlined "#f0883e"
+
+color-link error "bold #0d1117,#f0883e"
+color-link todo "bold #d29922,#151b23"
+color-link hlsearch "#151b23,#d29922"
+color-link statusline "#9198a1,#2f3742"
+color-link tabbar "#656c76,#151b23"
+color-link indent-char "#656c76"
+color-link line-number "#656c76,#151b23"
+color-link current-line-number "#9198a1,#151b23"
+
+color-link diff-added "#58a6ff,#151b23"
+color-link diff-modified "#656c76,#151b23"
+color-link diff-deleted "#f0883e,#151b23"
+color-link gutter-error "#f0883e,#151b23"
+color-link gutter-warning "#58a6ff,#151b23"
+
+color-link cursor-line "#151b23"
+color-link color-column "#151b23"

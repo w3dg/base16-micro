@@ -1,0 +1,44 @@
+# Base16 Pastelón de Amarillos Dark - micro color scheme
+# Scheme by Richard Martinez (https://sonofmartinus.com)
+
+color-link default "#ffe0a3,#180d18"
+
+color-link comment "#a0747c"
+
+color-link constant "#f99a32"
+color-link constant.specialChar "#e2764a"
+color-link constant.string "#3ccb83"
+
+color-link identifier "#ff646a"
+color-link identifier.class "#ffc84a"
+
+color-link preproc "#ffc84a"
+
+color-link special "#35c4b6"
+
+color-link statement "#ff646a"
+
+color-link symbol.operator "#ffe0a3"
+color-link symbol.tag "#ffe0a3"
+
+color-link type "#ffc84a"
+
+color-link underlined "#ff646a"
+
+color-link error "bold #180d18,#ff646a"
+color-link todo "bold #ffc84a,#2a1424"
+color-link hlsearch "#2a1424,#ffc84a"
+color-link statusline "#c39a89,#432031"
+color-link tabbar "#a0747c,#2a1424"
+color-link indent-char "#a0747c"
+color-link line-number "#a0747c,#2a1424"
+color-link current-line-number "#c39a89,#2a1424"
+
+color-link diff-added "#3ccb83,#2a1424"
+color-link diff-modified "#a0747c,#2a1424"
+color-link diff-deleted "#ff646a,#2a1424"
+color-link gutter-error "#ff646a,#2a1424"
+color-link gutter-warning "#5a9fe6,#2a1424"
+
+color-link cursor-line "#2a1424"
+color-link color-column "#2a1424"

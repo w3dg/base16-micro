@@ -1,12 +1,12 @@
 # Base16 Ayu Mirage - micro color scheme
-# Scheme by Khue Nguyen &lt;Z5483Y@gmail.com&gt;
+# Scheme by Tinted Theming (https://github.com/tinted-theming), Ayu Theme (https://github.com/ayu-theme)
 
-color-link default "#cccac2,#171b24"
+color-link default "#cccac2,#1f2430"
 
-color-link comment "#707a8c"
+color-link comment "#4a5059"
 
 color-link constant "#ffad66"
-color-link constant.specialChar "#f29e74"
+color-link constant.specialChar "#f27983"
 color-link constant.string "#d5ff80"
 
 color-link identifier "#f28779"
@@ -25,20 +25,20 @@ color-link type "#ffd173"
 
 color-link underlined "#f28779"
 
-color-link error "bold #171b24,#f28779"
-color-link todo "bold #ffd173,#1f2430"
-color-link hlsearch "#1f2430,#ffd173"
-color-link statusline "#8a9199,#242936"
-color-link tabbar "#707a8c,#1f2430"
-color-link indent-char "#707a8c"
-color-link line-number "#707a8c,#1f2430"
-color-link current-line-number "#8a9199,#1f2430"
+color-link error "bold #1f2430,#f28779"
+color-link todo "bold #ffd173,#242936"
+color-link hlsearch "#242936,#ffd173"
+color-link statusline "#707a8c,#323844"
+color-link tabbar "#4a5059,#242936"
+color-link indent-char "#4a5059"
+color-link line-number "#4a5059,#242936"
+color-link current-line-number "#707a8c,#242936"
 
-color-link diff-added "#d5ff80,#1f2430"
-color-link diff-modified "#707a8c,#1f2430"
-color-link diff-deleted "#f28779,#1f2430"
-color-link gutter-error "#f28779,#1f2430"
-color-link gutter-warning "#5ccfe6,#1f2430"
+color-link diff-added "#d5ff80,#242936"
+color-link diff-modified "#4a5059,#242936"
+color-link diff-deleted "#f28779,#242936"
+color-link gutter-error "#f28779,#242936"
+color-link gutter-warning "#73d0ff,#242936"
 
-color-link cursor-line "#1f2430"
-color-link color-column "#1f2430"
+color-link cursor-line "#242936"
+color-link color-column "#242936"

@@ -1,0 +1,44 @@
+# Base16 Swamp Light - micro color scheme
+# Scheme by Masroof Maindak (https://github.com/masroof-maindak)
+
+color-link default "#64513e,#f1e3d1"
+
+color-link comment "#b5a492"
+
+color-link constant "#64513e"
+color-link constant.specialChar "#75858c"
+color-link constant.string "#908d6a"
+
+color-link identifier "#d09700"
+color-link identifier.class "#993333"
+
+color-link preproc "#993333"
+
+color-link special "#d09700"
+
+color-link statement "#d09700"
+
+color-link symbol.operator "#64513e"
+color-link symbol.tag "#64513e"
+
+color-link type "#993333"
+
+color-link underlined "#d09700"
+
+color-link error "bold #f1e3d1,#d09700"
+color-link todo "bold #993333,#ddcebc"
+color-link hlsearch "#ddcebc,#993333"
+color-link statusline "#a0907d,#c9b9a7"
+color-link tabbar "#b5a492,#ddcebc"
+color-link indent-char "#b5a492"
+color-link line-number "#b5a492,#ddcebc"
+color-link current-line-number "#a0907d,#ddcebc"
+
+color-link diff-added "#908d6a,#ddcebc"
+color-link diff-modified "#b5a492,#ddcebc"
+color-link diff-deleted "#d09700,#ddcebc"
+color-link gutter-error "#d09700,#ddcebc"
+color-link gutter-warning "#bf7979,#ddcebc"
+
+color-link cursor-line "#ddcebc"
+color-link color-column "#ddcebc"

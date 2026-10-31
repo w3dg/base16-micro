@@ -1,0 +1,44 @@
+# Base16 Praha - micro color scheme
+# Scheme by xscriptor (https://github.com/xscriptor)
+
+color-link default "#ffffff,#1a1a1a"
+
+color-link comment "#6272a4"
+
+color-link constant "#ff9c7c"
+color-link constant.specialChar "#af6e5a"
+color-link constant.string "#b8e6a0"
+
+color-link identifier "#ff5555"
+color-link identifier.class "#ffe4a3"
+
+color-link preproc "#ffe4a3"
+
+color-link special "#8be9fd"
+
+color-link statement "#ff5555"
+
+color-link symbol.operator "#ffffff"
+color-link symbol.tag "#ffffff"
+
+color-link type "#ffe4a3"
+
+color-link underlined "#ff5555"
+
+color-link error "bold #1a1a1a,#ff5555"
+color-link todo "bold #ffe4a3,#2a2a2a"
+color-link hlsearch "#2a2a2a,#ffe4a3"
+color-link statusline "#989898,#353535"
+color-link tabbar "#6272a4,#2a2a2a"
+color-link indent-char "#6272a4"
+color-link line-number "#6272a4,#2a2a2a"
+color-link current-line-number "#989898,#2a2a2a"
+
+color-link diff-added "#b8e6a0,#2a2a2a"
+color-link diff-modified "#6272a4,#2a2a2a"
+color-link diff-deleted "#ff5555,#2a2a2a"
+color-link gutter-error "#ff5555,#2a2a2a"
+color-link gutter-warning "#bd93f9,#2a2a2a"
+
+color-link cursor-line "#2a2a2a"
+color-link color-column "#2a2a2a"

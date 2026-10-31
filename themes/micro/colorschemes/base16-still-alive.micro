@@ -1,44 +1,44 @@
 # Base16 Still Alive - micro color scheme
-# Scheme by Derrick McKee (derrick.mckee@gmail.com)
+# Scheme by Derrick McKee (derrick.mckee@gmail.com), Tinted Theming (https://github.com/tinted-theming)
 
-color-link default "#d80000,#f0f0f0"
+color-link default "#4c383b,#f0f0f0"
 
-color-link comment "#f01818"
+color-link comment "#a3a3a3"
 
-color-link constant "#183048"
+color-link constant "#f0d848"
 color-link constant.specialChar "#140c0d"
-color-link constant.string "#5c5c6a"
+color-link constant.string "#30a860"
 
-color-link identifier "#487830"
-color-link identifier.class "#426395"
+color-link identifier "#d80000"
+color-link identifier.class "#fff018"
 
-color-link preproc "#426395"
+color-link preproc "#fff018"
 
-color-link special "#2c3c57"
+color-link special "#36d3ff"
 
-color-link statement "#487830"
+color-link statement "#d80000"
 
-color-link symbol.operator "#d80000"
-color-link symbol.tag "#d80000"
+color-link symbol.operator "#4c383b"
+color-link symbol.tag "#4c383b"
 
-color-link type "#426395"
+color-link type "#fff018"
 
-color-link underlined "#487830"
+color-link underlined "#d80000"
 
-color-link error "bold #f0f0f0,#487830"
-color-link todo "bold #426395,#f0d848"
-color-link hlsearch "#f0d848,#426395"
-color-link statusline "#f00000,#fff018"
-color-link tabbar "#f01818,#f0d848"
-color-link indent-char "#f01818"
-color-link line-number "#f01818,#f0d848"
-color-link current-line-number "#f00000,#f0d848"
+color-link error "bold #f0f0f0,#d80000"
+color-link todo "bold #fff018,#d6d6d6"
+color-link hlsearch "#d6d6d6,#fff018"
+color-link statusline "#605758,#bdbdbd"
+color-link tabbar "#a3a3a3,#d6d6d6"
+color-link indent-char "#a3a3a3"
+color-link line-number "#a3a3a3,#d6d6d6"
+color-link current-line-number "#605758,#d6d6d6"
 
-color-link diff-added "#5c5c6a,#f0d848"
-color-link diff-modified "#f01818,#f0d848"
-color-link diff-deleted "#487830,#f0d848"
-color-link gutter-error "#487830,#f0d848"
-color-link gutter-warning "#001878,#f0d848"
+color-link diff-added "#30a860,#d6d6d6"
+color-link diff-modified "#a3a3a3,#d6d6d6"
+color-link diff-deleted "#d80000,#d6d6d6"
+color-link gutter-error "#d80000,#d6d6d6"
+color-link gutter-warning "#365eff,#d6d6d6"
 
-color-link cursor-line "#f0d848"
-color-link color-column "#f0d848"
+color-link cursor-line "#d6d6d6"
+color-link color-column "#d6d6d6"

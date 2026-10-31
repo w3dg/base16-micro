@@ -1,0 +1,44 @@
+# Base16 Github Dark Dimmed - micro color scheme
+# Scheme by Tinted Theming (https://github.com/tinted-theming)
+
+color-link default "#d1d7e0,#0d1117"
+
+color-link comment "#656c76"
+
+color-link constant "#f69d50"
+color-link constant.specialChar "#ff938a"
+color-link constant.string "#57ab5a"
+
+color-link identifier "#f47067"
+color-link identifier.class "#c69026"
+
+color-link preproc "#c69026"
+
+color-link special "#39c5cf"
+
+color-link statement "#f47067"
+
+color-link symbol.operator "#d1d7e0"
+color-link symbol.tag "#d1d7e0"
+
+color-link type "#c69026"
+
+color-link underlined "#f47067"
+
+color-link error "bold #0d1117,#f47067"
+color-link todo "bold #c69026,#151b23"
+color-link hlsearch "#151b23,#c69026"
+color-link statusline "#9198a1,#2f3742"
+color-link tabbar "#656c76,#151b23"
+color-link indent-char "#656c76"
+color-link line-number "#656c76,#151b23"
+color-link current-line-number "#9198a1,#151b23"
+
+color-link diff-added "#57ab5a,#151b23"
+color-link diff-modified "#656c76,#151b23"
+color-link diff-deleted "#f47067,#151b23"
+color-link gutter-error "#f47067,#151b23"
+color-link gutter-warning "#539bf5,#151b23"
+
+color-link cursor-line "#151b23"
+color-link color-column "#151b23"

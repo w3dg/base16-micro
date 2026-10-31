@@ -1,0 +1,44 @@
+# Base16 Helsinki - micro color scheme
+# Scheme by xscriptor (https://github.com/xscriptor)
+
+color-link default "#544d40,#f8fafe"
+
+color-link comment "#b0a999"
+
+color-link constant "#268da6"
+color-link constant.specialChar "#1b6374"
+color-link constant.string "#733d9a"
+
+color-link identifier "#1faa9e"
+color-link identifier.class "#2e70ad"
+
+color-link preproc "#2e70ad"
+
+color-link special "#bd4c3d"
+
+color-link statement "#1faa9e"
+
+color-link symbol.operator "#544d40"
+color-link symbol.tag "#544d40"
+
+color-link type "#2e70ad"
+
+color-link underlined "#1faa9e"
+
+color-link error "bold #f8fafe,#1faa9e"
+color-link todo "bold #2e70ad,#edeef1"
+color-link hlsearch "#edeef1,#2e70ad"
+color-link statusline "#8d8a82,#e4e5e7"
+color-link tabbar "#b0a999,#edeef1"
+color-link indent-char "#b0a999"
+color-link line-number "#b0a999,#edeef1"
+color-link current-line-number "#8d8a82,#edeef1"
+
+color-link diff-added "#733d9a,#edeef1"
+color-link diff-modified "#b0a999,#edeef1"
+color-link diff-deleted "#1faa9e,#edeef1"
+color-link gutter-error "#1faa9e,#edeef1"
+color-link gutter-warning "#b55a0f,#edeef1"
+
+color-link cursor-line "#edeef1"
+color-link color-column "#edeef1"

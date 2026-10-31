@@ -1,0 +1,44 @@
+# Base16 Serendipity Sunset - micro color scheme
+# Scheme by Micheal Andreuzza (https://michaelandreuzza.com/)
+
+color-link default "#dee0ef,#202231"
+
+color-link comment "#8d8f9e"
+
+color-link constant "#d1918f"
+color-link constant.specialChar "#709bbd"
+color-link constant.string "#709bbd"
+
+color-link identifier "#d1918f"
+color-link identifier.class "#a392dc"
+
+color-link preproc "#a392dc"
+
+color-link special "#d6b4b4"
+
+color-link statement "#d1918f"
+
+color-link symbol.operator "#dee0ef"
+color-link symbol.tag "#dee0ef"
+
+color-link type "#a392dc"
+
+color-link underlined "#d1918f"
+
+color-link error "bold #202231,#d1918f"
+color-link todo "bold #a392dc,#272938"
+color-link hlsearch "#272938,#a392dc"
+color-link statusline "#6b6d7c,#272938"
+color-link tabbar "#8d8f9e,#272938"
+color-link indent-char "#8d8f9e"
+color-link line-number "#8d8f9e,#272938"
+color-link current-line-number "#6b6d7c,#272938"
+
+color-link diff-added "#709bbd,#272938"
+color-link diff-modified "#8d8f9e,#272938"
+color-link diff-deleted "#d1918f,#272938"
+color-link gutter-error "#d1918f,#272938"
+color-link gutter-warning "#a0b6e8,#272938"
+
+color-link cursor-line "#272938"
+color-link color-column "#272938"
