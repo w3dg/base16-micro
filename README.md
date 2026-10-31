@@ -62,15 +62,8 @@ At the root of this repo, run
 tinted-builder-rust build ./
 ```
 
-The themes should be built into `themes/micro/colorschemes/`. Put the built files in the `~/.config/micro/colorschemes/` directory.
+The themes should be built into `themes/micro/colorschemes/`. 
 
-After this, you can set the scheme by using Micro's command-line:
-
-```
-set colorscheme <SCHEME_NAME>
-```
-
----
 
 Originally this is the work of [kytta/base16-micro](https://github.com/kytta/base16-micro/) under an ISC License.
 
